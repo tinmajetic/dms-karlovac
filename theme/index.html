@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html data-wf-page="633c150e6d4cf3bd4ff2148b" data-wf-site="633c150e6d4cf3ac50f2148a" lang="hr"><head><link rel="preconnect" crossorigin="true" href="https://assets.website-files.com">{%- seo seo -%}
+  <meta charset="utf-8">
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/dms-karlovac.webflow.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]  }});</script>
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="{{ settings.site.favicon | default: "/assets/images/favicon.jpg" }}" rel="shortcut icon" type="image/x-icon">
+  <link href="{{ settings.site.apple_touch_icon | default: "/assets/images/webclip.jpg" }}" rel="apple-touch-icon">
+{{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script><style>.w-video.w-embed {
+            aspect-ratio: 16 / 9;
+        }</style></head>
+<body>
+  <section data-w-id="135be23a-cbd5-5593-c966-737f5a02632a" class="home-hero-section section-padding just-hero wf-section">
+    <div class="overflow-mask">
+      <div class="container">
+        <div class="home-hero-wrapper">
+          <div class="hero-text-wrapper">
+            <h1 class="hero-h1">{{ texts.-296ec39 }}</h1>
+            <p class="hero-paragraph">{{ texts.-38226859 }}</p>
+            <a href="{{ links.5cd788bc }}" class="button w-button">{{ texts.317d1171 }}</a><img class="image-28" src="{{ images.241c1556.url }}" alt="{{ images.241c1556.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="(max-width: 479px) 92vw, 100vw" loading="lazy">
+            <p class="paragraph">{{ texts.-3fd1a027 }}<br>{{ texts.-68aaf477 }}</p>
+          </div><img class="l-girl" src="{{ images.241c1556.url }}" width="400" alt="{{ images.241c1556.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" id="w-node-e27a98f3-a6ca-4b41-b354-79cb3f7d5c5e-4ff2148b" loading="lazy"><img class="r-girl" src="{{ images.5245f590.url }}" width="400" alt="{{ images.5245f590.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" id="w-node-_9b9e9734-f343-1d39-4778-e4b6a5c1af6f-4ff2148b" loading="lazy"><img class="l-boy" src="{{ images.-72116677.url }}" width="400" alt="{{ images.-72116677.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" loading="lazy"><img class="r-grandma" src="{{ images.-3b5f4b22.url }}" width="399" alt="{{ images.-3b5f4b22.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" id="w-node-_338197e0-596b-68f4-0430-51bff2e580e1-4ff2148b" loading="lazy">
+        </div>
+      </div>
+    </div>
+    {%- include "partials/nav-bar" -%}
+  </section>
+  <section class="blog-section section-padding wf-section">
+    <div class="container">
+      <div class="blog-section-wrapper">
+        <h2 class="heading">{{ texts.-1dbcfc72 }}</h2>
+        {%- assign collection = collections.novosti-blog | sort: "-created-on" | limit: 3 -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="blog-grid w-dyn-items w-row">
+            {%- for item in collection -%}<div role="listitem" class="blog-item w-dyn-item w-col w-col-4">
+              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img src="{{ item.data.f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
+                <div class="blog-date">{{ item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
+                <div class="blog-heading">{{ item.data.title }}</div>
+                <p class="blog-paragraph">{{ texts.-5286fc08 }}</p>
+              </a>
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+            <div>{{ texts.3d503d2b }}</div>
+          </div>{%- endif -%}
+        </div>
+        <a href="{{ links.2c48051 }}" class="button w-button">{{ texts.-73b26fba }}</a>
+      </div>
+    </div>
+  </section>
+  <section id="how-to-join" data-w-id="6c7e8e86-c0b2-1bd8-62d1-0bbf5c99b8dc" class="how-to-join-section section-padding wf-section">
+    <div class="container">
+      <h2 class="heading-2">{{ texts.c493efa }}</h2>
+      <div class="how-to-wrapper">
+        <div class="w-layout-grid how-to-grid">
+          <div id="w-node-c10b93ca-d771-9ff9-337c-76003352bac7-4ff2148b" class="arrow-box"><img src="{{ images.618bc5e7.url }}" loading="lazy" data-w-id="e687a4c3-be06-5f95-3bfb-7da126fd7da8" id="w-node-e687a4c3-be06-5f95-3bfb-7da126fd7da8-4ff2148b" alt="{{ images.618bc5e7.alt | trim | escape }}"></div>
+          <div id="w-node-_7b6fd572-6a35-8a45-722b-7b053edfff82-4ff2148b" class="how-to-text-box">
+            <ul role="list" class="how-to-list w-list-unstyled">
+              <li class="how-to-item">
+                <h3 class="heading-3">{{ texts.-5247d963 }}</h3>
+                <a id="w-node-_2309153a-00cc-7c67-e64a-35d9a267c0ef-4ff2148b" href="{{ links.48e26745 }}" target="_blank" class="link-3">{{ texts.-7a6739df }}<span class="doc-download-link">{{ texts.4816138 }}</span>{{ texts.55cd7efd }}<br><br>{{ texts.6efd6b5c }}</a>
+              </li>
+              <li class="how-to-item">
+                <h3 class="heading-3">{{ texts.-740bb902 }}</h3>
+                <div>{{ texts.-4c0d358a }}</div>
+              </li>
+              <li class="how-to-item _3">
+                <h3 class="heading-3">{{ texts.-3a8d6d63 }}</h3>
+                <div>{{ texts.285a407a }}<br><br>{{ texts.-44e4af44 }}</div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <a href="{{ links.48e26745 }}" target="_blank" class="button ghost-button w-button">{{ texts.6454951d }}</a>
+      </div>
+    </div>
+  </section>
+  <section id="why-join" class="why-join-section section-padding wf-section">
+    <div class="container">
+      <div class="w-layout-grid why-us-grid">
+        <div id="w-node-_7954d131-b732-10ea-c3ae-200c20d3e8d8-4ff2148b" class="why-us-text-wrap">
+          <div class="why-us-heading-wrap">
+            <div class="text-block">{{ texts.-2f3f92c1 }}</div>
+          </div>
+          <h2 class="heading-4">{{ texts.-90d115d }}</h2>
+          <div class="list-heading">{{ texts.76612012 }}</div>
+          <ul role="list" class="why-us-list w-list-unstyled">
+            <li class="why-us-list-item">
+              <div class="text-block-2">{{ texts.-1af2d2a }}</div>
+              <div class="text-block-2">{{ texts.-634001ac }}</div>
+              <div class="text-block-2">{{ texts.3a3561c6 }}</div>
+              <div class="text-block-2">{{ texts.-6bbef974 }}</div>
+              <div class="text-block-2">{{ texts.-2c17a73 }}</div>
+              <div class="text-block-2">{{ texts.-57a52470 }}</div>
+              <div class="text-block-2">{{ texts.-5359c7e0 }}</div>
+              <div class="text-block-2">{{ texts.-2c3a9c38 }}</div>
+              <div class="text-block-2">{{ texts.-54f3db15 }}</div>
+              <div class="text-block-2">{{ texts.4b3a475b }}</div>
+              <div class="text-block-2">{{ texts.32593689 }}</div>
+              <div class="text-block-2">{{ texts.-75d137e5 }}</div>
+              <div class="text-block-2">{{ texts.c9eef06 }}</div>
+              <div class="text-block-2">{{ texts.-46ed4145 }}</div>
+              <div class="text-block-2">{{ texts.-1010954b }}</div>
+            </li>
+          </ul>
+        </div><img class="image-9" src="{{ images.527728bf.url }}" width="440" alt="{{ images.527728bf.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;440px&quot;}]" sizes="(max-width: 767px) 100vw, 440px" id="w-node-_6c3a3ea7-2df7-948e-9304-8ebe0e2d59cd-4ff2148b" loading="lazy">
+      </div>
+      <div class="rights-content-wrapper">
+        <div id="w-node-cc92f7ae-3324-2632-82d4-6608f5dab1ac-4ff2148b" class="rights-wrapper">
+          <h3 data-w-id="9c0a646b-095d-5f14-9a40-405885c7b6c3" style="opacity:0" class="heading-5">{{ texts.635dd4f4 }}</h3>
+          <div class="rights-4-col-grid">
+            <div id="w-node-_43d878fc-5b29-87f2-9528-9d29114539a5-4ff2148b" data-w-id="43d878fc-5b29-87f2-9528-9d29114539a5" style="opacity:0" class="rights-item-wrap">
+              <div id="w-node-d109cbe6-0947-5d35-73b9-fb9a5bbc7b99-4ff2148b" class="rights-item"><img src="{{ images.-686fea1e.url }}" loading="lazy" alt="{{ images.-686fea1e.alt | trim | escape }}" class="image-26"></div>
+              <div class="text-block-3">{{ texts.-52161be6 }}</div>
+            </div>
+            <div id="w-node-eea2f5f2-fe0a-9e8c-e8ec-2f87e1d44980-4ff2148b" data-w-id="eea2f5f2-fe0a-9e8c-e8ec-2f87e1d44980" style="opacity:0" class="rights-item-wrap">
+              <div id="w-node-eea2f5f2-fe0a-9e8c-e8ec-2f87e1d44981-4ff2148b" class="rights-item"><img src="{{ images.-171b37e2.url }}" loading="lazy" alt="{{ images.-171b37e2.alt | trim | escape }}"></div>
+              <div class="text-block-3">{{ texts.-13593707 }}</div>
+            </div>
+            <div id="w-node-a12bee0c-fadc-d972-9fac-65ebe4d38e23-4ff2148b" data-w-id="a12bee0c-fadc-d972-9fac-65ebe4d38e23" style="opacity:0" class="rights-item-wrap">
+              <div id="w-node-a12bee0c-fadc-d972-9fac-65ebe4d38e24-4ff2148b" class="rights-item"><img src="{{ images.3179085b.url }}" loading="lazy" alt="{{ images.3179085b.alt | trim | escape }}"></div>
+              <div class="text-block-3">{{ texts.-17d92b55 }}</div>
+            </div>
+            <div id="w-node-cc7a798b-c682-51de-c9c2-787b0ec9bdbb-4ff2148b" data-w-id="cc7a798b-c682-51de-c9c2-787b0ec9bdbb" style="opacity:0" class="rights-item-wrap">
+              <div id="w-node-cc7a798b-c682-51de-c9c2-787b0ec9bdbc-4ff2148b" class="rights-item"><img src="{{ images.-1603af50.url }}" loading="lazy" alt="{{ images.-1603af50.alt | trim | escape }}"></div>
+              <div class="text-block-3">{{ texts.23f30b98 }}</div>
+            </div>
+          </div>
+          <div class="learn-more-buttton">
+            <a href="{{ links.55c97fd }}" target="_blank" class="text-link">{{ texts.a5d644 }}</a>
+            <div class="arrow-wrap"><img src="{{ images.-20c0efe.url }}" loading="lazy" alt="{{ images.-20c0efe.alt | trim | escape }}"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="about-us" class="about-section section-padding wf-section">
+    <div class="container">
+      <div class="content-wrappper">
+        <div class="about-grid-l">
+          <div id="w-node-c00a3be6-c6b7-997e-999b-5379e071c621-4ff2148b" class="about-gallery-1"><img class="image-10" src="{{ images.-5035a6fb.url }}" width="260" alt="{{ images.-5035a6fb.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-d33b1599-bfc6-924d-e792-950d9d5a6944-4ff2148b" loading="lazy"><img class="image-11" src="{{ images.-4962447f.url }}" width="260" alt="{{ images.-4962447f.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-_4ae4bde8-4215-1d72-1353-b3edb11bf5fc-4ff2148b" loading="lazy"><img class="image-21" src="{{ images.48edfdbf.url }}" alt="{{ images.48edfdbf.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-c8d7b483-af8d-a07e-ff60-bbf60df215f4-4ff2148b" loading="lazy"></div>
+          <div id="w-node-_96439e76-26a0-fdda-277f-1abb24f02bf8-4ff2148b" class="about-content-1">
+            <div class="about-content-wrap">
+              <div id="w-node-_8ac6a84a-2237-ee7f-0fad-228f46a01438-4ff2148b" class="text-block-4">{{ texts.-773abc48 }}</div>
+              <h2 id="w-node-_537f25fd-a469-145f-b5a4-a1bdc8911b5d-4ff2148b" class="orange-h2">{{ texts.-791dcbaf }}</h2>
+              <p id="w-node-d86b17d8-373b-89b2-0705-a4fe753c06da-4ff2148b" class="paragraph-4">{{ texts.-81bf7 }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="about-grid-l r">
+          <div id="w-node-ea1d1acd-5683-3654-98b9-962cd15c4aaf-4ff2148b" class="gallery-r"><img class="image-13" src="{{ images.305b8ef9.url }}" width="530" alt="{{ images.305b8ef9.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;197.328125px&quot;}]" sizes="(max-width: 479px) 29vw, (max-width: 1919px) 15vw, 197.328125px" id="w-node-_640b8cb8-9ce2-a573-751d-ededf91e10d3-4ff2148b" loading="lazy"><img src="{{ images.4fc1603b.url }}" loading="lazy" width="170" id="w-node-bdca5893-02d7-1556-da25-e031a5db2512-4ff2148b" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;197.3359375px&quot;}]" alt="{{ images.4fc1603b.alt | trim | escape }}" class="image-13"><img src="{{ images.-4ccbf5bd.url }}" loading="lazy" width="170" id="w-node-_7326ec2b-1363-7de4-331e-ae4d2647414c-4ff2148b" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;197.3359375px&quot;}]" alt="{{ images.-4ccbf5bd.alt | trim | escape }}" class="image-13"><img src="{{ images.-47ad6be0.url }}" loading="lazy" width="170" id="w-node-_47a37691-8999-56ce-6a87-547f944c73f5-4ff2148b" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;29vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;15vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;197.328125px&quot;}]" alt="{{ images.-47ad6be0.alt | trim | escape }}" class="image-13"></div>
+          <div id="w-node-f747246e-d3c5-c684-1243-88b4ec852c48-4ff2148b" class="about-content-1 _2">
+            <div class="about-content-wrap">
+              <div id="w-node-f747246e-d3c5-c684-1243-88b4ec852c4a-4ff2148b" class="text-block-4">{{ texts.-773abc48 }}</div>
+              <h2 id="w-node-f747246e-d3c5-c684-1243-88b4ec852c4c-4ff2148b" class="orange-h2">{{ texts.cd13e5e }}</h2>
+              <p id="w-node-f3862f46-e899-040f-09c9-23de9773956c-4ff2148b" class="paragraph-6">{{ texts.fcdf7d1 }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="about-grid-l">
+          <div id="w-node-de53cd59-5a2d-fe79-da41-ebca4af775f8-4ff2148b" class="about-gallery-1"><img class="image-10" src="{{ images.-2a51450e.url }}" width="260" alt="{{ images.-2a51450e.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-de53cd59-5a2d-fe79-da41-ebca4af775f9-4ff2148b" loading="lazy"><img class="image-11" src="{{ images.-4e80ce5c.url }}" width="260" alt="{{ images.-4e80ce5c.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-de53cd59-5a2d-fe79-da41-ebca4af775fa-4ff2148b" loading="lazy"><img class="image-12" src="{{ images.3f47bfd.url }}" width="260" alt="{{ images.3f47bfd.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-de53cd59-5a2d-fe79-da41-ebca4af775fb-4ff2148b" loading="lazy"></div>
+          <div id="w-node-de53cd59-5a2d-fe79-da41-ebca4af775fc-4ff2148b" class="about-content-1">
+            <div class="about-content-wrap">
+              <div id="w-node-de53cd59-5a2d-fe79-da41-ebca4af775fe-4ff2148b" class="text-block-4">{{ texts.-773abc48 }}</div>
+              <h2 id="w-node-de53cd59-5a2d-fe79-da41-ebca4af77600-4ff2148b" class="orange-h2">{{ texts.6e00e27b }}</h2>
+              <p id="w-node-de53cd59-5a2d-fe79-da41-ebca4af77602-4ff2148b" class="paragraph-5">{{ texts.7bf2ba5f }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="about-button-wrappper">
+        <a href="{{ links.765c6a14 }}" class="button about-button w-button">{{ texts.-4ef35400 }}</a>
+        <a href="{{ links.23 }}" class="button ghost-button about-ghost w-button">{{ texts.-7a78c36a }}</a>
+      </div>
+    </div>
+  </section>
+  <section class="video-section section-padding wf-section">
+    <div class="container">
+      <div class="w-layout-grid video-2-col-grid">
+        <div id="w-node-_7ddb1201-1d76-6570-1a21-4cd8779fdbd2-4ff2148b" class="video-wrap">
+          <div style="padding-top:56.17021276595745%" class="w-embed-youtubevideo youtube"><iframe src="https://www.youtube.com/embed/1j6nz_RXUHU?rel=0&amp;controls=1&amp;autoplay=0&amp;mute=0&amp;start=0" frameborder="0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" allow="autoplay; encrypted-media" allowfullscreen="" title="Moj život sa MS-om, Maja Liković"></iframe></div>
+        </div>
+        <div id="w-node-_59e3d6f2-ec52-0f32-4dfa-1a51e09d71f3-4ff2148b" class="video-text-wrap">
+          <div class="text-block-5">{{ texts.347b4f07 }}</div>
+          <h3 id="w-node-_4711bfce-59d6-8ad0-0733-be64ebf28e78-4ff2148b" class="heading-6">{{ texts.794b9a67 }}</h3>
+          <p class="paragraph-2">{{ texts.-4e9e9a35 }}</p>
+          <a href="{{ links.23 }}" class="read-more-button w-inline-block">
+            <div class="text-block-6">{{ texts.-256aa8fd }}</div><img src="{{ images.-20c0efe.url }}" loading="lazy" alt="{{ images.-20c0efe.alt | trim | escape }}">
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section data-w-id="0bea3bff-a4fd-b0ab-abab-b457d88eb6a1" style="opacity:0" class="maps-section section-padding wf-section">
+    <div class="container">
+      <div class="w-layout-grid map-2-col-grid">
+        <div id="w-node-a92a13e6-78f4-d060-c7c7-dce58ce790a7-4ff2148b" class="map-text-wrap">
+          <div class="map-text-in-wrap">
+            <h2 class="light-text">{{ texts.-441643dc }}</h2>
+            <p class="light-text">{{ texts.1134e428 }}<br>{{ texts.-429e039b }}</p>
+            <a href="{{ links.23 }}" class="button oringae-button w-button">{{ texts.-7417c4e3 }}</a>
+          </div>
+        </div>
+        <div class="map w-widget w-widget-map" data-widget-style="roadmap" data-widget-latlng="" aria-label="" data-enable-scroll="true" role="region" title="" data-enable-touch="true" data-widget-zoom="12" id="w-node-_3755f703-77dc-d418-9591-597c7d159ff8-4ff2148b" data-widget-tooltip=""></div>
+      </div>
+    </div>
+  </section>
+  {%- include "partials/footer" -%}
+  <section class="logos-section section-padding wf-section">
+    <div class="container">
+      <div class="w-layout-grid logos-grid"><img src="{{ images.5ffcd370.url }}" loading="lazy" id="w-node-_37b7d92a-c080-eb4b-ecb6-7d3b28605e68-4ff2148b" alt="{{ images.5ffcd370.alt | trim | escape }}" class="image-23">
+        <div id="w-node-_55a85fa0-5af9-6e54-7c0b-ccb2964b6e48-4ff2148b" class="text-block-9">{{ texts.-75f59d6e }}</div><img src="{{ images.-3a8784e3.url }}" loading="lazy" id="w-node-_4745ca0d-3c7f-d52f-e40c-1ba2f0f84b48-4ff2148b" alt="{{ images.-3a8784e3.alt | trim | escape }}" class="image-24"><img class="image-25" src="{{ images.5998d357.url }}" width="309" alt="{{ images.5998d357.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;71vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;309px&quot;}]" sizes="(max-width: 479px) 71vw, 309px" id="w-node-_7f2e82ab-8a16-db91-3b2f-00df0c4fb997-4ff2148b" loading="lazy">
+      </div>
+    </div>
+  </section>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>
+  <script src="/assets/js/webflow.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+
+<script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}<script>window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})});</script><script type="module">import*as UdeslyBanner from"https://cdn.jsdelivr.net/npm/udesly-ad-banner@0.0.1/loader/index.js";UdeslyBanner.defineCustomElements(),document.body.append(document.createElement("udesly-banner"));</script></body></html>
