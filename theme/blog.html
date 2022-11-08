@@ -68,8 +68,8 @@
                 <p class="blog-paragraph">{{ item.data.f_kratki-opis }}</p>
               </a>
             </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
-          {%- if pagination.length == 0 -%}<div class="w-dyn-empty">
-            <div>{{ texts.3d503d2b }}</div>
+          {%- if pagination.length == 0 -%}<div class="empty-state w-dyn-empty">
+            <div>{{ texts.-335dead3 }}</div>
           </div>{%- endif -%}
           <div role="navigation" aria-label="List" class="w-pagination-wrapper">
             <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous" style="display: none;"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">

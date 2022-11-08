@@ -79,6 +79,63 @@ collections:
             name: additional_tags
             widget: text
             required: false
+  - name: dokumenti
+    label: Dokumentis
+    folder: cms/dokumenti
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Ime dokumenta
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_dokument-pdf
+        label: Dokument PDF
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: File
+            widget: file
+            required: false
+            allow_multiple: false
+      - hint: ''
+        name: f_vanjski-link-za-preuzimanje-dokumenta
+        label: Vanjski link za preuzimanje dokumenta
+        widget: string
+        required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: dokumenti
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[dokumenti].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - name: novosti_blog
     label: Novosti - blogs
     folder: cms/novosti-blog
@@ -244,11 +301,11 @@ collections:
           - hint: >-
               Original text: Društvo multiple skleroze Karlovačke županije je
               udruga koja okuplja i pomaže osobama s multiplom sklerozom.
-              Osnovni cilj udruge je napređenje liječenja i istraživanja,
+              Osnovni cilj udruge je unapređenje liječenja i istraživanja,
               rehabilitacija, te zaštita i psihološka podrška našim članovima.,
-              key: -38226859
+              key: 97ab6fc
             label: Text
-            name: '-38226859'
+            name: 97ab6fc
             widget: text
           - hint: 'Original text: POSTANI ČLAN, key: 317d1171'
             label: Text
@@ -286,16 +343,6 @@ collections:
             label: Text
             name: '-201700e0'
             widget: string
-          - hint: >-
-              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Suspendisse varius enim in eros elementum tristique. Duis
-              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
-              commodo diam libero vitae erat. Aenean faucibus nibh et justo
-              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
-              tristique posuere., key: -5286fc08
-            label: Text
-            name: '-5286fc08'
-            widget: text
           - hint: 'Original text: No items found., key: 3d503d2b'
             label: Text
             name: 3d503d2b
@@ -465,9 +512,9 @@ collections:
             label: Text
             name: '-13593707'
             widget: string
-          - hint: 'Original text: Popust na telefonsku ht preplatu, key: -17d92b55'
+          - hint: 'Original text: Popust na telefonsku HT preplatu, key: -3d9da755'
             label: Text
-            name: '-17d92b55'
+            name: '-3d9da755'
             widget: string
           - hint: >-
               Original text: Pravo na povlašteno plaćanje RTV pristojbe, key:
@@ -558,9 +605,13 @@ collections:
             label: Text
             name: '1134e428'
             widget: string
-          - hint: 'Original text: Banjavčićeva 20, 47000 Karlovac., key: -429e039b'
+          - hint: 'Original text: Banjavčićeva ulica 20, , key: abb0c8d'
             label: Text
-            name: '-429e039b'
+            name: abb0c8d
+            widget: string
+          - hint: 'Original text: 47000 Karlovac., key: 7eab6142'
+            label: Text
+            name: 7eab6142
             widget: string
           - hint: 'Original text: NAVIGACIJA, key: -7417c4e3'
             label: Text
@@ -610,6 +661,12 @@ collections:
           - hint: 'Original text: Adresa:, key: 1f8fc636'
             label: Text
             name: 1f8fc636
+            widget: string
+          - hint: >-
+              Original text: Banjavčićeva ulica 20, 47000 Karlovac., key:
+              5a4e0915
+            label: Text
+            name: 5a4e0915
             widget: string
           - hint: 'Original text: Telefon:, key: -4d3d3121'
             label: Text
@@ -774,6 +831,16 @@ collections:
               begins., key: 9f6ef42
             label: Text
             name: 9f6ef42
+            widget: text
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. Suspendisse varius enim in eros elementum tristique. Duis
+              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
+              commodo diam libero vitae erat. Aenean faucibus nibh et justo
+              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
+              tristique posuere., key: -5286fc08
+            label: Text
+            name: '-5286fc08'
             widget: text
           - hint: >-
               Original text: To edit the Small Paragraph class edit the , key:
@@ -1219,6 +1286,10 @@ collections:
             label: Text
             name: '-4cafac91'
             widget: text
+          - hint: 'Original text: Trenutno nema više novosti., key: -335dead3'
+            label: Text
+            name: '-335dead3'
+            widget: string
           - hint: 'Original text: Previous, key: -4811e0e9'
             label: Text
             name: '-4811e0e9'
@@ -1251,6 +1322,10 @@ collections:
             label: Text
             name: 5000f8ce
             widget: string
+          - hint: 'Original text: Preuzmi, key: 50414804'
+            label: Text
+            name: '50414804'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1279,6 +1354,18 @@ collections:
             label: Link
             name: 765c6a14
             widget: string
+          - hint: >-
+              Original link: https://dms-karlovac.com/o-nama/#documents, key:
+              7db9466e
+            label: Link
+            name: 7db9466e
+            widget: string
+          - hint: >-
+              Original link: https://dms-karlovac.com/#how-to-join, key:
+              -3060b9f3
+            label: Link
+            name: '-3060b9f3'
+            widget: string
           - hint: 'Original link: #contact, key: 6c80469d'
             label: Link
             name: 6c80469d
@@ -1295,9 +1382,18 @@ collections:
             label: Link
             name: 55c97fd
             widget: string
-          - hint: 'Original link: tel:+385047412998, key: -27a0dce'
+          - hint: >-
+              Original link:
+              https://dms-karlovac.com/novosti-blog/prica-maje-likovic, key:
+              75aadfd6
             label: Link
-            name: '-27a0dce'
+            name: 75aadfd6
+            widget: string
+          - hint: >-
+              Original link: https://goo.gl/maps/sRY7nVNerwawR7iR8, key:
+              -32ec2d71
+            label: Link
+            name: '-32ec2d71'
             widget: string
           - hint: 'Original link: tel:+3850913412998, key: -691854e'
             label: Link
@@ -1306,6 +1402,10 @@ collections:
           - hint: 'Original link: mailto:dms.karlovac@gmail.com, key: 32050676'
             label: Link
             name: '32050676'
+            widget: string
+          - hint: 'Original link: tel:+385047412998, key: -27a0dce'
+            label: Link
+            name: '-27a0dce'
             widget: string
           - hint: >-
               Original link: https://www.facebook.com/dmska.karlovackezupanije,

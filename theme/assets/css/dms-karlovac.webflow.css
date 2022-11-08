@@ -1374,6 +1374,7 @@ a {
 
 .link-2 {
   padding-bottom: 6px;
+  line-height: 19px;
   font-weight: 400;
   text-decoration: none;
 }
@@ -1812,6 +1813,57 @@ a {
 
 .nav-close-wrapper {
   display: none;
+}
+
+.empty-state {
+  background-color: #231f20;
+  color: #fffaf3;
+}
+
+.documents-section.section-padding {
+  margin-bottom: 140px;
+}
+
+.doc-item-card {
+  padding-top: 0px;
+  padding-bottom: 40px;
+}
+
+.name-of-the-doc {
+  padding-bottom: 10px;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.doc-pdf-down {
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.doc-grid {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.doc-collection-grid {
+  display: -ms-grid;
+  display: grid;
+  padding-top: 40px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto auto auto auto auto;
+  grid-template-rows: auto auto auto auto auto auto;
 }
 
 @media screen and (min-width: 1920px) {
@@ -2693,6 +2745,11 @@ a {
     -ms-flex-align: center;
     align-items: center;
   }
+
+  .name-of-the-doc {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -3132,6 +3189,20 @@ a {
   .image-30 {
     width: 35px;
     height: 35px;
+  }
+
+  .doc-item-card {
+    font-size: 14px;
+  }
+
+  .name-of-the-doc {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .doc-collection-grid {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 }
 

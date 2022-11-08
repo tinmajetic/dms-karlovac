@@ -1,16 +1,16 @@
 ---
 f_kratki-opis: >-
   Saznala sam za Društvo multiple skleroze Karlovačke županije od obiteljskog
-  prijatelja koji je već bio učlanjen. On mi je prenio informaciju
+  prijatelja koji je već bio učlanjen. On mi je prenio...
 title: Priča Maje Liković
 slug: prica-maje-likovic
 f_naslovna-slika:
   url: >-
     https://uploads-ssl.webflow.com/6363917c8c6f16d00de5f228/6364d75adc73e06235600a76_maja%20likovic.jpg
   alt: null
-updated-on: '2022-11-04T09:25:17.091Z'
+updated-on: '2022-11-08T11:09:21.560Z'
 created-on: '2022-11-04T09:12:02.307Z'
-published-on: '2022-11-04T10:37:21.660Z'
+published-on: '2022-11-08T11:14:35.770Z'
 layout: '[novosti-blog].html'
 tags: novosti-blog
 ---

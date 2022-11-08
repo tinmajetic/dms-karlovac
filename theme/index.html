@@ -29,8 +29,8 @@
         <div class="home-hero-wrapper">
           <div class="hero-text-wrapper">
             <h1 class="hero-h1">{{ texts.-296ec39 }}</h1>
-            <p class="hero-paragraph">{{ texts.-38226859 }}</p>
-            <a href="{{ links.5cd788bc }}" class="button w-button">{{ texts.317d1171 }}</a><img class="image-28" src="{{ images.241c1556.url }}" alt="{{ images.241c1556.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="(max-width: 479px) 92vw, 100vw" loading="lazy">
+            <p class="hero-paragraph">{{ texts.97ab6fc }}</p>
+            <a href="{{ links.5cd788bc }}" class="button w-button">{{ texts.317d1171 }}</a><img class="image-28" src="{{ images.241c1556.url }}" alt="{{ images.241c1556.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="(max-width: 479px) 92vw, 100vw" loading="lazy">
             <p class="paragraph">{{ texts.-3fd1a027 }}<br>{{ texts.-68aaf477 }}</p>
           </div><img class="l-girl" src="{{ images.241c1556.url }}" width="400" alt="{{ images.241c1556.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" id="w-node-e27a98f3-a6ca-4b41-b354-79cb3f7d5c5e-4ff2148b" loading="lazy"><img class="r-girl" src="{{ images.5245f590.url }}" width="400" alt="{{ images.5245f590.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" id="w-node-_9b9e9734-f343-1d39-4778-e4b6a5c1af6f-4ff2148b" loading="lazy"><img class="l-boy" src="{{ images.-72116677.url }}" width="400" alt="{{ images.-72116677.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" loading="lazy"><img class="r-grandma" src="{{ images.-3b5f4b22.url }}" width="399" alt="{{ images.-3b5f4b22.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:991,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;434px&quot;}]" sizes="(max-width: 991px) 100vw, (max-width: 1919px) 30vw, 434px" id="w-node-_338197e0-596b-68f4-0430-51bff2e580e1-4ff2148b" loading="lazy">
         </div>
@@ -45,10 +45,10 @@
         {%- assign collection = collections.novosti-blog | sort: "-created-on" | limit: 3 -%}<div class="w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="blog-grid w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="blog-item w-dyn-item w-col w-col-4">
-              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img src="{{ item.data.f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
+              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img src="{{ item.data.f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;335.140625px&quot;}]" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
                 <div class="blog-date">{{ item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
                 <div class="blog-heading">{{ item.data.title }}</div>
-                <p class="blog-paragraph">{{ texts.-5286fc08 }}</p>
+                <p class="blog-paragraph">{{ item.data.f_kratki-opis }}</p>
               </a>
             </div>{%- endfor -%}
           </div>{%- endunless -%}
@@ -131,7 +131,7 @@
             </div>
             <div id="w-node-a12bee0c-fadc-d972-9fac-65ebe4d38e23-4ff2148b" data-w-id="a12bee0c-fadc-d972-9fac-65ebe4d38e23" style="opacity:0" class="rights-item-wrap">
               <div id="w-node-a12bee0c-fadc-d972-9fac-65ebe4d38e24-4ff2148b" class="rights-item"><img src="{{ images.3179085b.url }}" loading="lazy" alt="{{ images.3179085b.alt | trim | escape }}"></div>
-              <div class="text-block-3">{{ texts.-17d92b55 }}</div>
+              <div class="text-block-3">{{ texts.-3d9da755 }}</div>
             </div>
             <div id="w-node-cc7a798b-c682-51de-c9c2-787b0ec9bdbb-4ff2148b" data-w-id="cc7a798b-c682-51de-c9c2-787b0ec9bdbb" style="opacity:0" class="rights-item-wrap">
               <div id="w-node-cc7a798b-c682-51de-c9c2-787b0ec9bdbc-4ff2148b" class="rights-item"><img src="{{ images.-1603af50.url }}" loading="lazy" alt="{{ images.-1603af50.alt | trim | escape }}"></div>
@@ -150,7 +150,7 @@
     <div class="container">
       <div class="content-wrappper">
         <div class="about-grid-l">
-          <div id="w-node-c00a3be6-c6b7-997e-999b-5379e071c621-4ff2148b" class="about-gallery-1"><img class="image-10" src="{{ images.-5035a6fb.url }}" width="260" alt="{{ images.-5035a6fb.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-d33b1599-bfc6-924d-e792-950d9d5a6944-4ff2148b" loading="lazy"><img class="image-11" src="{{ images.-4962447f.url }}" width="260" alt="{{ images.-4962447f.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-_4ae4bde8-4215-1d72-1353-b3edb11bf5fc-4ff2148b" loading="lazy"><img class="image-21" src="{{ images.48edfdbf.url }}" alt="{{ images.48edfdbf.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-c8d7b483-af8d-a07e-ff60-bbf60df215f4-4ff2148b" loading="lazy"></div>
+          <div id="w-node-c00a3be6-c6b7-997e-999b-5379e071c621-4ff2148b" class="about-gallery-1"><img class="image-10" src="{{ images.-5035a6fb.url }}" width="260" alt="{{ images.-5035a6fb.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-d33b1599-bfc6-924d-e792-950d9d5a6944-4ff2148b" loading="lazy"><img class="image-11" src="{{ images.-4962447f.url }}" width="260" alt="{{ images.-4962447f.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-_4ae4bde8-4215-1d72-1353-b3edb11bf5fc-4ff2148b" loading="lazy"><img class="image-21" src="{{ images.48edfdbf.url }}" alt="{{ images.48edfdbf.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-c8d7b483-af8d-a07e-ff60-bbf60df215f4-4ff2148b" loading="lazy"></div>
           <div id="w-node-_96439e76-26a0-fdda-277f-1abb24f02bf8-4ff2148b" class="about-content-1">
             <div class="about-content-wrap">
               <div id="w-node-_8ac6a84a-2237-ee7f-0fad-228f46a01438-4ff2148b" class="text-block-4">{{ texts.-773abc48 }}</div>
@@ -182,7 +182,7 @@
       </div>
       <div class="about-button-wrappper">
         <a href="{{ links.765c6a14 }}" class="button about-button w-button">{{ texts.-4ef35400 }}</a>
-        <a href="{{ links.23 }}" class="button ghost-button about-ghost w-button">{{ texts.-7a78c36a }}</a>
+        <a href="{{ links.7db9466e }}" class="button ghost-button about-ghost w-button">{{ texts.-7a78c36a }}</a>
       </div>
     </div>
   </section>
@@ -196,7 +196,7 @@
           <div class="text-block-5">{{ texts.347b4f07 }}</div>
           <h3 id="w-node-_4711bfce-59d6-8ad0-0733-be64ebf28e78-4ff2148b" class="heading-6">{{ texts.794b9a67 }}</h3>
           <p class="paragraph-2">{{ texts.-4e9e9a35 }}</p>
-          <a href="{{ links.23 }}" class="read-more-button w-inline-block">
+          <a href="{{ links.75aadfd6 }}" class="read-more-button w-inline-block">
             <div class="text-block-6">{{ texts.-256aa8fd }}</div><img src="{{ images.-20c0efe.url }}" loading="lazy" alt="{{ images.-20c0efe.alt | trim | escape }}">
           </a>
         </div>
@@ -209,11 +209,11 @@
         <div id="w-node-a92a13e6-78f4-d060-c7c7-dce58ce790a7-4ff2148b" class="map-text-wrap">
           <div class="map-text-in-wrap">
             <h2 class="light-text">{{ texts.-441643dc }}</h2>
-            <p class="light-text">{{ texts.1134e428 }}<br>{{ texts.-429e039b }}</p>
-            <a href="{{ links.23 }}" class="button oringae-button w-button">{{ texts.-7417c4e3 }}</a>
+            <p class="light-text">{{ texts.1134e428 }}<br>{{ texts.abb0c8d }}<br>{{ texts.7eab6142 }}</p>
+            <a href="{{ links.-32ec2d71 }}" target="_blank" class="button oringae-button w-button">{{ texts.-7417c4e3 }}</a>
           </div>
         </div>
-        <div class="map w-widget w-widget-map" data-widget-style="roadmap" data-widget-latlng="" aria-label="" data-enable-scroll="true" role="region" title="" data-enable-touch="true" data-widget-zoom="12" id="w-node-_3755f703-77dc-d418-9591-597c7d159ff8-4ff2148b" data-widget-tooltip=""></div>
+        <div class="map w-widget w-widget-map" data-widget-style="roadmap" data-widget-latlng="45.494309,15.5560823" aria-label="Društvo multiple skleroze Karlovačke županije" data-enable-scroll="false" role="region" title="Društvo multiple skleroze Karlovačke županije" data-enable-touch="true" data-widget-zoom="16" id="w-node-_3755f703-77dc-d418-9591-597c7d159ff8-4ff2148b" data-widget-tooltip="Društvo multiple skleroze Karlovačke županije"></div>
       </div>
     </div>
   </section>
