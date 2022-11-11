@@ -706,6 +706,69 @@ collections:
             label: Text
             name: '-75f59d6e'
             widget: string
+          - hint: 'Original text: Klikom , key: 3db8b4bf'
+            label: Text
+            name: 3db8b4bf
+            widget: string
+          - hint: 'Original text: “Prihvati”, key: -1797f900'
+            label: Text
+            name: '-1797f900'
+            widget: string
+          - hint: >-
+              Original text:  prihvaćate kolačiće. Mi koristimo tehničke (nužne)
+              i analitičke kolačiće. Za više informacija o kolačićima koje
+              koristimo, posjetite našu stranicu , key: 1e7ec454
+            label: Text
+            name: 1e7ec454
+            widget: text
+          - hint: 'Original text: Obavijest o kolačićima, key: 7856369f'
+            label: Text
+            name: 7856369f
+            widget: string
+          - hint: 'Original text: ODBIJ, key: 4792aee'
+            label: Text
+            name: 4792aee
+            widget: string
+          - hint: 'Original text: PRIHVATI, key: -1732877f'
+            label: Text
+            name: '-1732877f'
+            widget: string
+          - hint: 'Original text: Privacy Preferences, key: -31d2ede0'
+            label: Text
+            name: '-31d2ede0'
+            widget: string
+          - hint: 'Original text: Essential cookies, key: -176c9c63'
+            label: Text
+            name: '-176c9c63'
+            widget: string
+          - hint: 'Original text: Required, key: -13947041'
+            label: Text
+            name: '-13947041'
+            widget: string
+          - hint: 'Original text: Marketing cookies, key: -5d3e9d8b'
+            label: Text
+            name: '-5d3e9d8b'
+            widget: string
+          - hint: 'Original text: Essential, key: 16a3932e'
+            label: Text
+            name: 16a3932e
+            widget: string
+          - hint: 'Original text: Personalization cookies, key: -73ad978d'
+            label: Text
+            name: '-73ad978d'
+            widget: string
+          - hint: 'Original text: Analytics cookies, key: 4fc8d3d5'
+            label: Text
+            name: 4fc8d3d5
+            widget: string
+          - hint: 'Original text: Reject all cookies, key: 41778c2f'
+            label: Text
+            name: 41778c2f
+            widget: string
+          - hint: 'Original text: Allow all cookies, key: -7313ef67'
+            label: Text
+            name: '-7313ef67'
+            widget: string
           - hint: 'Original text: Style Guide, key: -7aba473'
             label: Text
             name: '-7aba473'
@@ -1326,6 +1389,136 @@ collections:
             label: Text
             name: '50414804'
             widget: string
+          - hint: >-
+              Original text: Što su kolačići i za što ih koristimo?, key:
+              165b581b
+            label: Text
+            name: 165b581b
+            widget: string
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: >-
+              Original text: Kolačići su male datoteke koje se sastoje od slova
+              i brojeva koje se preuzimaju na Vaše računalo ili mobilni uređaj
+              kad posjetite internetske stranice. Pohranjuju se putem Vašeg
+              internetskog preglednika na Vaš uređaj. Kolačići omogućuju
+              internetskim stranicama pohranu određenih podataka kako bi se
+              omogućilo jednostavnije i brže pregledavanje internetskih
+              stranica, omogućavaju Vam efikasnu navigaciju kroz mrežna mjesta,
+              pamte Vaše željene postavke i općenito poboljšavaju korisničko
+              iskustvo. Treba napomenuti da naš website funkcionira optimalno
+              samo ako je omogućeno korištenje kolačića., key: 5eac08f4
+            label: Text
+            name: 5eac08f4
+            widget: text
+          - hint: 'Original text: Korištenje kolačića (cookies), key: ea00b5f'
+            label: Text
+            name: ea00b5f
+            widget: string
+          - hint: >-
+              Original text: Sukladno UREDBI (EU) 2016/679 EUROPSKOG PARLAMENTA
+              I VIJEĆA o zaštiti pojedinaca u vezi s obradom osobnih podataka i
+              o slobodnom kretanju takvih podataka (Općoj uredbi o zaštiti
+              podataka), Zakonu o provedbi Opće uredbe te Zakonu o elektroničkim
+              komunikacijama, za korištenje kolačića nam treba Vaša privola,
+              osim ako se radi o nužnim kolačićima. Općenito, ako ste dali
+              privolu, možete u bilo kojem trenutku promijeniti ili povući svoju
+              privolu za korištenje kolačića., key: -1343a77a
+            label: Text
+            name: '-1343a77a'
+            widget: text
+          - hint: 'Original text: Kolačići koje koristimo, key: 14f5a257'
+            label: Text
+            name: 14f5a257
+            widget: string
+          - hint: >-
+              Original text: U nastavku možete pronaći više informacija o tome
+              koje kolačiće koristimo i čemu služe ti kolačići., key: 6b03b58b
+            label: Text
+            name: 6b03b58b
+            widget: text
+          - hint: 'Original text: Popis kolačića:, key: -644003a'
+            label: Text
+            name: '-644003a'
+            widget: string
+          - hint: >-
+              Original text: Webflow cookies - nužni tehnički kolačići za
+              normalno funkcioniranje stranice, key: 5b65d05a
+            label: Text
+            name: 5b65d05a
+            widget: string
+          - hint: >-
+              Original text: Google Analytics - služi za prikupljanje analitike
+              koliko posjetitelja je bilo na web stranici, key: -da9b46d
+            label: Text
+            name: '-da9b46d'
+            widget: text
+          - hint: 'Original text: Kako prihvatiti ili odbiti kolačiće, key: 7317fd24'
+            label: Text
+            name: 7317fd24
+            widget: string
+          - hint: >-
+              Original text: Možete prihvatiti ili odbiti neke ili sve kolačiće
+              prilagođavanjem postavki Vašeg preglednika. Više informacija o
+              tome kako promijeniti postavke za neke od najčešće korištenih
+              internetskih preglednika možete pronaći na sljedećim poveznicama:,
+              key: -7747d05b
+            label: Text
+            name: '-7747d05b'
+            widget: text
+          - hint: 'Original text: Google Chrome, key: -d2bc9bf'
+            label: Text
+            name: '-d2bc9bf'
+            widget: string
+          - hint: 'Original text: Internet Explorer, key: -315651c2'
+            label: Text
+            name: '-315651c2'
+            widget: string
+          - hint: 'Original text: Mozilla Firefox, key: 2991769'
+            label: Text
+            name: '2991769'
+            widget: string
+          - hint: 'Original text: Safari (Desktop), key: 374755'
+            label: Text
+            name: '374755'
+            widget: string
+          - hint: 'Original text: Safari (Mobile), key: -665ae901'
+            label: Text
+            name: '-665ae901'
+            widget: string
+          - hint: 'Original text: Android Browser, key: -755191c9'
+            label: Text
+            name: '-755191c9'
+            widget: string
+          - hint: 'Original text: Opera, key: 48db3b3'
+            label: Text
+            name: 48db3b3
+            widget: string
+          - hint: 'Original text: Opera Mobile, key: 6e1c31cf'
+            label: Text
+            name: 6e1c31cf
+            widget: string
+          - hint: >-
+              Original text: Također, postoje i aplikacije trećih strana koje
+              možete dodati u preglednik kako biste blokirali ili upravljali
+              kolačićima. Možete i izbrisati kolačiće koji su prethodno bili
+              postavljeni u Vaš preglednik tako da odaberete opciju za brisanje
+              povijesti pregledavanja i pritom uključite i opciju brisanja
+              kolačića.Dodatne informacije o kolačićima, uključujući i
+              informacije o tome kako vidjeti kolačiće postavljene na Vašem
+              uređaju i kako njima upravljati te kako ih brisati, posjetite
+              www.allaboutcookies.org i https://www.aboutcookies.org/. Isto
+              tako, za dodatne informacije o tome kako koristimo, pohranjujemo i
+              čuvamo Vaše osobne podatke, pogledajte našu Obavijesti o obradi i
+              zaštiti osobnih podataka na ovim internetskim stranicama. Možete
+              blokirati upotrebu nekih ili svih kolačića koje koristimo na našem
+              mrežnom mjestu, no to može utjecati na njegovu funkcionalnost.
+                      , key: 771ae783
+            label: Text
+            name: 771ae783
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1420,6 +1613,59 @@ collections:
           - hint: 'Original link: https://www.majestictin.com, key: -2edcbba4'
             label: Link
             name: '-2edcbba4'
+            widget: string
+          - hint: 'Original link: /obavijest-o-kolacicima, key: 720aaf56'
+            label: Link
+            name: 720aaf56
+            widget: string
+          - hint: >-
+              Original link:
+              https://support.google.com/chrome/answer/95647?hl=en, key:
+              48f7100f
+            label: Link
+            name: 48f7100f
+            widget: string
+          - hint: >-
+              Original link: https://support.microsoft.com/en-us/kb/260971, key:
+              69b10a36
+            label: Link
+            name: 69b10a36
+            widget: string
+          - hint: >-
+              Original link:
+              https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer,
+              key: 6133f115
+            label: Link
+            name: 6133f115
+            widget: string
+          - hint: >-
+              Original link: https://support.apple.com/kb/PH5042?locale=en_US,
+              key: 451a3877
+            label: Link
+            name: 451a3877
+            widget: string
+          - hint: >-
+              Original link: https://support.apple.com/en-us/HT201265, key:
+              -7bdc8d79
+            label: Link
+            name: '-7bdc8d79'
+            widget: string
+          - hint: >-
+              Original link:
+              http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067,
+              key: 71891557
+            label: Link
+            name: '71891557'
+            widget: string
+          - hint: 'Original link: http://www.opera.com/help, key: c30e593'
+            label: Link
+            name: c30e593
+            widget: string
+          - hint: >-
+              Original link: http://www.opera.com/help/mobile/android#privacy,
+              key: 63d70e03
+            label: Link
+            name: 63d70e03
             widget: string
       - label: Images
         name: images
@@ -1808,6 +2054,19 @@ collections:
                 required: false
           - label: Image
             name: 5998d357
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 5b2d3585
             widget: object
             fields:
               - name: url

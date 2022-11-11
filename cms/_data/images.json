@@ -25,7 +25,7 @@
   },
   "6e05c892": {
     "url": "/assets/images/close-navigation-button.svg",
-    "alt": ""
+    "alt": "Decline cookie "
   },
   "618bc5e7": {
     "url": "/assets/images/3-step-arrow-.svg",
@@ -118,6 +118,10 @@
   "5998d357": {
     "url": "/assets/images/mrms-logo.webp",
     "alt": "Logo Ministarstva rada, mirovniskog sustava, obitelji i socijalne politike"
+  },
+  "5b2d3585": {
+    "url": "https://uploads-ssl.webflow.com/604e159350708c36b0475b73/604f422f0c81322c6c4496c3_allow-icon3.svg",
+    "alt": ""
   },
   "-70343f3a": {
     "url": "/assets/images/left-big-arrow.svg",
