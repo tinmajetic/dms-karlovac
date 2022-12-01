@@ -560,12 +560,12 @@ collections:
           - hint: >-
               Original text: Još od 2003. godine svojim radom trudimo se
               izgraditi bolje okuženje za sve osobe s multiplom sklerozom.
-              Razmjenjujemo iskustva i pratimo nova istraživanja u liječenju sa
+              Razmjenjujemo iskustva i pratimo nova istraživanja u liječenju s
               našim srodnim udrugama i nacionalnim savezom. Imamo 9 zaposlenih
               asistenata koji se brinu o našim korisnicima. A udruga broji više
-              od 100 članova. Budi i ti dio naše zajednice!, key: 7bf2ba5f
+              od 100 članova. Budi i ti dio naše zajednice!, key: 6b70d132
             label: Text
-            name: 7bf2ba5f
+            name: 6b70d132
             widget: text
           - hint: 'Original text: VIŠE O NAMA, key: -4ef35400'
             label: Text
@@ -1390,6 +1390,16 @@ collections:
             name: '50414804'
             widget: string
           - hint: >-
+              Original text: Obavijest o obradi i zaštiti osobnih podataka
+              vezano za privole, key: 2ff91bca
+            label: Text
+            name: 2ff91bca
+            widget: string
+          - hint: 'Original text: (dalje: „Obavijest“), key: -fa119ac'
+            label: Text
+            name: '-fa119ac'
+            widget: string
+          - hint: >-
               Original text: Što su kolačići i za što ih koristimo?, key:
               165b581b
             label: Text
@@ -1429,31 +1439,190 @@ collections:
             label: Text
             name: '-1343a77a'
             widget: text
+          - hint: 'Original text: Vrste kolačića, key: 5e01ae7'
+            label: Text
+            name: 5e01ae7
+            widget: string
+          - hint: 'Original text: Kolačići prema trajanju, key: 5a51ebf1'
+            label: Text
+            name: 5a51ebf1
+            widget: string
+          - hint: >-
+              Original text: • Stalni kolačići - Stalni kolačići ostaju na
+              računalu nakon zatvaranja programa internet preglednika. Pomoću
+              njih mrežna mjesta pohranjuju podatke, kao što su ime za prijavu i
+              lozinka, postavke jezika ili postavke o kolačićima tako da ih ne
+              morate ponovno unositi prilikom svakog idućeg posjeta. Stalni
+              kolačići mogu ostati na računalu ili mobilnom uređaju danima,
+              mjesecima, čak i godinama., key: 1a7c66c5
+            label: Text
+            name: 1a7c66c5
+            widget: text
+          - hint: >-
+              Original text: • Privremeni kolačići - Privremeni kolačići ili
+              kolačići sesije uklanjaju se s računala po zatvaranju internet
+              preglednika. Pomoću njih mrežna mjesta pohranjuju privremene
+              podatke, poput npr. posljednjih nekoliko stranica koje ste
+              otvorili na mrežnom mjestu koje posjećujete., key: 40d01ef1
+            label: Text
+            name: 40d01ef1
+            widget: text
+          - hint: 'Original text: Kolačići prema izvoru, key: 4c1a5dff'
+            label: Text
+            name: 4c1a5dff
+            widget: string
+          - hint: >-
+              Original text: • Kolačići prve strane (first party cookies) -
+              Kolačići prve strane koje izdaje mrežno mjesto koje ste posjetili,
+              u ovom slučaju, naše mrežno mjesto., key: 567f5c93
+            label: Text
+            name: 567f5c93
+            widget: text
+          - hint: >-
+              Original text: • Kolačići treće strane (third party cookies)
+              -Kolačići trećih strana koje izdaju ostala mrežna mjesta. Nemamo
+              kontrolu nad takvim kolačićima. Potrebno je provjeriti
+              odgovarajuća pravila o privatnosti tih trećih strana. , key:
+              -366956ca
+            label: Text
+            name: '-366956ca'
+            widget: text
+          - hint: 'Original text: Kolačići prema funkciji, key: 60f21703'
+            label: Text
+            name: 60f21703
+            widget: string
+          - hint: >-
+              Original text: • Tehnički (nužni) kolačići – uvijek su aktivni.
+              Omogućuju osnovne funkcionalnosti poput sigurnosti, upravljanja
+              mrežom i pristupačnosti. Svoj preglednik možete postaviti da
+              blokira te kolačiće, ali u tom slučaju neki dijelovi stranice neće
+              raditi., key: 5d70dc90
+            label: Text
+            name: 5d70dc90
+            widget: text
+          - hint: >-
+              Original text: • Analitički kolačići – mogu se blokirati.
+              Omogućuju mrežnom mjestu praćenje analitike posjetitelja, tj.
+              analiziranje načina upotrebe mrežnog mjesta, informaciju o broju
+              posjetitelja te dobivanje informacija o načinu poboljšanja mrežnog
+              mjesta. Možemo ih postaviti mi ili pružatelji usluga trećih strana
+              čije su usluge dodane na naše stranice. Ako ne omogućite te
+              kolačiće, neke od tih funkcija možda neće pravilno raditi., key:
+              -32293ed6
+            label: Text
+            name: '-32293ed6'
+            widget: text
           - hint: 'Original text: Kolačići koje koristimo, key: 14f5a257'
             label: Text
             name: 14f5a257
             widget: string
           - hint: >-
               Original text: U nastavku možete pronaći više informacija o tome
-              koje kolačiće koristimo i čemu služe ti kolačići., key: 6b03b58b
+              koje kolačiće koristimo i čemu služe ti kolačići. Također, naše
+              mrežno mjesto koristi Google Analytics, uslugu internetske analize
+              koju pruža Google LLC (“Google”). Google Analytics koristi
+              kolačiće za analizu Vašeg korištenja mrežnog mjesta. Informacije
+              koje generira kolačić o Vašoj upotrebi ovog mrežnog mjesta prenose
+              se u Sjedinjene Američke Države. Za više informacija, pogledajte
+              Pravila o privatnosti i sigurnosti podataka na sljedećem linku: ,
+              key: 4d5e587c
             label: Text
-            name: 6b03b58b
+            name: 4d5e587c
             widget: text
-          - hint: 'Original text: Popis kolačića:, key: -644003a'
+          - hint: 'Original text: https://bit.ly/3EdKsBX, key: -743f6762'
             label: Text
-            name: '-644003a'
+            name: '-743f6762'
+            widget: string
+          - hint: 'Original text: ANALITIČKI KOLAČIĆI, key: 75159e35'
+            label: Text
+            name: '75159e35'
+            widget: string
+          - hint: 'Original text: Naziv:, key: -755609ba'
+            label: Text
+            name: '-755609ba'
+            widget: string
+          - hint: 'Original text: _gat, key: 2cbe1b'
+            label: Text
+            name: 2cbe1b
+            widget: string
+          - hint: 'Original text: Vrsta:, key: -66c2bd0a'
+            label: Text
+            name: '-66c2bd0a'
+            widget: string
+          - hint: 'Original text: trajni, key: -3399acde'
+            label: Text
+            name: '-3399acde'
+            widget: string
+          - hint: 'Original text: Trajanje:, key: -519cefd5'
+            label: Text
+            name: '-519cefd5'
+            widget: string
+          - hint: 'Original text: 1 min, key: 2c2b1e3'
+            label: Text
+            name: 2c2b1e3
+            widget: string
+          - hint: 'Original text: Vlasnik:, key: -1d2bb24e'
+            label: Text
+            name: '-1d2bb24e'
+            widget: string
+          - hint: 'Original text: Treća strana – Google, key: 1e3d664'
+            label: Text
+            name: 1e3d664
+            widget: string
+          - hint: 'Original text: Opis:, key: 48dc2af'
+            label: Text
+            name: 48dc2af
             widget: string
           - hint: >-
-              Original text: Webflow cookies - nužni tehnički kolačići za
-              normalno funkcioniranje stranice, key: 5b65d05a
+              Original text: Ovaj cookie ne pohranjuje nikakve korisničke
+              podatke, već se upotrebljava samo za ograničavanje zahtjeva prema
+              Google Tag Manager platformi., key: 7eff2f5c
             label: Text
-            name: 5b65d05a
+            name: 7eff2f5c
+            widget: text
+          - hint: 'Original text: _dc_gtm_, key: -1b262240'
+            label: Text
+            name: '-1b262240'
             widget: string
           - hint: >-
-              Original text: Google Analytics - služi za prikupljanje analitike
-              koliko posjetitelja je bilo na web stranici, key: -da9b46d
+              Original text: Koristi Google Tag Manager za kontrolu učitavanja
+              Google Analytics skripte., key: -34305d63
             label: Text
-            name: '-da9b46d'
+            name: '-34305d63'
+            widget: string
+          - hint: 'Original text: _ga, key: 17179'
+            label: Text
+            name: '17179'
+            widget: string
+          - hint: 'Original text: 2 god, key: 2d0b38e'
+            label: Text
+            name: 2d0b38e
+            widget: string
+          - hint: >-
+              Original text: Koristi se za razlikovanje jedinstvenih korisnika
+              dodjeljivanjem nasumično generiranog broja kao ClientID. Uključen
+              je u svaki page request na stranici i koristi se za generiranje
+              statističkih podataka., key: 66dc709e
+            label: Text
+            name: 66dc709e
+            widget: text
+          - hint: 'Original text: _gid, key: 2cbf03'
+            label: Text
+            name: 2cbf03
+            widget: string
+          - hint: 'Original text: 24 sata, key: -5053bba7'
+            label: Text
+            name: '-5053bba7'
+            widget: string
+          - hint: >-
+              Original text: Koristi se od strane Google Analyticsa za
+              prikupljanje podataka o tome kako posjetitelj koristi web stranicu
+              i koristi te podatke za poboljšanje iskustva s web stranicom.
+              Cookie prikuplja podatke kao što su: broj posjetitelj web
+              stranice, odakle su isti pristupili stranici i koje su stranice
+              unutar web stranice posjetili., key: -1ec4dac0
+            label: Text
+            name: '-1ec4dac0'
             widget: text
           - hint: 'Original text: Kako prihvatiti ili odbiti kolačiće, key: 7317fd24'
             label: Text
@@ -1501,24 +1670,51 @@ collections:
             name: 6e1c31cf
             widget: string
           - hint: >-
+              Original text: Informacije o načinu na koji Google Analytics
+              upotrebljava podatke potražite u odjeljku „Kako Google
+              upotrebljava podatke s web-lokacija i iz aplikacija koje se
+              koriste našim uslugama ” koji se nalazi na adresi , key: 763c6af3
+            label: Text
+            name: 763c6af3
+            widget: text
+          - hint: 'Original text: https://bit.ly/3EaQlQi, key: -74670c10'
+            label: Text
+            name: '-74670c10'
+            widget: string
+          - hint: 'Original text: . , key: 5b2'
+            label: Text
+            name: 5b2
+            widget: string
+          - hint: >-
               Original text: Također, postoje i aplikacije trećih strana koje
               možete dodati u preglednik kako biste blokirali ili upravljali
               kolačićima. Možete i izbrisati kolačiće koji su prethodno bili
               postavljeni u Vaš preglednik tako da odaberete opciju za brisanje
               povijesti pregledavanja i pritom uključite i opciju brisanja
-              kolačića.Dodatne informacije o kolačićima, uključujući i
-              informacije o tome kako vidjeti kolačiće postavljene na Vašem
-              uređaju i kako njima upravljati te kako ih brisati, posjetite
-              www.allaboutcookies.org i https://www.aboutcookies.org/. Isto
-              tako, za dodatne informacije o tome kako koristimo, pohranjujemo i
-              čuvamo Vaše osobne podatke, pogledajte našu Obavijesti o obradi i
-              zaštiti osobnih podataka na ovim internetskim stranicama. Možete
-              blokirati upotrebu nekih ili svih kolačića koje koristimo na našem
-              mrežnom mjestu, no to može utjecati na njegovu funkcionalnost.
-                      , key: 771ae783
+              kolačića. , key: -1b0fc36b
             label: Text
-            name: 771ae783
+            name: '-1b0fc36b'
             widget: text
+          - hint: >-
+              Original text: Dodatne informacije o kolačićima, uključujući i
+              informacije o tome kako vidjeti kolačiće postavljene na Vašem
+              uređaju i kako njima upravljati te kako ih brisati, posjetite ,
+              key: 33325ca4
+            label: Text
+            name: 33325ca4
+            widget: text
+          - hint: 'Original text: https://bit.ly/3Gn4xbC, key: -70532913'
+            label: Text
+            name: '-70532913'
+            widget: string
+          - hint: 'Original text:  i , key: 84f7'
+            label: Text
+            name: 84f7
+            widget: string
+          - hint: 'Original text: https://bit.ly/2KVRNcN., key: -55bad944'
+            label: Text
+            name: '-55bad944'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1620,6 +1816,13 @@ collections:
             widget: string
           - hint: >-
               Original link:
+              https://support.google.com/analytics/answer/6004245, key:
+              -42b5d0de
+            label: Link
+            name: '-42b5d0de'
+            widget: string
+          - hint: >-
+              Original link:
               https://support.google.com/chrome/answer/95647?hl=en, key:
               48f7100f
             label: Link
@@ -1666,6 +1869,18 @@ collections:
               key: 63d70e03
             label: Link
             name: 63d70e03
+            widget: string
+          - hint: 'Original link: https://bit.ly/3EaQlQi, key: -74670c10'
+            label: Link
+            name: '-74670c10'
+            widget: string
+          - hint: 'Original link: http://www.allaboutcookies.org, key: 6d2be7d0'
+            label: Link
+            name: 6d2be7d0
+            widget: string
+          - hint: 'Original link: https://bit.ly/2KVRNcN, key: 6054cfb2'
+            label: Link
+            name: 6054cfb2
             widget: string
       - label: Images
         name: images
