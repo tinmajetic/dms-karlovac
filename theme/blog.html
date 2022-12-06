@@ -10,6 +10,7 @@
   
   
   <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="google-site-verification=4O5UdZqbvCBpo4UGpiutV5Fw3auM9p0co-savtFdDGA" name="google-site-verification">
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/dms-karlovac.webflow.css" rel="stylesheet" type="text/css">
@@ -56,14 +57,14 @@
         {%- assign collection = collections.novosti-blog | sort: "-created-on" | offset: 1 | limit: 90 -%}{%- assign pagination = collection | paginate: 90 -%}<div class="all-blog-posts w-dyn-list">
           {%- unless pagination.length == 0 -%}<div role="list" class="blog-all-posts w-dyn-items w-row">
             {%- for item in pagination[0] -%}<div role="listitem" class="blog-post w-dyn-item w-col w-col-4">
-              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img src="{{ item.data.f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
+              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
                 <div class="blog-date">{{ item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
                 <div class="blog-heading">{{ item.data.title }}</div>
                 <p class="blog-paragraph">{{ item.data.f_kratki-opis }}</p>
               </a>
             </div>{%- endfor -%}
           {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page-41ef39a3-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="blog-post w-dyn-item w-col w-col-4">
-              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img src="{{ item.data.f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
+              <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ item.data.f_naslovna-slika.alt }}" class="blog-image">
                 <div class="blog-date">{{ item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
                 <div class="blog-heading">{{ item.data.title }}</div>
                 <p class="blog-paragraph">{{ item.data.f_kratki-opis }}</p>

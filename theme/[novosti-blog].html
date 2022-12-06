@@ -12,6 +12,7 @@
   
   
   <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="google-site-verification=4O5UdZqbvCBpo4UGpiutV5Fw3auM9p0co-savtFdDGA" name="google-site-verification">
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/dms-karlovac.webflow.css" rel="stylesheet" type="text/css">
@@ -46,7 +47,7 @@
           {%- assign collection = collections.novosti-blog | sort: "-created-on" | limit: 6 -%}<div id="w-node-e1360476-5520-bce3-d9f2-f46ca5ad2a6b-052f093e" class="w-dyn-list">
             {%- unless collection.length == 0 -%}<div role="list" class="side-nav-list w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="side-nav-item w-dyn-item">
-                <a href="{{ item.url }}" class="side-nav-item-wrap w-inline-block"><img src="{{ item.data.f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;80px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;40px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100px&quot;}]" alt="{{ item.data.f_naslovna-slika.alt }}" class="image-17">
+                <a href="{{ item.url }}" class="side-nav-item-wrap w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;80px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;40px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;100px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ item.data.f_naslovna-slika.alt }}" class="image-17">
                   <div id="w-node-a7807e35-1e58-d361-ec25-042ccce0cbbc-052f093e" class="text-block-12">{{ item.data.title }}</div>
                 </a>
               </div>{%- endfor -%}
@@ -57,7 +58,7 @@
           </div>
         </div>
         <div class="blog-post-wrapper">
-          <h1 class="blog-post-h1">{{ title }}</h1><img src="{{ f_naslovna-slika.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;986px&quot;}]" alt="{{ f_naslovna-slika.alt }}" class="image-15">
+          <h1 class="blog-post-h1">{{ title }}</h1><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;986px&quot;}]" src="{{ f_naslovna-slika.url }}" alt="{{ f_naslovna-slika.alt }}" class="image-15">
           <div class="rich-text-block w-richtext">{{ content | markdown }}</div>
         </div>
       </div>
