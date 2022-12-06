@@ -1,8 +1,8 @@
 ---
 title: Pružanje podrške osobama s invaliditetom u kriznim situacijama
-created-on: 2022-12-06T09:17:19.138Z
-updated-on: 2022-12-06T09:17:20.238Z
-published-on: 2022-12-06T09:17:21.054Z
+created-on: 2022-10-27T08:17:19.138Z
+updated-on: 2022-10-27T08:17:20.238Z
+published-on: 2022-10-27T08:17:21.054Z
 f_kratki-opis: Pružanje podrške osobama s invaliditetom u kriznim situacijama -
   edukativna radionica u organizaciji Saveza udruga osoba s invaliditetom
   Karlovačke županije i predstavnika udruga za građanstvo
