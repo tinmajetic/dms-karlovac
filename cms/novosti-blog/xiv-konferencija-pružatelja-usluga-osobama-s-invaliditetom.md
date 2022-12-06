@@ -22,10 +22,26 @@ Sudjelovali smo na XIV. Konferenciji pružatelja usluga osobama s invaliditetom 
 
 ![](/assets/images/317907967_2319938484837954_3833398048344318481_n.jpg)
 
+
+
+
+
 ![](/assets/images/317936791_2147400765461586_3730531730499922949_n.jpg)
+
+
+
+
 
 ![](/assets/images/317871196_2147401022128227_5646239749867087113_n.jpg)
 
+
+
+
+
 ![](/assets/images/317633992_2147401105461552_6732506726660291871_n.jpg)
+
+
+
+
 
 ![](/assets/images/317136231_1346982749397433_1943759563990002482_n.jpg)
