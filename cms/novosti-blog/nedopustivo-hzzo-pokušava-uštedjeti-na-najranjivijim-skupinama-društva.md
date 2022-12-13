@@ -23,12 +23,16 @@ području unapređenja kvalitete življenja osoba s invaliditetom izrazito je za
 mogućnosti da ortopedska i druga pomagala budu nedostupna osobama s invaliditetom, te
 zbog najava distributera o nemogućnosti isporuke medicinskih pomagala.
 
+
+
 Pokret osoba s invaliditetom iznimno je zabrinut zbog postupka Hrvatskog zavoda za
 zdravstveno osiguranje kojim su snizili cijene ortopedskih pomagala i medicinskih proizvoda
 dobavljačima unatoč makroekonomskoj situaciji zbog koje osobama s invaliditetom prijeti
 nedostupnost ortopedskih i drugih pomagala na koja imaju pravo. Ovakve odluke znatno će
 negativno utjecati na kvalitetu života mnogih osoba s invaliditetom i članova njihovih
 obitelji.
+
+
 
 U Republici Hrvatskoj živi 16 % osoba s invaliditetom koje su više ili manje nažalost
 korisnici tih proizvoda, a koji im pomažu očuvati njihove funkcionalne sposobnosti,
@@ -37,6 +41,8 @@ invaliditetom. **Nama, kao organizacijama koje predstavljamo i štitimo prava os
 invaliditetom nedopustivo je i neprihvatljivo da se pokušava uštedjeti ponovno na
 najranjivijim skupinama u društvu i da u donošenju ovakvih odluka nisu u fokusu sami
 korisnici.**
+
+
 
 Republika Hrvatska obvezala se sukladno Konvenciji o pravima osoba s invaliditetom
 osigurati i promicati ostvarenje svih ljudskih prava, a između ostalog i promicati dostupnost i
@@ -49,27 +55,38 @@ jer bez kvalitetnih standarda kvalitete ovih proizvoda na tržištu imamo nekval
 proizvode, a na koncu su oštećeni korisnici koji dobivaju pomagala koja umjesto da im
 olakšavaju život nefunkcionalna su i ne služe svrsi.
 
+
+
 Iz prve reakcije ministra zdravstva Vilija Beroša na prozivke niza udruga i predstavnika
 HUP-a zbog sporne odluke HZZO-a razvidno je da čelni ljudi zdravstvene administracije i dalje ne razumiju da umjesto parcijalnih požarnih mjera treba što hitnije pronaći kvalitetno i cjelovito rješenje za dostupnost medicinskih pomagala jer sudbina osoba s invaliditetom ne smije ovisiti o dobroj volji i pojedinačnim dogovorima HZZO-a i pojedinih dobavljača.
+
+
 
 **Stoga apeliramo na mjerodavne institucije prvenstveno da postignu dogovore i
 osiguraju nesmetanu dostupnosti svih pomagala osobama s invaliditetom, a zahtijevamo
 i promjenu standarda pomagala i uvrštenje novih vrsta pomagala za kategorije koje su
 znatno ispod prosjeka Europske unije.**
 
+
+
 **O pokretu osoba s invaliditetom uključenim u 8. Centar znanja** 
 
-Pokret osoba s invaliditetom čine 13 Saveza udruga osoba s invaliditetom: Zajednica saveza osoba s invaliditetom Hrvatske, Hrvatski savez slijepih, Savez društava distrofičara Hrvatske, Hrvatski savez udruga invalida rada, Hrvatski savez udruga osoba s intelektualnim teškoćama, Hrvatski savez udruga osoba s tjelesnim invaliditetom, Hrvatski savez gluhih i
-nagluhih, Savez civilnih invalida rata Hrvatske, Savez društava multiple skleroze Hrvatske,
-Savez udruga za autizam Hrvatske, Hrvatske udruge paraplegičara i tetraplegičara, Hrvatski
-savez gluhoslijepih osoba "Dodir" i Hrvatski savez udruga cerebralne i dječje paralize
+
+
+Pokret osoba s invaliditetom čine 13 Saveza udruga osoba s invaliditetom: Zajednica saveza osoba s invaliditetom Hrvatske, Hrvatski savez slijepih, Savez društava distrofičara Hrvatske, Hrvatski savez udruga invalida rada, Hrvatski savez udruga osoba s intelektualnim teškoćama, Hrvatski savez udruga osoba s tjelesnim invaliditetom, Hrvatski savez gluhih i nagluhih, Savez civilnih invalida rata Hrvatske, Savez društava multiple skleroze Hrvatske, Savez udruga za autizam Hrvatske, Hrvatske udruge paraplegičara i tetraplegičara, Hrvatski savez gluhoslijepih osoba “Dodir” i Hrvatski savez udruga cerebralne i dječje paralize.
+
+
 
 Kontakt za medije:
+
+
 
 Bojan Hajdin
 Predsjednik Hrvatske udruge paraplegičara i tetraplegičara
 E-mail: bojan.hajdin@gmail.com
 Kontakt: 091/921 1278
+
+
 
 Dijana Roginić, mag.oec.
 Izvršna direktorica Saveza društava multiple skleroze Hrvatske
