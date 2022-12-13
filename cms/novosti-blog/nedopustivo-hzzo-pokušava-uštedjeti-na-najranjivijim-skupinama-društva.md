@@ -16,13 +16,12 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-## **Priopćenje za javnost: Nedopustivo je da dostupnost ortopedskih pomagala i medicinskih proizvoda osobama s invaliditetom bude predmet štednje HZZO-a**
+### **Priopćenje za javnost: Nedopustivo je da dostupnost ortopedskih pomagala i medicinskih proizvoda osobama s invaliditetom bude predmet štednje HZZO-a**
 
 **Zagreb, 12. prosinca 2022**. Pokret osoba s invaliditetom uključen u 8. Centar znanja u
 području unapređenja kvalitete življenja osoba s invaliditetom izrazito je zabrinut zbog
 mogućnosti da ortopedska i druga pomagala budu nedostupna osobama s invaliditetom, te
 zbog najava distributera o nemogućnosti isporuke medicinskih pomagala.
-
 
 Pokret osoba s invaliditetom iznimno je zabrinut zbog postupka Hrvatskog zavoda za
 zdravstveno osiguranje kojim su snizili cijene ortopedskih pomagala i medicinskih proizvoda
@@ -31,7 +30,6 @@ nedostupnost ortopedskih i drugih pomagala na koja imaju pravo. Ovakve odluke zn
 negativno utjecati na kvalitetu života mnogih osoba s invaliditetom i članova njihovih
 obitelji.
 
-
 U Republici Hrvatskoj živi 16 % osoba s invaliditetom koje su više ili manje nažalost
 korisnici tih proizvoda, a koji im pomažu očuvati njihove funkcionalne sposobnosti,
 olakšavaju im svakodnevnicu i u konačnici moraju poboljšati kvalitetu njihova života s
@@ -39,7 +37,6 @@ invaliditetom. **Nama, kao organizacijama koje predstavljamo i štitimo prava os
 invaliditetom nedopustivo je i neprihvatljivo da se pokušava uštedjeti ponovno na
 najranjivijim skupinama u društvu i da u donošenju ovakvih odluka nisu u fokusu sami
 korisnici.**
-
 
 Republika Hrvatska obvezala se sukladno Konvenciji o pravima osoba s invaliditetom
 osigurati i promicati ostvarenje svih ljudskih prava, a između ostalog i promicati dostupnost i
@@ -52,10 +49,8 @@ jer bez kvalitetnih standarda kvalitete ovih proizvoda na tržištu imamo nekval
 proizvode, a na koncu su oštećeni korisnici koji dobivaju pomagala koja umjesto da im
 olakšavaju život nefunkcionalna su i ne služe svrsi.
 
-
 Iz prve reakcije ministra zdravstva Vilija Beroša na prozivke niza udruga i predstavnika
 HUP-a zbog sporne odluke HZZO-a razvidno je da čelni ljudi zdravstvene administracije i dalje ne razumiju da umjesto parcijalnih požarnih mjera treba što hitnije pronaći kvalitetno i cjelovito rješenje za dostupnost medicinskih pomagala jer sudbina osoba s invaliditetom ne smije ovisiti o dobroj volji i pojedinačnim dogovorima HZZO-a i pojedinih dobavljača.
-
 
 **Stoga apeliramo na mjerodavne institucije prvenstveno da postignu dogovore i
 osiguraju nesmetanu dostupnosti svih pomagala osobama s invaliditetom, a zahtijevamo
