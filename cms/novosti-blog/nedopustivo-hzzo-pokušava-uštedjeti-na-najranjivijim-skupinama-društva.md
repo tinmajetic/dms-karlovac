@@ -84,13 +84,27 @@ Kontakt za medije:
 ​
 
 Bojan Hajdin
+
+​
 Predsjednik Hrvatske udruge paraplegičara i tetraplegičara
+
+​
 E-mail: bojan.hajdin@gmail.com
+
+​
 Kontakt: 091/921 1278
 
 ​
 
 Dijana Roginić, mag.oec.
+
+​
 Izvršna direktorica Saveza društava multiple skleroze Hrvatske
+
+​
 E-mail: dijana@sdmsh.hr
+
+​
 Kontakt: 098 301 007
+
+​
