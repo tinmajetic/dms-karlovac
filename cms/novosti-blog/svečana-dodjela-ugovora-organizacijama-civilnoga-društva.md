@@ -19,7 +19,7 @@ seo:
 ---
 Karlovačka županija temeljem Javnog poziva sufinancira provedbu druge godine trogodišnjeg programa  Udruga temeljem Javnog natječaja za financiranje institucionalne podrške  organizacijama civilnog društva koje se bave društveno osjetljivim skupinama za razdoblje od 2022.do 2024.godine.
 
-
+[‌](https://coolsymbol.com/copy/Zero_Width_Non-Joiner_Symbol_%E2%80%8C)
 
 ![Jasmina Slavnić i županica Karlovačke županije](/assets/images/331512814_531090712498489_1783903139336775405_n.jpg)
 
