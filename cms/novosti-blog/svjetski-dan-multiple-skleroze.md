@@ -1,8 +1,8 @@
 ---
-title: Svjetski dan multiple skleroze
-created-on: 2023-05-16T18:30:12.915Z
-updated-on: 2023-05-16T18:30:13.498Z
-published-on: 2023-05-16T18:30:14.116Z
+title: Svjetski dan multiple skleroze (MS KVIZ)
+created-on: 2023-05-16T06:30:12.915Z
+updated-on: 2023-05-16T06:30:13.498Z
+published-on: 2023-05-16T06:30:14.116Z
 f_kratki-opis: Svrha kampanje “Ja sam više od MS-a!” je podizanje svijesti
   javnosti o multipli sklerozi, destigmatizaciji multiple skleroze i pružanju
   novih perspektiva o “bolest s tisuću lica”.
