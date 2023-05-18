@@ -6,9 +6,12 @@
   
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="google-site-verification=4O5UdZqbvCBpo4UGpiutV5Fw3auM9p0co-savtFdDGA" name="google-site-verification">
+  
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="/assets/css/dms-karlovac.webflow.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">WebFont.load({  google: {    families: ["Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]  }});</script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
@@ -234,7 +237,12 @@
         </div>
         <div id="w-node-_50c4eecd-635c-c0cb-6b83-c35774246b79-66f2148c" class="style-guide-wrap">
           <div class="style-guide-popup-wrap">
-            {%- include "partials/popup-content" -%}
+            <div class="popup-card">
+              <h2>{{ texts.7a77b835 }}</h2>
+              <p>{{ texts.-5286fc08 }}</p>
+              <a href="{{ links.23 }}" class="button w-button">{{ texts.-8fb26a5 }}</a>
+              <a data-w-id="37fd837f-3fc7-03a8-0eeb-991de929d10d" href="{{ links.23 }}" class="close-popup-button">{{ texts.5b9b9 }}</a>
+            </div>
           </div>
         </div>
       </div>
@@ -242,11 +250,15 @@
   </div>
   <div style="opacity:0" class="popup-background-wrap">
     <div style="opacity:0;-webkit-transform:translate3d(0, 121px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 121px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 121px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 121px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="popup-wrap">
-      {%- include "partials/popup-content" -%}
+      <div class="popup-card">
+        <h2>{{ texts.7a77b835 }}</h2>
+        <p>{{ texts.-5286fc08 }}</p>
+        <a href="{{ links.23 }}" class="button w-button">{{ texts.-8fb26a5 }}</a>
+        <a data-w-id="37fd837f-3fc7-03a8-0eeb-991de929d10d" href="{{ links.23 }}" class="close-popup-button">{{ texts.5b9b9 }}</a>
+      </div>
     </div>
   </div>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js" type="text/javascript" crossorigin="anonymous"></script>
   <script src="/assets/js/webflow.js" type="text/javascript"></script>
-  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
 
 <script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}</body></html>
