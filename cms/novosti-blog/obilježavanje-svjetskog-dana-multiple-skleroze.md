@@ -20,8 +20,7 @@ PRIOPĆENJE ZA MEDIJE
 
 ‌
 
-## 
-Svjetski dan multiple skleroze 30.5.2023. – Budi više od MS-a!
+## Svjetski dan multiple skleroze 30.5.2023. – Budi više od MS-a!
 
 ‌
 
@@ -43,7 +42,6 @@ Video kampanje „Ja sam više od MS-a!“ dostupan je na sljedećem [linku](htt
 
 ‌‌‌‌
 
-
 Kako bi razvrgnuli najčešće predrasude o multipli kslerozi, snimljena je serija videa MITOVI o multipli sklerozi, a koje opovrgavaju vodeći neurolog za MS u Hrvatskoj prof.dr.sc. Mario Habek i neuropedijatrica prof.dr.sc. Maša Malenica, zajedno sa oboljelima od multiple skleroze. Mitovi o MS-u dostupni su na sljedećem [linku](https://www.youtube.com/playlist?list=PLxB-oXTXmDIAjoJWWauKMr8S99aIKRFKc). 
 
 ‌
@@ -54,37 +52,57 @@ Kako bi razvrgnuli najčešće predrasude o multipli kslerozi, snimljena je seri
 
 ‌
 
-
 Kako bi doznali na koje sve načine multipla skleroza i njeni nevidljivi simptomi utječu na živote oboljelih od MS-a provedena je anketa na temu „Nevidljivi simptomi i MS“ među 857 oboljelih, a rezultati su pokazali da su kod više od 76% ispitanika nevidljivi simptomi MS-a najveći izazov sa kojim se susreću. Tri najčešća nevidljiva simptoma sa kojima se susreću oboljeli su umor, problemi s pamćenjem i koncentracijom te obamrlost. 77,13% oboljelih izjasnilo se da nevidljive simptome osjeća svakodnevno. Nevidljivi simptomi su kod 33,02%
 oboljelih od MS-a utjecali na radni status, odnosno karijeru, zapošljavanje i odnose sa kolegama, a kod 22,64% oboljelih nevidljivi simptomi MS-a utjecali su na društveni život, odnosno odnose s prijateljima i okolinom.
+
+‌
 
 ‌
 *788 oboljelih od multiple skleroze poslalo je poruke za javnost, od kojih prenosimo nekoliko:*
 
 ‌
+
+‌‌
 *„Nismo lijeni nego jednostavno se brzo umaramo sa posljedicama, nemamo demenciju nego jednostavno ne možemo upamtiti neke stvari, nismo izbirljivi u vezi posla nego jednostavno neke poslove ne možemo raditi, nismo stalno razdražljivi nego jednostavno imamo MS.“*
+
+‌
 
 ‌
 *„Voljela bih da obitelj i radna okolina razumije da teže i sporije mogu obavljati poslove nego ranije, da sam užasno umorna i da jedva pratim korak sa svojom okolinom. Strah me da ne ostanem bez posla.“*
 
 ‌
+
+‌
 *„Prvenstveno je potrebno da se osobe koje vještače oboljele educiraju i upoznaju sa svim simptomima MS-a. Neki ne znaju ili ne žele znati koje sve simptome nosi dijagnoza MS-a, jer je njihovo ponašanje prema oboljelima krajnje ponižavajuće.“*
+
+‌
 
 ‌
 *„Nevidljive simptome ćete uvidjeti na osobi s MS-om samo ako ih želite vidjeti.“*
 
-‌
+‌‌
+
+
 Kako bi se osobe s multiplom sklerozom i svi mi koji ćemo možda jednom biti pacijenti s MS-om, educirali o liječenju i nevidljivim simptomima MS-a u sklopu kampanje snimljena su dva MSTV podcasta (MSTV je prva online televizija za oboljele od multiple skleroze):
+
+‌‌‌‌‌
+
+
 
 ‌
 [Nevidljivi simptomi i MS-u, gošća prof.dr.sc. Vanja Bašić Kes, KBC Sestre Milosrdnice](https://www.youtube.com/watch?v=oy72v1jyOAQ)  i [Novosti u liječenju MS-a 2023., prof.
 dr.sc. Mario Habek, KBC Zagreb ](https://www.youtube.com/watch?v=CBeZWp6oMKI)
 
 ‌
+
+‌
 Ovim putem pozivamo cjelokupnu javnost da provjere svoje znanje o multipli sklerozi putem MS Kviza, koji je dostupan na sljedećem [linku](https://sdmsh.com.hr/ms-kviz/).
 
-### ‌
-O multipli sklerozi
+### ‌‌‌‌‌
+
+
+
+### O multipli sklerozi
 
 ‌
 Multipla skleroza (MS) je autoimuna bolest za koju nema lijeka, a terapije koje oboljeli uzimaju imaju za cilj usporavanje progresije bolesti i podizanje kvalitete života oboljelih. Dva puta je češća kod žena, a MS nazivaju i bolest s 1000 lica jer su simptomi vrlo individualni i razlikuju se od osobe do osobe. Obično se dijagnosticira između 20. i 40. godine, a to je najbolje vrijeme za karijeru, obitelj i izgradnju budućnosti. Postoji nekoliko tipova MS-a, a najveći postotak oboljelih (oko 80%), boluje od relapsno remitirajućeg oblika bolesti što znači kako se u životu oboljelih pojavljuju pogoršanja, odnosno relapsi te stanja mirovanja bolesti uz moguće svakodnevne simptome bolesti. Unazad nekoliko godina
@@ -95,7 +113,8 @@ zahvaljujući sve boljim terapijama za usporavanje progresije bolesti bilježi s
 Društvo multiple skleroze Karlovačke županije postoji zbog osoba s multiplom sklerozom,pružamo podršku i potporu osobama sa multiplom sklerozom i njihovim obiteljima. Na raspolaganju smo članovima svakim radnim danom od ponedjeljka do petka od 7-15 sati i također osobe s multiplom sklerozom i članovi obitelji mogu dobiti i podršku kroz besplatan SOS MS telefon ( Saveza društava multiple skleroze Hrvatske) 0800 77 89 svakim radnim danom od 8-16 sati, a dva puta mjesečno na SOS MS telefonu gostuju i vodeći neurolozi za MS u Hrvatskoj. Također, kroz Virtualni MS savjetnik oboljeli mogu dobiti odgovore na svoja pitanja od različitih stručnjaka, a kontinuirano otvaramo teme vezane uz multiplu sklerozu kroz podcastove na MSTV-u.
 
 ### ‌
-O Svjetskom danu multiple skleroze 
+
+### O Svjetskom danu multiple skleroze 
 
 ‌
 
@@ -127,8 +146,6 @@ Maja Liković – članica predsjedništva
 ‌
 
 ![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze5.jpg)
-
-
 
 ‌
 
