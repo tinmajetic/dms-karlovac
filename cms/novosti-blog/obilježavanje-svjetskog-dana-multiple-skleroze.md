@@ -20,7 +20,7 @@ PRIOPĆENJE ZA MEDIJE
 
 ‌
 
-## Svjetski dan multiple skleroze 30.5.2023. – Budi više od MS-a!
+### Svjetski dan multiple skleroze 30.5.2023. – Budi više od MS-a!
 
 ‌
 
@@ -82,12 +82,9 @@ oboljelih od MS-a utjecali na radni status, odnosno karijeru, zapošljavanje i o
 
 ‌‌
 
-
 Kako bi se osobe s multiplom sklerozom i svi mi koji ćemo možda jednom biti pacijenti s MS-om, educirali o liječenju i nevidljivim simptomima MS-a u sklopu kampanje snimljena su dva MSTV podcasta (MSTV je prva online televizija za oboljele od multiple skleroze):
 
 ‌‌‌‌‌
-
-
 
 ‌
 [Nevidljivi simptomi i MS-u, gošća prof.dr.sc. Vanja Bašić Kes, KBC Sestre Milosrdnice](https://www.youtube.com/watch?v=oy72v1jyOAQ)  i [Novosti u liječenju MS-a 2023., prof.
@@ -100,11 +97,13 @@ Ovim putem pozivamo cjelokupnu javnost da provjere svoje znanje o multipli skler
 
 ### ‌‌‌‌‌
 
-
-
 ### O multipli sklerozi
 
-‌
+‌‌‌
+
+‌‌‌
+
+
 Multipla skleroza (MS) je autoimuna bolest za koju nema lijeka, a terapije koje oboljeli uzimaju imaju za cilj usporavanje progresije bolesti i podizanje kvalitete života oboljelih. Dva puta je češća kod žena, a MS nazivaju i bolest s 1000 lica jer su simptomi vrlo individualni i razlikuju se od osobe do osobe. Obično se dijagnosticira između 20. i 40. godine, a to je najbolje vrijeme za karijeru, obitelj i izgradnju budućnosti. Postoji nekoliko tipova MS-a, a najveći postotak oboljelih (oko 80%), boluje od relapsno remitirajućeg oblika bolesti što znači kako se u životu oboljelih pojavljuju pogoršanja, odnosno relapsi te stanja mirovanja bolesti uz moguće svakodnevne simptome bolesti. Unazad nekoliko godina
 zahvaljujući sve boljim terapijama za usporavanje progresije bolesti bilježi se kvalitetniji život s ovom dijagnozom. Multipla skleroza je rastući globalni zdravstveni problem, a u Hrvatskoj prema zadnjem istraživanju iz rujna 2022. godine od MS-a boluje 7024 osobe. Edukacija je ključna, jer što više znamo o MS, znati ćemo i na koje načine olakšati vlastite i tuđe živote onih koji žive sa njom. 
 
@@ -114,7 +113,7 @@ Društvo multiple skleroze Karlovačke županije postoji zbog osoba s multiplom 
 
 ### ‌
 
-### O Svjetskom danu multiple skleroze 
+### O Svjetskom danu multiple skleroze
 
 ‌
 
@@ -124,7 +123,15 @@ multiple skleroze na sljedećem [linku](https://sdmsh.com.hr/svjetski-dan-multip
 ‌
 
 Kontakt za medije:
+
+‌‌
+
+‌
 Jasmina Slavnić – tajnica
+
+‌‌
+
+
 Maja Liković – članica predsjedništva
 
 ‌
