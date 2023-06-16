@@ -1,9 +1,9 @@
 ---
 title: Dodjela ugovora za "Savjetovanje i pružanje podrške za osobe s multiplom
   sklerozom"...
-created-on: 2023-06-16T13:29:53.267Z
-updated-on: 2023-06-16T13:29:53.287Z
-published-on: 2023-06-16T13:29:53.301Z
+created-on: 2023-06-12T13:29:53.267Z
+updated-on: 2023-06-12T13:29:53.287Z
+published-on: 2023-06-12T13:29:53.301Z
 f_kratki-opis: Dodjela ugovora o financiranju projekta "Savjetovanje i pružanje
   podrške za osobe s multiplom sklerozom" Grada Karlovca za 2023.g...
 f_naslovna-slika:
