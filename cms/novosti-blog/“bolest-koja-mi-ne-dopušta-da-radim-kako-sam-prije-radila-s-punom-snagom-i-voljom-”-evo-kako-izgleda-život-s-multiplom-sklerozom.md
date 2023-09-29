@@ -22,11 +22,15 @@ Usvijetu u kojem nevolje često iskušavaju granice ljudskog duha pojavljuju se 
 
 ‌
 
-> **[Multipla skleroza](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/multipla-skleroza-uzroci-simptomi-i-lijecenje)****[ (MS)](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/multipla-skleroza-uzroci-simptomi-i-lijecenje)**, kronično neurološko stanje, donosi mnoštvo izazova koji utječu na različite aspekte nečijeg života. No, za Antoniju i Martinu to nije oznaka ograničenja, već katalizator promjena.
+> **[Multipla skleroza](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/multipla-skleroza-uzroci-simptomi-i-lijecenje)\*\***[ (MS)](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/multipla-skleroza-uzroci-simptomi-i-lijecenje)\*\*, kronično neurološko stanje, donosi mnoštvo izazova koji utječu na različite aspekte nečijeg života. No, za Antoniju i Martinu to nije oznaka ograničenja, već katalizator promjena.
 
 ‌
 
 ### “Na prvu sam mislila da je moždani udar!”
+
+‌
+
+![](/assets/images/antonija-halar.jpg)
 
 ‌
 
@@ -42,11 +46,9 @@ Nakon dijagnoze tvrdi da je malo reći da je svijet potpuno stao:
 
 ‌
 
-***Bile su mi oduzete desna ruka i noga.** Na prvu sam mislila da je [moždani udar](https://krenizdravo.dnevnik.hr/zdravlje/mozdani-udar-uzroci-simptomi-i-lijecenje). Smještena sam bila na neurologiju u Karlovcu. Sjediš na bolničkom krevetu, suze jednostavno same krenu, pokušavaš pratiti svaku riječ od neurologa Ervina, ali čini mi se da su njegove riječi lebdjele u zraku teško dopirući do mene. U tom trenutku moje misli bile su s mojom djecom. I sami znate da su dani u bolnici teški. Svaki razgovor tvoje obitelji i prijatelja ti je potreban u svakom trenutku.*
+**\*Bile su mi oduzete desna ruka i noga.** Na prvu sam mislila da je [moždani udar](https://krenizdravo.dnevnik.hr/zdravlje/mozdani-udar-uzroci-simptomi-i-lijecenje). Smještena sam bila na neurologiju u Karlovcu. Sjediš na bolničkom krevetu, suze jednostavno same krenu, pokušavaš pratiti svaku riječ od neurologa Ervina, ali čini mi se da su njegove riječi lebdjele u zraku teško dopirući do mene. U tom trenutku moje misli bile su s mojom djecom. I sami znate da su dani u bolnici teški. Svaki razgovor tvoje obitelji i prijatelja ti je potreban u svakom trenutku.*
 
 ‌
-
-
 
 ### “Zasad je terapija uspješna i nadam se da će duže vrijeme potrajati.”
 
@@ -88,9 +90,11 @@ Antonija Halar učlanila se u **[Društvo multiple skleroze Karlovačke župani
 
 ‌
 
-
-
 ### Dijagnoza multiple u vrijeme COVID pandemije
+
+‌
+
+![](/assets/images/martina-gotovac-1.jpg)
 
 ‌
 
@@ -122,8 +126,6 @@ Gotovac dodaje:
 
 ‌
 
-
-
 ### “Vještica” koja joj sjedi za vratom
 
 ‌
@@ -144,9 +146,11 @@ Gotovac, uz sve izazove koji dolaze s dijagnozom, također vodi grupu za potporu
 
 ‌
 
-
-
 ### “Cilj mi je osvojiti još puno vrhova u životu!”
+
+‌
+
+![](/assets/images/spoznaja-dijagnoze-na-mene-je-djelovala-zapravo-dobro.jpg)
 
 ‌
 
@@ -154,7 +158,7 @@ Kao terapiju Gotovac je koristila betaferon koji joj nije odgovarao, a sada kori
 
 ‌
 
-*Nisam puno mijenjala prehrambene navike osim što se trudim jesti zdravije i umjereno, domaću hranu iz obiteljskog vrta i manje slatkog, a to mi je takoreći porok. [Dijagnoza MS-a](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/multipla-skleroza-uzroci-simptomi-i-lijecenje) mi je donijela dobro što se tiče [vježbanja](https://krenizdravo.dnevnik.hr/budi-fit/vjezbe-vitalnost/kako-pronaci-motivaciju-za-vjezbanje) jer sam krenula na DNS vježbanje koje obožavam i toplo preporučujem svima, ne samo oboljelima od MS-a. Volim [bicikl](https://krenizdravo.dnevnik.hr/budi-fit/vjezbe-vitalnost/bicikliranje-i-kalorije-kako-izgleda-mrsavljenje-bicikliranjem) i vozim se kad god mogu, to me zaista opušta i veseli. **Volim [planinarenje](https://krenizdravo.dnevnik.hr/budi-fit/vjezbe-vitalnost/planinarenje-za-pocetnike-rekreacija-za-tijelo-i-um-ako-tek-krecete-u-planine-evo-koja-vam-oprema-treba-kojim-stazama-krenuti-i-cega-se-drzati) i cilj mi je osvojiti još puno vrhova u životu.***
+\*Nisam puno mijenjala prehrambene navike osim što se trudim jesti zdravije i umjereno, domaću hranu iz obiteljskog vrta i manje slatkog, a to mi je takoreći porok. [Dijagnoza MS-a](https://krenizdravo.dnevnik.hr/zdravlje/bolesti-zdravlje/multipla-skleroza-uzroci-simptomi-i-lijecenje) mi je donijela dobro što se tiče [vježbanja](https://krenizdravo.dnevnik.hr/budi-fit/vjezbe-vitalnost/kako-pronaci-motivaciju-za-vjezbanje) jer sam krenula na DNS vježbanje koje obožavam i toplo preporučujem svima, ne samo oboljelima od MS-a. Volim [bicikl](https://krenizdravo.dnevnik.hr/budi-fit/vjezbe-vitalnost/bicikliranje-i-kalorije-kako-izgleda-mrsavljenje-bicikliranjem) i vozim se kad god mogu, to me zaista opušta i veseli. **Volim [planinarenje](https://krenizdravo.dnevnik.hr/budi-fit/vjezbe-vitalnost/planinarenje-za-pocetnike-rekreacija-za-tijelo-i-um-ako-tek-krecete-u-planine-evo-koja-vam-oprema-treba-kojim-stazama-krenuti-i-cega-se-drzati) i cilj mi je osvojiti još puno vrhova u životu.***
 
 ‌
 
@@ -170,7 +174,7 @@ Kada je riječ o budućnosti, Gotovac je prilično optimistična:
 
 ‌
 
-*Vjerujem da će biti OK, jer MS je samo jedan dio mene, ali ja sam ostala ja, malo sporija, zaboravljiva, umornija, ali ne dam se i guram sebe i, nadam se, druge, jer neće mene neka vještica nadmašiti u mojem smijehu i pozitivi. Kako ja uvijek govorim: “Ja imam još puno posla u životu!”. Želim plesati na svadbama svojih kćeri, vidjeti još puno toga, probati još puno stvari, raditi, družiti se s dobrim ljudima, svojom predivnom obitelji i prijateljima. **Svi su oni moja snaga i podrška.***
+\*Vjerujem da će biti OK, jer MS je samo jedan dio mene, ali ja sam ostala ja, malo sporija, zaboravljiva, umornija, ali ne dam se i guram sebe i, nadam se, druge, jer neće mene neka vještica nadmašiti u mojem smijehu i pozitivi. Kako ja uvijek govorim: “Ja imam još puno posla u životu!”. Želim plesati na svadbama svojih kćeri, vidjeti još puno toga, probati još puno stvari, raditi, družiti se s dobrim ljudima, svojom predivnom obitelji i prijateljima. **Svi su oni moja snaga i podrška.***
 
 ‌
 
@@ -178,7 +182,7 @@ Za kraj je dodala:
 
 ‌
 
-***Zdravlje se pogorša, uvijek može biti gore od onoga što jest**, ali mislim da uvijek sami moramo naći način kako si pomoći, kako se razveseliti, naći nešto pozitivno, makar to bila malena stvar kao **ubrati cvijeće, prošetati, provozati se, zagrliti dragu nam osobu, pojesti najdraži sladoled**. Neka to bude moja poruka drugima. Ljudi, ne dajte se, MS je samo mali dio vas, a vi ste svoji “gazde” (kako se zove naša Viber grupa u Društvu multiple Karlovac). **Volite sebe, prihvatite sebe kakvi jeste, družite se s onima s kojima vam je ugodno i nikad, nikad ne odustajte!***
+**\*Zdravlje se pogorša, uvijek može biti gore od onoga što jest**, ali mislim da uvijek sami moramo naći način kako si pomoći, kako se razveseliti, naći nešto pozitivno, makar to bila malena stvar kao **ubrati cvijeće, prošetati, provozati se, zagrliti dragu nam osobu, pojesti najdraži sladoled**. Neka to bude moja poruka drugima. Ljudi, ne dajte se, MS je samo mali dio vas, a vi ste svoji “gazde” (kako se zove naša Viber grupa u Društvu multiple Karlovac). **Volite sebe, prihvatite sebe kakvi jeste, družite se s onima s kojima vam je ugodno i nikad, nikad ne odustajte!***
 
 ‌
 
