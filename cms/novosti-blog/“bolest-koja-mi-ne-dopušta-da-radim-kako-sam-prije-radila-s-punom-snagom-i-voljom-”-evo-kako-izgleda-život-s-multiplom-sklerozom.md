@@ -4,10 +4,8 @@ title: "“Bolest koja mi ne dopušta da radim kako sam prije radila, s punom
 created-on: 2023-09-29T11:10:17.256Z
 updated-on: 2023-09-29T11:10:17.890Z
 published-on: 2023-09-29T11:10:18.473Z
-f_kratki-opis: Usvijetu u kojem nevolje često iskušavaju granice ljudskog duha
-  pojavljuju se pojedinci čija nepokolebljiva odlučnost i neslomljiva snaga
-  volje služe kao svjetionici nade i inspiracije. **Antonija Halar** i **Martina
-  Gotovac** živa su svjedočanstva o snazi otpornosti na nedaće.
+f_kratki-opis: Antonija Halar i Martina Gotovac živa su svjedočanstva o snazi
+  otpornosti na nedaće.
 f_naslovna-slika:
   url: /assets/images/zivot-s-multiplom-sklerozom-2.jpg
 tags: novosti-blog
