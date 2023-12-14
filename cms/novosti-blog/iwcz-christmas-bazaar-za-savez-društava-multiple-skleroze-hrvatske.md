@@ -1,8 +1,8 @@
 ---
 title: IWCZ Christmas Bazaar za Savez društava multiple skleroze Hrvatske
-created-on: 2023-12-14T18:43:34.586Z
-updated-on: 2023-12-14T18:43:34.593Z
-published-on: 2023-12-14T18:43:34.600Z
+created-on: 2023-12-03T18:43:34.586Z
+updated-on: 2023-12-03T18:43:34.593Z
+published-on: 2023-12-03T18:43:34.600Z
 f_kratki-opis: Hvala International Women's Club Zagreb na organizaciji za osobe
   s multiplom sklerozom.
 f_naslovna-slika:
