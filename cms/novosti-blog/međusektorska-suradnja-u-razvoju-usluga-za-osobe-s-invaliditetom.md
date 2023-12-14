@@ -1,8 +1,8 @@
 ---
 title: Međusektorska suradnja u razvoju usluga za osobe s invaliditetom
-created-on: 2023-12-14T18:40:09.784Z
-updated-on: 2023-12-14T18:40:10.666Z
-published-on: 2023-12-14T18:40:11.584Z
+created-on: 2023-11-23T18:40:09.784Z
+updated-on: 2023-11-23T18:40:10.666Z
+published-on: 2023-11-23T18:40:11.584Z
 f_kratki-opis: Održana radionica pod temom “Poticanje i razvoj suradnje sa
   županijskim savezom osoba s invaliditetom i drugim udrugama osoba s
   invaliditetom na lokalnoj i nacionalnoj razini...
