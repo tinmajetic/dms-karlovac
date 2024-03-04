@@ -18,6 +18,10 @@ seo:
 ---
 U projektu DREE – Disability Rights in the European Elections sudjeluje kao partnerska organizacija SOIH – Zajednica saveza osoba s invaliditetom čiji je nositelj Europski forum osoba s invaliditetom. Glavni je cilj ovog projekta da se do 2024., kada se održavaju izbori za Europski parlament, osobe s invaliditetom aktivno uključe kao glasači, ali i kao politički aktivisti i kandidati. Trenutno postoje zakonske i druge prepreke koje milijune osoba s invaliditetom sprječavaju u ostvarivanju političkih prava na ravnopravnoj osnovi s drugim građanima EU-a, što predstavlja izravno kršenje temeljnih prava navedenih u Konvenciji Ujedinjenih naroda o pravima osoba s invaliditetom.
 
+‌
+
 Stoga u projektu ispred UOSIKAŽU sudjeluje socijalna radnica Maja Liković Cipurić u ulozi osobe koja donosi promjenu podizanjem svijesti o pravima osoba s invaliditetom u izbornom procesu.
+
+‌
 
 <https://www.youtube.com/watch?v=RPelPTmTrKU>
