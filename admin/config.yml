@@ -777,14 +777,6 @@ collections:
             label: Text
             name: '-7313ef67'
             widget: string
-          - hint: 'Original text: Nazad na blog, key: 64525339'
-            label: Text
-            name: '64525339'
-            widget: string
-          - hint: 'Original text: Moglo bi te zanimati:, key: 299f5bc1'
-            label: Text
-            name: 299f5bc1
-            widget: string
           - hint: 'Original text: Naš blog, key: e27f294'
             label: Text
             name: e27f294
@@ -807,33 +799,13 @@ collections:
             label: Text
             name: 24ff13
             widget: string
-          - hint: 'Original text: Više o nama, key: 14ef6a1'
+          - hint: 'Original text: Nazad na blog, key: 64525339'
             label: Text
-            name: 14ef6a1
+            name: '64525339'
             widget: string
-          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+          - hint: 'Original text: Moglo bi te zanimati:, key: 299f5bc1'
             label: Text
-            name: 79805f5e
-            widget: string
-          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
-            label: Text
-            name: '-4d34d62b'
-            widget: string
-          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
-            label: Text
-            name: '-3410593d'
-            widget: string
-          - hint: 'Original text: Tajnica, key: 71ad856'
-            label: Text
-            name: 71ad856
-            widget: string
-          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
-            label: Text
-            name: 11e3d8a9
-            widget: string
-          - hint: 'Original text: Preuzmi, key: 50414804'
-            label: Text
-            name: '50414804'
+            name: 299f5bc1
             widget: string
           - hint: >-
               Original text: Obavijest o obradi i zaštiti osobnih podataka
@@ -1160,6 +1132,34 @@ collections:
           - hint: 'Original text: https://bit.ly/2KVRNcN., key: -55bad944'
             label: Text
             name: '-55bad944'
+            widget: string
+          - hint: 'Original text: Više o nama, key: 14ef6a1'
+            label: Text
+            name: 14ef6a1
+            widget: string
+          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+            label: Text
+            name: 79805f5e
+            widget: string
+          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
+            label: Text
+            name: '-4d34d62b'
+            widget: string
+          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
+            label: Text
+            name: '-3410593d'
+            widget: string
+          - hint: 'Original text: Tajnica, key: 71ad856'
+            label: Text
+            name: 71ad856
+            widget: string
+          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
+            label: Text
+            name: 11e3d8a9
+            widget: string
+          - hint: 'Original text: Preuzmi, key: 50414804'
+            label: Text
+            name: '50414804'
             widget: string
       - label: Links
         name: links

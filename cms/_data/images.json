@@ -1,1 +1,142 @@
-{"0":{"url":"","alt":""},"241c1556":{"url":"/assets/images/l-top-g.webp","alt":"Žena drži poruku: \"Svaki dan nađi razlog za smijeh\"."},"5245f590":{"url":"/assets/images/r-top-g.webp","alt":"Žena drži poruku: \"Možeš Sve!\"."},"-72116677":{"url":"/assets/images/l-bot-b.webp","alt":"Muškarac drži poruku: \"Ne mogu nije opcija\"."},"-3b5f4b22":{"url":"/assets/images/r-bot-g.webp","alt":"Žena drži znak: \"Vjerovati u sebe: hoću i mogu!\""},"-5623d671":{"url":"/assets/images/dmskz-logo.svg","alt":"Logo Društva multiple skleroze Karlovačke županije"},"-fc5cca8":{"url":"/assets/images/open-navigation-button.svg","alt":""},"6e05c892":{"url":"/assets/images/close-navigation-button.svg","alt":"Decline cookie "},"618bc5e7":{"url":"/assets/images/3-step-arrow-.svg","alt":""},"527728bf":{"url":"/assets/images/why-us-image.webp","alt":"Muškarac i žena zajedno drže plakat o edukaciji osoba s MS-om"},"-686fea1e":{"url":"/assets/images/disabled-person.svg","alt":"Znak pristupačnosti"},"-171b37e2":{"url":"/assets/images/skip-line.svg","alt":"Prvenstvo u redovima"},"3179085b":{"url":"/assets/images/telekom_logo.svg","alt":"Popust na telefonsku ht preplatu"},"-1603af50":{"url":"/assets/images/hrt_logo.svg","alt":"Pravo na povlašteno plaćanje RTV pristojbe"},"-20c0efe":{"url":"/assets/images/little-arrow.svg","alt":"back arrow button"},"-5035a6fb":{"url":"/assets/images/image-1.webp","alt":"Vježbanje"},"-4962447f":{"url":"/assets/images/image-5.webp","alt":"Vježbanje"},"48edfdbf":{"url":"/assets/images/image-10.webp","alt":"Vježbanje"},"305b8ef9":{"url":"/assets/images/image-15a.webp","alt":"Druženje"},"4fc1603b":{"url":"/assets/images/image-14.webp","alt":"Druženje"},"-4ccbf5bd":{"url":"/assets/images/image-3.webp","alt":"Druženje"},"-47ad6be0":{"url":"/assets/images/image-6.webp","alt":"Druženje"},"-2a51450e":{"url":"/assets/images/predavanje.webp","alt":"Predavanje"},"-4e80ce5c":{"url":"/assets/images/image-2.webp","alt":"Nastup u medijima"},"3f47bfd":{"url":"/assets/images/image-19a.webp","alt":"Nagrada"},"440fc5fd":{"url":"/assets/images/jasmina-profile.webp","alt":"Slika tajnice Jasmine Slavnić"},"38caf0a":{"url":"/assets/images/phone.svg","alt":"Telefon ikona"},"-9255865":{"url":"/assets/images/envelope-filled.svg","alt":"Mail ikona"},"5ffcd370":{"url":"/assets/images/grad-karlovac-logo.svg","alt":"Logo Grada Karlovca"},"-3a8784e3":{"url":"/assets/images/karlovaka-upanija-logo.svg","alt":"Logo Karlovačke županije"},"5998d357":{"url":"/assets/images/mrms-logo.webp","alt":"Logo Ministarstva rada, mirovniskog sustava, obitelji i socijalne politike"},"5b2d3585":{"url":"https://uploads-ssl.webflow.com/604e159350708c36b0475b73/604f422f0c81322c6c4496c3_allow-icon3.svg","alt":""},"-70343f3a":{"url":"/assets/images/left-big-arrow.svg","alt":""},"24ad6aca":{"url":"/assets/images/maja-likovic-i-jasmina-slavnic_1.webp","alt":"Maja Liković Cipurić i Jasmina Slavnić"},"-683125d9":{"url":"/assets/images/right-big-arrow.svg","alt":""}}
+{
+  "0": {
+    "url": "",
+    "alt": ""
+  },
+  "241c1556": {
+    "url": "/assets/images/l-top-g.webp",
+    "alt": "Žena drži poruku: \"Svaki dan nađi razlog za smijeh\"."
+  },
+  "5245f590": {
+    "url": "/assets/images/r-top-g.webp",
+    "alt": "Žena drži poruku: \"Možeš Sve!\"."
+  },
+  "-72116677": {
+    "url": "/assets/images/l-bot-b.webp",
+    "alt": "Muškarac drži poruku: \"Ne mogu nije opcija\"."
+  },
+  "-3b5f4b22": {
+    "url": "/assets/images/r-bot-g.webp",
+    "alt": "Žena drži znak: \"Vjerovati u sebe: hoću i mogu!\""
+  },
+  "-5623d671": {
+    "url": "/assets/images/dmskz-logo.svg",
+    "alt": "Logo Društva multiple skleroze Karlovačke županije"
+  },
+  "-fc5cca8": {
+    "url": "/assets/images/open-navigation-button.svg",
+    "alt": ""
+  },
+  "6e05c892": {
+    "url": "/assets/images/close-navigation-button.svg",
+    "alt": "Decline cookie "
+  },
+  "618bc5e7": {
+    "url": "/assets/images/3-step-arrow-.svg",
+    "alt": ""
+  },
+  "527728bf": {
+    "url": "/assets/images/why-us-image.webp",
+    "alt": "Muškarac i žena zajedno drže plakat o edukaciji osoba s MS-om"
+  },
+  "-686fea1e": {
+    "url": "/assets/images/disabled-person.svg",
+    "alt": "Znak pristupačnosti"
+  },
+  "-171b37e2": {
+    "url": "/assets/images/skip-line.svg",
+    "alt": "Prvenstvo u redovima"
+  },
+  "3179085b": {
+    "url": "/assets/images/telekom_logo.svg",
+    "alt": "Popust na telefonsku ht preplatu"
+  },
+  "-1603af50": {
+    "url": "/assets/images/hrt_logo.svg",
+    "alt": "Pravo na povlašteno plaćanje RTV pristojbe"
+  },
+  "-20c0efe": {
+    "url": "/assets/images/little-arrow.svg",
+    "alt": "back arrow button"
+  },
+  "-5035a6fb": {
+    "url": "/assets/images/image-1.webp",
+    "alt": "Vježbanje"
+  },
+  "-4962447f": {
+    "url": "/assets/images/image-5.webp",
+    "alt": "Vježbanje"
+  },
+  "48edfdbf": {
+    "url": "/assets/images/image-10.webp",
+    "alt": "Vježbanje"
+  },
+  "305b8ef9": {
+    "url": "/assets/images/image-15a.webp",
+    "alt": "Druženje"
+  },
+  "4fc1603b": {
+    "url": "/assets/images/image-14.webp",
+    "alt": "Druženje"
+  },
+  "-4ccbf5bd": {
+    "url": "/assets/images/image-3.webp",
+    "alt": "Druženje"
+  },
+  "-47ad6be0": {
+    "url": "/assets/images/image-6.webp",
+    "alt": "Druženje"
+  },
+  "-2a51450e": {
+    "url": "/assets/images/predavanje.webp",
+    "alt": "Predavanje"
+  },
+  "-4e80ce5c": {
+    "url": "/assets/images/image-2.webp",
+    "alt": "Nastup u medijima"
+  },
+  "3f47bfd": {
+    "url": "/assets/images/image-19a.webp",
+    "alt": "Nagrada"
+  },
+  "440fc5fd": {
+    "url": "/assets/images/jasmina-profile.webp",
+    "alt": "Slika tajnice Jasmine Slavnić"
+  },
+  "38caf0a": {
+    "url": "/assets/images/phone.svg",
+    "alt": "Telefon ikona"
+  },
+  "-9255865": {
+    "url": "/assets/images/envelope-filled.svg",
+    "alt": "Mail ikona"
+  },
+  "5ffcd370": {
+    "url": "/assets/images/grad-karlovac-logo.svg",
+    "alt": "Logo Grada Karlovca"
+  },
+  "-3a8784e3": {
+    "url": "/assets/images/karlovaka-upanija-logo.svg",
+    "alt": "Logo Karlovačke županije"
+  },
+  "5998d357": {
+    "url": "/assets/images/mrms-logo.webp",
+    "alt": "Logo Ministarstva rada, mirovniskog sustava, obitelji i socijalne politike"
+  },
+  "5b2d3585": {
+    "url": "https://uploads-ssl.webflow.com/604e159350708c36b0475b73/604f422f0c81322c6c4496c3_allow-icon3.svg",
+    "alt": ""
+  },
+  "-70343f3a": {
+    "url": "/assets/images/left-big-arrow.svg",
+    "alt": ""
+  },
+  "24ad6aca": {
+    "url": "/assets/images/maja-likovic-i-jasmina-slavnic_1.webp",
+    "alt": "Maja Liković Cipurić i Jasmina Slavnić"
+  },
+  "-683125d9": {
+    "url": "/assets/images/right-big-arrow.svg",
+    "alt": ""
+  }
+}
