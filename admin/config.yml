@@ -785,6 +785,28 @@ collections:
             label: Text
             name: 299f5bc1
             widget: string
+          - hint: 'Original text: Naš blog, key: e27f294'
+            label: Text
+            name: e27f294
+            widget: string
+          - hint: >-
+              Original text: Ovdje možeš saznati sve novosti vezane za udrugu,
+              nadolazeća događanja, radionice i slično., key: -4cafac91
+            label: Text
+            name: '-4cafac91'
+            widget: text
+          - hint: 'Original text: Trenutno nema više novosti., key: -335dead3'
+            label: Text
+            name: '-335dead3'
+            widget: string
+          - hint: 'Original text: Previous, key: -4811e0e9'
+            label: Text
+            name: '-4811e0e9'
+            widget: string
+          - hint: 'Original text: Next, key: 24ff13'
+            label: Text
+            name: 24ff13
+            widget: string
           - hint: 'Original text: Više o nama, key: 14ef6a1'
             label: Text
             name: 14ef6a1
@@ -812,28 +834,6 @@ collections:
           - hint: 'Original text: Preuzmi, key: 50414804'
             label: Text
             name: '50414804'
-            widget: string
-          - hint: 'Original text: Naš blog, key: e27f294'
-            label: Text
-            name: e27f294
-            widget: string
-          - hint: >-
-              Original text: Ovdje možeš saznati sve novosti vezane za udrugu,
-              nadolazeća događanja, radionice i slično., key: -4cafac91
-            label: Text
-            name: '-4cafac91'
-            widget: text
-          - hint: 'Original text: Trenutno nema više novosti., key: -335dead3'
-            label: Text
-            name: '-335dead3'
-            widget: string
-          - hint: 'Original text: Previous, key: -4811e0e9'
-            label: Text
-            name: '-4811e0e9'
-            widget: string
-          - hint: 'Original text: Next, key: 24ff13'
-            label: Text
-            name: 24ff13
             widget: string
           - hint: >-
               Original text: Obavijest o obradi i zaštiti osobnih podataka
