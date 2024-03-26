@@ -19,7 +19,7 @@
 
 .w-embed-youtubevideo {
   width: 100%;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg');
+  background-image: var(--image-708b924);
   background-position: 50%;
   background-size: cover;
   padding-bottom: 0;
@@ -67,7 +67,7 @@
 
 .w-checkbox-input--inputType-custom.w--redirected-checked {
   background-color: #3898ec;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg');
+  background-image: var(--image-i5cec3e91);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -264,6 +264,10 @@ a {
   font-size: 23px;
   font-weight: 400;
   line-height: 28px;
+}
+
+.rich-text h1, .rich-text h3, .rich-text p, .rich-text h2 {
+  margin-bottom: 20px;
 }
 
 .style-guide-color-wrap {
@@ -493,8 +497,11 @@ a {
 
 .home-hero-section.section-padding.just-hero {
   height: 100vh;
+  justify-content: center;
+  align-items: center;
   padding-left: 0;
   padding-right: 0;
+  display: flex;
 }
 
 .hero-h1 {
@@ -1368,8 +1375,11 @@ a {
   width: 100vw;
   height: 100vh;
   background-color: rgba(0, 0, 0, 0);
+  justify-content: center;
+  align-items: center;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
   position: absolute;
   overflow: hidden;
 }
@@ -1769,30 +1779,35 @@ a {
 }
 
 @media screen and (min-width: 1920px) {
+  .button {
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+  }
+
   .hero-text-wrapper {
-    padding-top: 260px;
+    padding-top: 0;
   }
 
   .l-boy {
     width: 35%;
-    bottom: -33%;
+    bottom: -53%;
   }
 
   .l-girl {
     width: 35%;
     bottom: 16%;
-    left: -19%;
+    left: -31%;
   }
 
   .r-grandma {
     width: 35%;
-    bottom: -30%;
+    bottom: -52%;
   }
 
   .r-girl {
     width: 35%;
     bottom: 13%;
-    right: -19%;
+    right: -27%;
   }
 
   .fs-cc-banner3_component {
@@ -1857,6 +1872,12 @@ a {
 
   .home-hero-section.section-padding {
     height: 100vh;
+  }
+
+  .home-hero-section.section-padding.just-hero {
+    width: 100%;
+    height: auto;
+    min-height: 870px;
   }
 
   .hero-h1 {
@@ -2202,6 +2223,10 @@ a {
     width: 160px;
   }
 
+  .overflow-mask {
+    height: auto;
+  }
+
   .about-button-wrappper {
     margin-top: 20px;
     padding-top: 40px;
@@ -2287,6 +2312,10 @@ a {
     height: 100%;
   }
 
+  .home-hero-section.section-padding.just-hero {
+    min-height: 710px;
+  }
+
   .hero-h1 {
     max-width: 390px;
     font-size: 34px;
@@ -2295,6 +2324,7 @@ a {
 
   .hero-text-wrapper {
     margin-top: 0;
+    padding-top: 0;
   }
 
   .hero-paragraph {
@@ -2639,7 +2669,8 @@ a {
   }
 
   .home-hero-section.section-padding.just-hero {
-    height: 120vh;
+    height: auto;
+    min-height: 930px;
   }
 
   .hero-h1 {
@@ -2652,7 +2683,7 @@ a {
 
   .hero-text-wrapper {
     align-items: flex-start;
-    padding-top: 100px;
+    padding-top: 0;
   }
 
   .hero-paragraph {

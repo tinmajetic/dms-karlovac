@@ -3,6 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -75,6 +76,13 @@ collections:
             name: twitter:creator
             widget: string
             required: false
+          - label: Twitter Image
+            name: twitter:image
+            widget: image
+            required: false
+            media_library:
+              config:
+                multiple: false
           - label: Additional HTML tags
             name: additional_tags
             widget: text
@@ -696,9 +704,9 @@ collections:
             label: Text
             name: 792b2792
             widget: string
-          - hint: 'Original text: Izrada stranice: majestictin.com, key: 396c3f4c'
+          - hint: 'Original text: Stranicu izradio Tin Majetić, key: 46f8b9c3'
             label: Text
-            name: 396c3f4c
+            name: 46f8b9c3
             widget: string
           - hint: >-
               Original text: Izradu web stranice financirala je Karlovačka
@@ -769,576 +777,6 @@ collections:
             label: Text
             name: '-7313ef67'
             widget: string
-          - hint: 'Original text: Style Guide, key: -7aba473'
-            label: Text
-            name: '-7aba473'
-            widget: string
-          - hint: 'Original text: Typography, key: 5500514f'
-            label: Text
-            name: 5500514f
-            widget: string
-          - hint: 'Original text: Edit, key: 20e22a'
-            label: Text
-            name: 20e22a
-            widget: string
-          - hint: >-
-              Original text: To edit the font family and color used globally on
-              all type elements edit, select the , key: -211f5ff0
-            label: Text
-            name: '-211f5ff0'
-            widget: string
-          - hint: 'Original text: Body, key: 1fadc2'
-            label: Text
-            name: 1fadc2
-            widget: string
-          - hint: 'Original text:  element and edit the , key: -7aebf28'
-            label: Text
-            name: '-7aebf28'
-            widget: string
-          - hint: 'Original text: Body (All Pages), key: -206a72b2'
-            label: Text
-            name: '-206a72b2'
-            widget: string
-          - hint: 'Original text:  class., key: 4bd6edd6'
-            label: Text
-            name: 4bd6edd6
-            widget: string
-          - hint: 'Original text: FONT, key: 21044f'
-            label: Text
-            name: 21044f
-            widget: string
-          - hint: >-
-              Original text: This is the global font used on the site, key:
-              -69bb3115
-            label: Text
-            name: '-69bb3115'
-            widget: string
-          - hint: >-
-              Original text: To edit the global H1 class edit the , key:
-              -13506efd
-            label: Text
-            name: '-13506efd'
-            widget: string
-          - hint: 'Original text: ALL H1 Heading, key: -4defae56'
-            label: Text
-            name: '-4defae56'
-            widget: string
-          - hint: 'Original text: H1, key: 8e9'
-            label: Text
-            name: '8e9'
-            widget: string
-          - hint: >-
-              Original text: This the main heading of the page, use only once,
-              in the hero section., key: -459282d2
-            label: Text
-            name: '-459282d2'
-            widget: string
-          - hint: >-
-              Original text: To edit the global H2 class edit the , key:
-              3d596f04
-            label: Text
-            name: 3d596f04
-            widget: string
-          - hint: 'Original text: ALL H2 Heading, key: 4654c0ab'
-            label: Text
-            name: 4654c0ab
-            widget: string
-          - hint: 'Original text: H2, key: 8ea'
-            label: Text
-            name: 8ea
-            widget: string
-          - hint: >-
-              Original text: Use this as the heading for your different sections
-              throughout the page., key: 4904c20
-            label: Text
-            name: 4904c20
-            widget: string
-          - hint: >-
-              Original text: To edit the global H3 class edit the , key:
-              -71fcb2fb
-            label: Text
-            name: '-71fcb2fb'
-            widget: string
-          - hint: 'Original text: ALL H3 Heading, key: -2566d054'
-            label: Text
-            name: '-2566d054'
-            widget: string
-          - hint: 'Original text: H3, key: 8eb'
-            label: Text
-            name: 8eb
-            widget: string
-          - hint: >-
-              Original text: Use this for the titles for your different elements
-              in your sections, like key benefits or services, key: 57773acb
-            label: Text
-            name: 57773acb
-            widget: text
-          - hint: >-
-              Original text: To edit the global paragraph (P) class edit the ,
-              key: 7dce0cf
-            label: Text
-            name: 7dce0cf
-            widget: string
-          - hint: 'Original text: ALL paragraphs, key: 1f52f4c4'
-            label: Text
-            name: 1f52f4c4
-            widget: string
-          - hint: 'Original text: PARAGRAPHS , key: -58493805'
-            label: Text
-            name: '-58493805'
-            widget: string
-          - hint: >-
-              Original text: Use paragraphs any time that you have a text that
-              more than just a few words, note that paragraphs need to be spaced
-              between themselves clarify when one paragraph ends and another
-              begins., key: 9f6ef42
-            label: Text
-            name: 9f6ef42
-            widget: text
-          - hint: >-
-              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Suspendisse varius enim in eros elementum tristique. Duis
-              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
-              commodo diam libero vitae erat. Aenean faucibus nibh et justo
-              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
-              tristique posuere., key: -5286fc08
-            label: Text
-            name: '-5286fc08'
-            widget: text
-          - hint: >-
-              Original text: To edit the Small Paragraph class edit the , key:
-              -28c1fe2e
-            label: Text
-            name: '-28c1fe2e'
-            widget: string
-          - hint: 'Original text: Large-P, key: 6056761e'
-            label: Text
-            name: 6056761e
-            widget: string
-          - hint: "Original text: LARGE\_PARAGRAPH , key: -681628c9"
-            label: Text
-            name: '-681628c9'
-            widget: string
-          - hint: >-
-              Original text: Some times you need to have a big paragraph, for
-              example below your hero section to give context to the heading.,
-              key: -1a93e2f8
-            label: Text
-            name: '-1a93e2f8'
-            widget: text
-          - hint: 'Original text: Small-P, key: -19d0f316'
-            label: Text
-            name: '-19d0f316'
-            widget: string
-          - hint: "Original text: SMALL\_PARAGRAPH , key: -281fda15"
-            label: Text
-            name: '-281fda15'
-            widget: string
-          - hint: >-
-              Original text: Some times you want to have smaller text, for
-              example when you mention terms and conditions, you can use this
-              class whenever you need a low hierarchy text., key: -4904a8e1
-            label: Text
-            name: '-4904a8e1'
-            widget: text
-          - hint: >-
-              Original text: To edit the color of the light text class edit the
-              , key: -862e91
-            label: Text
-            name: '-862e91'
-            widget: string
-          - hint: 'Original text: Light-Text, key: 67943fc4'
-            label: Text
-            name: 67943fc4
-            widget: string
-          - hint: "Original text: LIGHT\_TEXT\_COLOR, key: 29d067fa"
-            label: Text
-            name: 29d067fa
-            widget: string
-          - hint: >-
-              Original text: Sometimes you'll need your text on a dark
-              background, so you can apply this light text class to all your
-              type elements, key: -1eacb090
-            label: Text
-            name: '-1eacb090'
-            widget: text
-          - hint: >-
-              Original text: To edit the type elements nested inside a Rich Text
-              element, select the text and edit the , key: -4850e328
-            label: Text
-            name: '-4850e328'
-            widget: string
-          - hint: 'Original text: ALL Heading, key: -190a61bd'
-            label: Text
-            name: '-190a61bd'
-            widget: string
-          - hint: 'Original text:  class nested inside , key: 20f7543'
-            label: Text
-            name: 20f7543
-            widget: string
-          - hint: 'Original text: Rich-Text, key: 4269bb7e'
-            label: Text
-            name: 4269bb7e
-            widget: string
-          - hint: >-
-              Original text: Make sure you enable the "Nest selector" option.,
-              key: -92f427c
-            label: Text
-            name: '-92f427c'
-            widget: string
-          - hint: "Original text: RICH\_TEXT, key: 7935b671"
-            label: Text
-            name: 7935b671
-            widget: string
-          - hint: >-
-              Original text: You'll be using Rich Text elements on dynamic
-              content like blog posts. If you need to have headings and text
-              styles different than the rest of your website, you can edit them
-              here., key: 57957d43
-            label: Text
-            name: 57957d43
-            widget: text
-          - hint: 'Original text: H1 Heading inside a Rich Text, key: 7b27d363'
-            label: Text
-            name: 7b27d363
-            widget: string
-          - hint: 'Original text: H2 Heading inside a Rich Text, key: 6bf8dac2'
-            label: Text
-            name: 6bf8dac2
-            widget: string
-          - hint: 'Original text: H3 Heading inside a Rich Text, key: 5cc9e221'
-            label: Text
-            name: 5cc9e221
-            widget: string
-          - hint: >-
-              Original text: This is a paragraph element inside a Rich Text,
-              key: -66595a69
-            label: Text
-            name: '-66595a69'
-            widget: string
-          - hint: >-
-              Original text: To make changes to the bullets size and left
-              padding edit the , key: -4d0880f4
-            label: Text
-            name: '-4d0880f4'
-            widget: string
-          - hint: 'Original text: List, key: 2424be'
-            label: Text
-            name: 2424be
-            widget: string
-          - hint: 'Original text:  class. , key: 2f06cd0a'
-            label: Text
-            name: 2f06cd0a
-            widget: string
-          - hint: 'Original text: LIST, key: 23a89e'
-            label: Text
-            name: 23a89e
-            widget: string
-          - hint: >-
-              Original text: When ever you have a list of points to make, key:
-              -774c0849
-            label: Text
-            name: '-774c0849'
-            widget: string
-          - hint: 'Original text: It''s best to use a list element, key: -361a52dc'
-            label: Text
-            name: '-361a52dc'
-            widget: string
-          - hint: "Original text: The SEO\_for your site will benefit, key: 3675f0fe"
-            label: Text
-            name: 3675f0fe
-            widget: string
-          - hint: 'Original text: Color, key: 3e43f43'
-            label: Text
-            name: 3e43f43
-            widget: string
-          - hint: >-
-              Original text: Select the Background color you'd like to edit and
-              click , key: 194fe5fb
-            label: Text
-            name: 194fe5fb
-            widget: string
-          - hint: "Original text: EDIT\_SWATCH , key: -65673932"
-            label: Text
-            name: '-65673932'
-            widget: string
-          - hint: 'Original text: (pencil Icon), key: -2a43b5fb'
-            label: Text
-            name: '-2a43b5fb'
-            widget: string
-          - hint: 'Original text: Dark Color, key: -558fd1c7'
-            label: Text
-            name: '-558fd1c7'
-            widget: string
-          - hint: 'Original text: Primary Brand Color, key: 22ced40c'
-            label: Text
-            name: 22ced40c
-            widget: string
-          - hint: 'Original text: Secondary Brand Color, key: 3660247e'
-            label: Text
-            name: 3660247e
-            widget: string
-          - hint: 'Original text: Mid Grey Color, key: 5f6e17da'
-            label: Text
-            name: 5f6e17da
-            widget: string
-          - hint: 'Original text: White, key: 4fadc09'
-            label: Text
-            name: 4fadc09
-            widget: string
-          - hint: 'Original text: Buttons, key: 719b5761'
-            label: Text
-            name: 719b5761
-            widget: string
-          - hint: "Original text: To edit the size and\_padding of all buttons edit the , key: -55e7b54b"
-            label: Text
-            name: '-55e7b54b'
-            widget: string
-          - hint: 'Original text: Button, key: 77471352'
-            label: Text
-            name: '77471352'
-            widget: string
-          - hint: "Original text: Specific changes to Ghost button, like background color &\_border should be made on the , key: 1f827578"
-            label: Text
-            name: 1f827578
-            widget: string
-          - hint: 'Original text: Ghost-Button, key: -474c790'
-            label: Text
-            name: '-474c790'
-            widget: string
-          - hint: 'Original text: To edit the native text links, edit , key: -22644d'
-            label: Text
-            name: '-22644d'
-            widget: string
-          - hint: "Original text: ALL\_Links, key: 45fadbba"
-            label: Text
-            name: 45fadbba
-            widget: string
-          - hint: 'Original text:  class, key: 3c40bd58'
-            label: Text
-            name: 3c40bd58
-            widget: string
-          - hint: >-
-              Original text: Changes to the colors of inverse buttons can be
-              done by editing the , key: -1dd08d50
-            label: Text
-            name: '-1dd08d50'
-            widget: string
-          - hint: 'Original text: Inverse, key: -27f58cf0'
-            label: Text
-            name: '-27f58cf0'
-            widget: string
-          - hint: 'Original text:  combo classes, key: 309bcb74'
-            label: Text
-            name: 309bcb74
-            widget: string
-          - hint: 'Original text: Main Button, key: -20811487'
-            label: Text
-            name: '-20811487'
-            widget: string
-          - hint: 'Original text: Text Link, key: 3610230d'
-            label: Text
-            name: 3610230d
-            widget: string
-          - hint: 'Original text: FORMS, key: 3ff940f'
-            label: Text
-            name: 3ff940f
-            widget: string
-          - hint: >-
-              Original text: To edit the different elements by selecting the
-              classed starting with , key: -252b692d
-            label: Text
-            name: '-252b692d'
-            widget: string
-          - hint: 'Original text: Form, key: 2180e4'
-            label: Text
-            name: '2180e4'
-            widget: string
-          - hint: 'Original text: Text Input, key: -7433b8e9'
-            label: Text
-            name: '-7433b8e9'
-            widget: string
-          - hint: 'Original text: Text Area, key: 360b43a0'
-            label: Text
-            name: 360b43a0
-            widget: string
-          - hint: 'Original text: Email Address, key: -2b7010d0'
-            label: Text
-            name: '-2b7010d0'
-            widget: string
-          - hint: 'Original text: Select one..., key: 57f3b1cc'
-            label: Text
-            name: 57f3b1cc
-            widget: string
-          - hint: 'Original text: First choice, key: -12801ecf'
-            label: Text
-            name: '-12801ecf'
-            widget: string
-          - hint: 'Original text: Second choice, key: 72dc86ad'
-            label: Text
-            name: 72dc86ad
-            widget: string
-          - hint: 'Original text: Third choice, key: 1b66029a'
-            label: Text
-            name: 1b66029a
-            widget: string
-          - hint: 'Original text: Checkbox, key: 5f757fe3'
-            label: Text
-            name: 5f757fe3
-            widget: string
-          - hint: 'Original text: Radio, key: 4b123db'
-            label: Text
-            name: 4b123db
-            widget: string
-          - hint: >-
-              Original text: Thank you! Your submission has been received!, key:
-              5a0ea5a1
-            label: Text
-            name: 5a0ea5a1
-            widget: string
-          - hint: >-
-              Original text: Oops! Something went wrong while submitting the
-              form., key: -7c112e99
-            label: Text
-            name: '-7c112e99'
-            widget: string
-          - hint: 'Original text: Layout Elements, key: -62284ed3'
-            label: Text
-            name: '-62284ed3'
-            widget: string
-          - hint: >-
-              Original text: To edit the left-right padding on all sections,
-              select the top section on this page and edit the , key: -40604944
-            label: Text
-            name: '-40604944'
-            widget: text
-          - hint: 'Original text: Section-Padding, key: 209938e9'
-            label: Text
-            name: '209938e9'
-            widget: string
-          - hint: "Original text: SECTION\_PADDING, key: -1e4db6ea"
-            label: Text
-            name: '-1e4db6ea'
-            widget: string
-          - hint: >-
-              Original text: Each one of your sections should include the , key:
-              -1025d801
-            label: Text
-            name: '-1025d801'
-            widget: string
-          - hint: >-
-              Original text:  class, to make sure there's consistent padding and
-              your elements are not touching the edges of the screen., key:
-              -6b89939
-            label: Text
-            name: '-6b89939'
-            widget: text
-          - hint: >-
-              Original text: To edit the Max-Width of the container element,
-              select the top container on this page, and edit the , key:
-              10aa3db7
-            label: Text
-            name: 10aa3db7
-            widget: text
-          - hint: 'Original text: Container, key: 5ef36c61'
-            label: Text
-            name: 5ef36c61
-            widget: string
-          - hint: 'Original text: CONTAINER, key: -7266a39f'
-            label: Text
-            name: '-7266a39f'
-            widget: string
-          - hint: >-
-              Original text: Each section on the page should have a , key:
-              1de04ce5
-            label: Text
-            name: 1de04ce5
-            widget: string
-          - hint: >-
-              Original text:  within keeping the main content centered within a
-              maximum width to improve readability and consistency. , key:
-              -715d6dcf
-            label: Text
-            name: '-715d6dcf'
-            widget: text
-          - hint: 'Original text: Popups, key: -712b6e99'
-            label: Text
-            name: '-712b6e99'
-            widget: string
-          - hint: >-
-              Original text: To edit the content of the popup, click the symbol
-              and edit the texts / links from the , key: -569b8e57
-            label: Text
-            name: '-569b8e57'
-            widget: string
-          - hint: 'Original text: Override, key: 23717fec'
-            label: Text
-            name: 23717fec
-            widget: string
-          - hint: 'Original text:  panel, key: 3cf31de4'
-            label: Text
-            name: 3cf31de4
-            widget: string
-          - hint: >-
-              Original text: To edit the design of the popup, double-click the
-              symbol to edit styling / elements, key: -108b7e6
-            label: Text
-            name: '-108b7e6'
-            widget: string
-          - hint: >-
-              Original text: To use the popup on other pages, copy the , key:
-              -731edbee
-            label: Text
-            name: '-731edbee'
-            widget: string
-          - hint: 'Original text: Popup-Background-Wrap, key: 312ebe48'
-            label: Text
-            name: 312ebe48
-            widget: string
-          - hint: >-
-              Original text:  element from this page (including the symbol
-              inside)., key: -6e8e75c8
-            label: Text
-            name: '-6e8e75c8'
-            widget: string
-          - hint: >-
-              Original text: To edit the open animation, select the button below
-              and edit the , key: -2714ec90
-            label: Text
-            name: '-2714ec90'
-            widget: string
-          - hint: 'Original text: Open-Popup, key: 48c43769'
-            label: Text
-            name: 48c43769
-            widget: string
-          - hint: 'Original text:  on the interactions panel., key: -1caa9e47'
-            label: Text
-            name: '-1caa9e47'
-            widget: string
-          - hint: 'Original text: Open Popup, key: 32953756'
-            label: Text
-            name: '32953756'
-            widget: string
-          - hint: 'Original text: This is your popup heading, key: 7a77b835'
-            label: Text
-            name: 7a77b835
-            widget: string
-          - hint: 'Original text: Button Text, key: -8fb26a5'
-            label: Text
-            name: '-8fb26a5'
-            widget: string
-          - hint: 'Original text: ✖️, key: 5b9b9'
-            label: Text
-            name: 5b9b9
-            widget: string
-          - hint: 'Original text: Nazad na blog, key: 64525339'
-            label: Text
-            name: '64525339'
-            widget: string
-          - hint: 'Original text: Moglo bi te zanimati:, key: 299f5bc1'
-            label: Text
-            name: 299f5bc1
-            widget: string
           - hint: 'Original text: Naš blog, key: e27f294'
             label: Text
             name: e27f294
@@ -1361,33 +799,13 @@ collections:
             label: Text
             name: 24ff13
             widget: string
-          - hint: 'Original text: Više o nama, key: 14ef6a1'
+          - hint: 'Original text: Nazad na blog, key: 64525339'
             label: Text
-            name: 14ef6a1
+            name: '64525339'
             widget: string
-          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+          - hint: 'Original text: Moglo bi te zanimati:, key: 299f5bc1'
             label: Text
-            name: 79805f5e
-            widget: string
-          - hint: 'Original text: Tajnica, key: 71ad856'
-            label: Text
-            name: 71ad856
-            widget: string
-          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
-            label: Text
-            name: 11e3d8a9
-            widget: string
-          - hint: 'Original text: Predsjednik Društva, key: -4b67be42'
-            label: Text
-            name: '-4b67be42'
-            widget: string
-          - hint: 'Original text: Radivoj Mišljenović, key: 5000f8ce'
-            label: Text
-            name: 5000f8ce
-            widget: string
-          - hint: 'Original text: Preuzmi, key: 50414804'
-            label: Text
-            name: '50414804'
+            name: 299f5bc1
             widget: string
           - hint: >-
               Original text: Obavijest o obradi i zaštiti osobnih podataka
@@ -1715,6 +1133,34 @@ collections:
             label: Text
             name: '-55bad944'
             widget: string
+          - hint: 'Original text: Više o nama, key: 14ef6a1'
+            label: Text
+            name: 14ef6a1
+            widget: string
+          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+            label: Text
+            name: 79805f5e
+            widget: string
+          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
+            label: Text
+            name: '-4d34d62b'
+            widget: string
+          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
+            label: Text
+            name: '-3410593d'
+            widget: string
+          - hint: 'Original text: Tajnica, key: 71ad856'
+            label: Text
+            name: 71ad856
+            widget: string
+          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
+            label: Text
+            name: 11e3d8a9
+            widget: string
+          - hint: 'Original text: Preuzmi, key: 50414804'
+            label: Text
+            name: '50414804'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1735,13 +1181,13 @@ collections:
             label: Link
             name: '23'
             widget: string
-          - hint: 'Original link: /blog, key: 2c48051'
+          - hint: 'Original link: /blog/, key: 55cb89fe'
             label: Link
-            name: 2c48051
+            name: 55cb89fe
             widget: string
-          - hint: 'Original link: /o-nama, key: 765c6a14'
+          - hint: 'Original link: /o-nama/, key: 5530d89b'
             label: Link
-            name: 765c6a14
+            name: 5530d89b
             widget: string
           - hint: >-
               Original link: https://dms-karlovac.com/o-nama/#documents, key:
@@ -1810,9 +1256,9 @@ collections:
             label: Link
             name: '-2edcbba4'
             widget: string
-          - hint: 'Original link: /obavijest-o-kolacicima, key: 720aaf56'
+          - hint: 'Original link: /obavijest-o-kolacicima/, key: -30b4c467'
             label: Link
-            name: 720aaf56
+            name: '-30b4c467'
             widget: string
           - hint: >-
               Original link:
@@ -1970,6 +1416,19 @@ collections:
                 required: false
           - label: Image
             name: 6e05c892
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '0'
             widget: object
             fields:
               - name: url
@@ -2307,7 +1766,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2f679091
+            name: 24ad6aca
             widget: object
             fields:
               - name: url
