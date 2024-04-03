@@ -410,11 +410,9 @@ collections:
             label: Text
             name: 285a407a
             widget: string
-          - hint: >-
-              Original text: Godišnja članarina iznosi 100 kn (13,3 EUR), key:
-              -44e4af44
+          - hint: 'Original text: Godišnja članarina iznosi 13,3 EUR, key: -1343b26d'
             label: Text
-            name: '-44e4af44'
+            name: '-1343b26d'
             widget: string
           - hint: 'Original text: preuzmi formulare, key: 6454951d'
             label: Text
