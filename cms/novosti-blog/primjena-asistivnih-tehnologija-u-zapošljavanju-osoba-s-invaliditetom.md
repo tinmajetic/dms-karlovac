@@ -7,7 +7,7 @@ f_kratki-opis: Sudjelovanje na radionici "Primjena asistivnih tehnologija u
   zapošljavanju osoba s invaliditetom" u Nikola Tesla Experience Centru. Cilj
   radionice je poticanje...
 f_naslovna-slika:
-  url: /assets/images/primjena-asistivnih-tehnologija-u-zapošljavanju-osoba-s-invaliditetom.jpg
+  url: /assets/images/primjena-asistivnih-tehnologija-u-zapošljavanju-osoba-s-invaliditetom.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-12-14T18:50:00.890Z
