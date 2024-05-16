@@ -7,7 +7,7 @@ f_kratki-opis: Uoči Svjetskog dana multiple skleroze (30. svibnja) Društvo
   multiple skleroze Karlovačke županije zajedno sa Savezom društava multiple
   skleroze Hrvatske i ove godine provodi kampanju „Ja sam više od MS-a!“
 f_naslovna-slika:
-  url: /assets/images/obilježavanje-svjetskog-dana-multiple-skleroze8.jpg
+  url: /assets/images/obilježavanje-svjetskog-dana-multiple-skleroze8.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-05-25T13:06:02.491Z
@@ -103,7 +103,6 @@ Ovim putem pozivamo cjelokupnu javnost da provjere svoje znanje o multipli skler
 
 ‌‌‌
 
-
 Multipla skleroza (MS) je autoimuna bolest za koju nema lijeka, a terapije koje oboljeli uzimaju imaju za cilj usporavanje progresije bolesti i podizanje kvalitete života oboljelih. Dva puta je češća kod žena, a MS nazivaju i bolest s 1000 lica jer su simptomi vrlo individualni i razlikuju se od osobe do osobe. Obično se dijagnosticira između 20. i 40. godine, a to je najbolje vrijeme za karijeru, obitelj i izgradnju budućnosti. Postoji nekoliko tipova MS-a, a najveći postotak oboljelih (oko 80%), boluje od relapsno remitirajućeg oblika bolesti što znači kako se u životu oboljelih pojavljuju pogoršanja, odnosno relapsi te stanja mirovanja bolesti uz moguće svakodnevne simptome bolesti. Unazad nekoliko godina
 zahvaljujući sve boljim terapijama za usporavanje progresije bolesti bilježi se kvalitetniji život s ovom dijagnozom. Multipla skleroza je rastući globalni zdravstveni problem, a u Hrvatskoj prema zadnjem istraživanju iz rujna 2022. godine od MS-a boluje 7024 osobe. Edukacija je ključna, jer što više znamo o MS, znati ćemo i na koje načine olakšati vlastite i tuđe živote onih koji žive sa njom. 
 
@@ -131,35 +130,34 @@ Jasmina Slavnić – tajnica
 
 ‌‌
 
-
 Maja Liković – članica predsjedništva
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze1.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze8.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze2.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze1.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze3.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze2.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze4.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze3.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze5.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze5.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze6.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze6.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze7.jpg)
+![](/assets/images/obilježavanje-svjetskog-dana-multiple-skleroze7.jpg)
 
 ‌
