@@ -7,7 +7,7 @@ published-on: 2023-06-12T13:29:53.301Z
 f_kratki-opis: Dodjela ugovora o financiranju projekta "Savjetovanje i pružanje
   podrške za osobe s multiplom sklerozom" Grada Karlovca za 2023.g...
 f_naslovna-slika:
-  url: /assets/images/dodjela-ugovora-o-financiranju-projekta-savjetovanje-i-pružanje-podrške-za-osobe-s-multiplom-sklerozom-grada-karlovca-za-2023.g.2.jpg
+  url: /assets/images/dodjela-ugovora-o-financiranju-projekta-savjetovanje-i-pružanje-podrške-za-osobe-s-multiplom-sklerozom-grada-karlovca-za-2023.g.2.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-06-16T13:29:53.316Z
@@ -28,4 +28,4 @@ Povodom uručenja ugovora nazočnima su se uz gradonačelnika Damira Mandića ob
 
 ‌
 
-![](/assets/images/dodjela-ugovora-o-financiranju-projekta-savjetovanje-i-pružanje-podrške-za-osobe-s-multiplom-sklerozom-grada-karlovca-za-2023.g.1.jpg)
+![](/assets/images/dodjela-ugovora-o-financiranju-projekta-savjetovanje-i-pružanje-podrške-za-osobe-s-multiplom-sklerozom-grada-karlovca-za-2023.g.1.jpg)
