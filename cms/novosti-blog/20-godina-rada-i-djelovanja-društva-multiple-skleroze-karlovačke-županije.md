@@ -7,7 +7,7 @@ f_kratki-opis: Dana 25. srpnja 2023. godine u Gradskoj knjižnici "Ivan Goran
   Kovačić" održana je dodjela i potpisivanje ugovora u sklopu Javnog natječaja
   za financiranje...
 f_naslovna-slika:
-  url: /assets/images/obilježavanje-20-godina-rada-i-djelovanja-društva-multiple-skleroze-karlovačke-županije-2.jpg
+  url: /assets/images/obilježavanje-20-godina-rada-i-djelovanja-društva-multiple-skleroze-karlovačke-županije-2.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-07-27T11:22:37.019Z
@@ -24,10 +24,8 @@ Ugovore je predstavnicima udruga civilnog društva uručila zamjenica županice 
 
 ‌
 
-![](/assets/images/obilježavanje-20-godina-rada-i-djelovanja-društva-multiple-skleroze-karlovačke-županije-1.jpg)
-
-
+![](/assets/images/obilježavanje-20-godina-rada-i-djelovanja-društva-multiple-skleroze-karlovačke-županije-1.jpg)
 
 ‌
 
-![](/assets/images/obilježavanje-20-godina-rada-i-djelovanja-društva-multiple-skleroze-karlovačke-županije-2.jpg)
+![](/assets/images/obilježavanje-20-godina-rada-i-djelovanja-društva-multiple-skleroze-karlovačke-županije-2.jpg)
