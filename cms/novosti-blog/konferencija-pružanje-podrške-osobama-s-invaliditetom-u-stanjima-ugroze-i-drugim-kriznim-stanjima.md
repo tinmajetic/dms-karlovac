@@ -7,7 +7,7 @@ published-on: 2023-05-25T13:05:13.341Z
 f_kratki-opis: Završna konferencija trogodišnjeg programa "Pružanje podrške
   osobama s invaliditetom u stanjima ugroze i drugim kriznim stanjima"...
 f_naslovna-slika:
-  url: /assets/images/konferencija-pružanje-podrške-osobama-s-invaliditetom-u-stanjima-ugroze-i-drugim-kriznim-stanjima-1.jpg
+  url: /assets/images/konferencija-pružanje-podrške-osobama-s-invaliditetom-u-stanjima-ugroze-i-drugim-kriznim-stanjima-1.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-06-01T13:05:13.360Z
@@ -20,10 +20,8 @@ Završna konferencija trogodišnjeg programa "Pružanje podrške osobama s inval
 
 ‌
 
-![](/assets/images/konferencija-pružanje-podrške-osobama-s-invaliditetom-u-stanjima-ugroze-i-drugim-kriznim-stanjima-2.jpg)
-
-
+![](/assets/images/konferencija-pružanje-podrške-osobama-s-invaliditetom-u-stanjima-ugroze-i-drugim-kriznim-stanjima-3.jpg)
 
 ‌
 
-![](/assets/images/konferencija-pružanje-podrške-osobama-s-invaliditetom-u-stanjima-ugroze-i-drugim-kriznim-stanjima-3.jpg)
+![](/assets/images/konferencija-pružanje-podrške-osobama-s-invaliditetom-u-stanjima-ugroze-i-drugim-kriznim-stanjima-2.jpg)
