@@ -5,7 +5,7 @@ updated-on: 2023-09-21T07:52:13.613Z
 published-on: 2023-09-21T07:52:14.280Z
 f_kratki-opis: Obilježili smo 20. godina rada Društva multiple skleroze Karlovačke županije
 f_naslovna-slika:
-  url: /assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije4.jpg
+  url: /assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije3.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-09-25T07:51:51.723Z
@@ -22,26 +22,18 @@ Zahvaljujemo se na financijskoj podršci Karlovačke županije koja je podržala
 
 ‌
 
-![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije5.jpg)
-
-
+![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije5.jpg)
 
 ‌
 
-![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije3.jpg)
-
-
+![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije1.jpg)
 
 ‌
 
-![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije2.jpg)
-
-
+![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije2.jpg)
 
 ‌
 
-![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije1.jpg)
-
-
+![](/assets/images/obljetnica-20-godina-rada-društva-ms-karlovačke-županije4.jpg)
 
 ‌
