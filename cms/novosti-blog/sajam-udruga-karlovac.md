@@ -14,3 +14,4 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
+Bili smo na Sajamu udruga Karlovac 07. listopada.
