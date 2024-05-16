@@ -8,7 +8,7 @@ f_kratki-opis: >
   skleroze Hrvatske i predstavnike županijskih udruga članica koji su ga
   upoznali...
 f_naslovna-slika:
-  url: /assets/images/posjet-predsjednika-republike-hrvatske-zorana-milanovića.jpg
+  url: /assets/images/posjet-predsjednika-republike-hrvatske-zorana-milanovića.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-10-28T18:18:50.655Z
