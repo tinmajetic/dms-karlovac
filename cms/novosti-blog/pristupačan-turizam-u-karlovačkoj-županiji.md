@@ -7,7 +7,7 @@ f_kratki-opis: Međunarodni dan osoba s invaliditetom obilježen je danas okrugl
   stolom na temu "Pristupačan turizam u Karlovačkoj županiji" u organizaciji
   Savez udruga...
 f_naslovna-slika:
-  url: /assets/images/pristupačan-turizam-u-karlovačkoj-županiji.jpg
+  url: /assets/images/pristupačan-turizam-u-karlovačkoj-županiji.jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-12-14T18:47:48.977Z
