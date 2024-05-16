@@ -6,7 +6,7 @@ published-on: 2024-03-08T10:38:01.382Z
 f_kratki-opis: Na izbornoj skupštini DMS Karlovačke županije održanoj 8.3.2024.
   za predsjednicu je izabrana Maja Liković Cipurić, mag.act.soc.
 f_naslovna-slika:
-  url: /assets/images/Maja-Liković-i-Jasmina-Slavnić.jpg
+  url: /assets/images/maja-likovic-i-jasmina-slavnic_1maja-likovic-i-jasmina-slavnic.webp
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2024-03-26T10:38:01.391Z
