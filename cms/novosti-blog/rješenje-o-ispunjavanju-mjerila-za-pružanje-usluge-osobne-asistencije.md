@@ -6,7 +6,7 @@ published-on: 2023-11-08T11:56:27.396Z
 f_kratki-opis: Društvo multiple skleroze Karlovačke županije dobilo Rješenje o
   ispunjavanju mjerila za pružanje usluge osobne asistencije!!
 f_naslovna-slika:
-  url: /assets/images/rješenje-o-ispunjavanju-mjerila-za-pružanje-usluge-osobne-asistencije.jpeg
+  url: /assets/images/rješenje-o-ispunjavanju-mjerila-za-pružanje-usluge-osobne-asistencije.jpeg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2023-11-08T11:56:27.410Z
