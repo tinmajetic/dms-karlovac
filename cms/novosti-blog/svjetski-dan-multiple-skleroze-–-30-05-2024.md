@@ -22,6 +22,6 @@ U večernjim satima 29.05.2024. povodom Svjetskog dana multiple skleroze naranč
 
 Svjetski dan multiple skleroze obilježava se 30.5., a krovni [SavezDruštava MultipleSkleroze](https://www.facebook.com/savezdrustavamshrvatske?__cft__%5b0%5d=AZUFeSLt-peAVTH-58rhlJb2TVdvB5hOzLfk2BE_dlhWS6EE0-K-1pegTeFw0vK4j_xMNtR3Tt6bPE5bgMBXncE3iZi1Pn-JLXeiJnZo-T6DqVddWEsKlepZO0Wa2nPO_SDCjC6gX2be7ozL5V39k6dt_dwgClyxCxMjXjQ7EAJL9t7tgCa4aNE_KmyLobQMhhogwAw0nV9hybowQ-_6VgVP&__tn__=-%5dK-R)provodi kampanju [\#jasamviseodmsa](https://www.facebook.com/hashtag/jasamviseodmsa?__eep__=6&__cft__%5b0%5d=AZUFeSLt-peAVTH-58rhlJb2TVdvB5hOzLfk2BE_dlhWS6EE0-K-1pegTeFw0vK4j_xMNtR3Tt6bPE5bgMBXncE3iZi1Pn-JLXeiJnZo-T6DqVddWEsKlepZO0Wa2nPO_SDCjC6gX2be7ozL5V39k6dt_dwgClyxCxMjXjQ7EAJL9t7tgCa4aNE_KmyLobQMhhogwAw0nV9hybowQ-_6VgVP&__tn__=*NK-R) kojoj se i mi pridružujemo. Multipla skleroza je kronična neurološka bolest s kojom se može kvalitetno živjeti uz odgovarajuće liječenje i način života, no za to je potrebno i razumijevanje i podrška okoline, obitelji, partnera, prijatelja, poslodavca... Otvori oči, ima i nevidljivih simptoma 
 
-
+‌
 
 ![](/assets/images/whatsapp-image-2024-06-11-at-18.10.56.jpeg)
