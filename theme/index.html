@@ -78,7 +78,7 @@
           {%- unless collection.length == 0 -%}<div role="list" class="blog-grid w-dyn-items w-row">
             {%- for item in collection -%}<div role="listitem" class="blog-item w-dyn-item w-col w-col-4">
               <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ images.0.alt | escape }}" class="blog-image">
-                <div class="blog-date">{{  item.data.f_created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
+                <div class="blog-date">{{  item.data.created-on | formatDate: "MMMM d, yyyy" }}</div>
                 <div class="blog-heading">{{ item.data.title }}</div>
                 <p class="blog-paragraph">{{ item.data.f_kratki-opis }}</p>
               </a>
@@ -182,7 +182,7 @@
     <div class="container">
       <div class="content-wrappper">
         <div class="about-grid-l">
-          <div id="w-node-c00a3be6-c6b7-997e-999b-5379e071c621-4ff2148b" class="about-gallery-1"><img class="image-10" src="{{ images.-5035a6fb.url }}" width="260" alt="{{ images.-5035a6fb.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-d33b1599-bfc6-924d-e792-950d9d5a6944-4ff2148b" loading="lazy"><img class="image-11" src="{{ images.-4962447f.url }}" width="260" alt="{{ images.-4962447f.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-_4ae4bde8-4215-1d72-1353-b3edb11bf5fc-4ff2148b" loading="lazy"><img class="image-21" src="{{ images.48edfdbf.url }}" alt="{{ images.48edfdbf.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-c8d7b483-af8d-a07e-ff60-bbf60df215f4-4ff2148b" loading="lazy"></div>
+          <div id="w-node-c00a3be6-c6b7-997e-999b-5379e071c621-4ff2148b" class="about-gallery-1"><img class="image-10" src="{{ images.-5035a6fb.url }}" width="260" alt="{{ images.-5035a6fb.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-d33b1599-bfc6-924d-e792-950d9d5a6944-4ff2148b" loading="lazy"><img class="image-11" src="{{ images.-4962447f.url }}" width="260" alt="{{ images.-4962447f.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="(max-width: 479px) 45vw, (max-width: 1919px) 23vw, 301px" id="w-node-_4ae4bde8-4215-1d72-1353-b3edb11bf5fc-4ff2148b" loading="lazy"><img class="image-21" src="{{ images.48edfdbf.url }}" alt="{{ images.48edfdbf.alt | escape }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;45vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;23vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;301px&quot;}]" sizes="100vw" id="w-node-c8d7b483-af8d-a07e-ff60-bbf60df215f4-4ff2148b" loading="lazy"></div>
           <div id="w-node-_96439e76-26a0-fdda-277f-1abb24f02bf8-4ff2148b" class="about-content-1">
             <div class="about-content-wrap">
               <div id="w-node-_8ac6a84a-2237-ee7f-0fad-228f46a01438-4ff2148b" class="text-block-4">{{ texts.-773abc48 }}</div>
@@ -240,12 +240,12 @@
       <div class="w-layout-grid map-2-col-grid">
         <div id="w-node-a92a13e6-78f4-d060-c7c7-dce58ce790a7-4ff2148b" class="map-text-wrap">
           <div class="map-text-in-wrap">
-            <h2 class="light-text">{{ texts.-441643dc }}</h2>
-            <p class="light-text">{{ texts.1134e428 }}<br>{{ texts.abb0c8d }}<br>{{ texts.7eab6142 }}</p>
-            <a href="{{ links.-32ec2d71 }}" target="_blank" class="button oringae-button w-button">{{ texts.-7417c4e3 }}</a>
+            <h2 class="light-text is-map">{{ texts.-441643dc }}</h2>
+            <p class="light-text is-map">{{ texts.1134e428 }}<br>{{ texts.abb0c8d }}<br>{{ texts.7eab6142 }}</p>
+            <a href="{{ links.-32ec2d71 }}" target="_blank" class="button orange-button w-button">{{ texts.-7417c4e3 }}</a>
           </div>
         </div>
-        <div class="map w-widget w-widget-map" data-widget-style="roadmap" data-widget-latlng="45.494309,15.5560823" aria-label="Društvo multiple skleroze Karlovačke županije" data-enable-scroll="false" role="region" title="Društvo multiple skleroze Karlovačke županije" data-enable-touch="true" data-widget-zoom="16" id="w-node-_3755f703-77dc-d418-9591-597c7d159ff8-4ff2148b" data-widget-tooltip="Društvo multiple skleroze Karlovačke županije"></div>
+        <div id="w-node-_4c37ba28-89f4-dc74-cf6a-1c6618e7935b-4ff2148b" class="w-embed w-iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.7830860968625!2d15.551211396634852!3d45.494312656851584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47643dd10d342135%3A0x934f2627690472f!2sDRU%C5%A0TVO%20MULTIPLE%20SKLEROZE%20KARLOVA%C4%8CKE%20%C5%BDUPANIJE%20-%20DMSKA!5e0!3m2!1sen!2shr!4v1716373974306!5m2!1sen!2shr" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
       </div>
     </div>
   </section>

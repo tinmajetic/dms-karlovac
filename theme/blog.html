@@ -68,7 +68,7 @@
                 <div class="w-layout-grid blog-2-col-grid">
                   <a id="w-node-_00e7d1c2-2f52-0a5a-983f-c0d5b8415ff3-72366497" href="{{ item.url }}" class="main-article-link w-inline-block"><img height="500" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;83vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;320px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;300px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;380px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ images.0.alt | escape }}" class="image-14"></a>
                   <div id="w-node-_4d21daea-f604-1795-70e3-7e5314adabc7-72366497" class="blog-item-wrapper _1">
-                    <div class="blog-date _1">{{  item.data.f_created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
+                    <div class="blog-date _1">{{  item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
                     <a href="{{ item.url }}" class="link-block w-inline-block">
                       <div class="blog-heading-1 _1">{{ item.data.title }}</div>
                     </a>
@@ -91,14 +91,14 @@
           {%- unless pagination.length == 0 -%}<div role="list" class="blog-all-posts w-dyn-items w-row">
             {%- for item in pagination[0] -%}<div role="listitem" class="blog-post w-dyn-item w-col w-col-4">
               <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ images.0.alt | escape }}" class="blog-image">
-                <div class="blog-date">{{  item.data.f_created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
+                <div class="blog-date">{{  item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
                 <div class="blog-heading">{{ item.data.title }}</div>
                 <p class="blog-paragraph">{{ item.data.f_kratki-opis }}</p>
               </a>
             </div>{%- endfor -%}
           {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page-41ef39a3-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="blog-post w-dyn-item w-col w-col-4">
               <a href="{{ item.url }}" class="blog-item-wrapper w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;55vw&quot;},{&quot;max&quot;:1919,&quot;size&quot;:&quot;30vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" src="{{ item.data.f_naslovna-slika.url }}" alt="{{ images.0.alt | escape }}" class="blog-image">
-                <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateTimeToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;D.M.YYYY h:mm A&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;created-on&quot;}}}}}" class="blog-date w-dyn-bind-empty">{{  item.data.f_created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
+                <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateTimeToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;D.M.YYYY h:mm A&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;created-on&quot;}}}}}" class="blog-date w-dyn-bind-empty">{{  item.data.created-on | formatDate: "d.M.yyyy h:mm a" }}</div>
                 <div class="blog-heading w-dyn-bind-empty">{{ item.data.title }}</div>
                 <p class="blog-paragraph w-dyn-bind-empty">{{ item.data.f_kratki-opis }}</p>
               </a>
@@ -159,7 +159,6 @@
           <a id="w-node-e5ea5570-d8c2-79d2-3c8b-37422a9b78b1-d62c63b2" href="{{ links.-554c22d }}" target="_blank" class="link-2">{{ texts.217bfee6 }}</a>
           <a href="{{ links.-6367a585 }}" target="_blank" class="link-2">{{ texts.792b2792 }}</a>
         </div><img src="{{ images.-5623d671.url }}" loading="lazy" width="209" id="w-node-_2a762335-bebd-7616-ee36-0938d62c63e9-d62c63b2" alt="{{ images.-5623d671.alt | escape }}" class="image-27">
-        <a id="w-node-_2a762335-bebd-7616-ee36-0938d62c63e7-d62c63b2" href="{{ links.-2edcbba4 }}" target="_blank" class="link">{{ texts.46f8b9c3 }}</a>
       </div>
     </div>
   </footer>

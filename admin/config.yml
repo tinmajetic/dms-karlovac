@@ -702,10 +702,6 @@ collections:
             label: Text
             name: 792b2792
             widget: string
-          - hint: 'Original text: Stranicu izradio Tin Majetić, key: 46f8b9c3'
-            label: Text
-            name: 46f8b9c3
-            widget: string
           - hint: >-
               Original text: Izradu web stranice financirala je Karlovačka
               županija, key: -75f59d6e
@@ -775,6 +771,34 @@ collections:
             label: Text
             name: '-7313ef67'
             widget: string
+          - hint: 'Original text: Više o nama, key: 14ef6a1'
+            label: Text
+            name: 14ef6a1
+            widget: string
+          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+            label: Text
+            name: 79805f5e
+            widget: string
+          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
+            label: Text
+            name: '-4d34d62b'
+            widget: string
+          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
+            label: Text
+            name: '-3410593d'
+            widget: string
+          - hint: 'Original text: Tajnica, key: 71ad856'
+            label: Text
+            name: 71ad856
+            widget: string
+          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
+            label: Text
+            name: 11e3d8a9
+            widget: string
+          - hint: 'Original text: Preuzmi, key: 50414804'
+            label: Text
+            name: '50414804'
+            widget: string
           - hint: 'Original text: Nazad na blog, key: 64525339'
             label: Text
             name: '64525339'
@@ -804,34 +828,6 @@ collections:
           - hint: 'Original text: Next, key: 24ff13'
             label: Text
             name: 24ff13
-            widget: string
-          - hint: 'Original text: Više o nama, key: 14ef6a1'
-            label: Text
-            name: 14ef6a1
-            widget: string
-          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
-            label: Text
-            name: 79805f5e
-            widget: string
-          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
-            label: Text
-            name: '-4d34d62b'
-            widget: string
-          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
-            label: Text
-            name: '-3410593d'
-            widget: string
-          - hint: 'Original text: Tajnica, key: 71ad856'
-            label: Text
-            name: 71ad856
-            widget: string
-          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
-            label: Text
-            name: 11e3d8a9
-            widget: string
-          - hint: 'Original text: Preuzmi, key: 50414804'
-            label: Text
-            name: '50414804'
             widget: string
           - hint: >-
               Original text: Obavijest o obradi i zaštiti osobnih podataka
@@ -1249,10 +1245,6 @@ collections:
           - hint: 'Original link: https://www.instagram.com/dms_ka, key: -6367a585'
             label: Link
             name: '-6367a585'
-            widget: string
-          - hint: 'Original link: https://www.majestictin.com, key: -2edcbba4'
-            label: Link
-            name: '-2edcbba4'
             widget: string
           - hint: 'Original link: /obavijest-o-kolacicima/, key: -30b4c467'
             label: Link
