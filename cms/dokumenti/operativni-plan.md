@@ -1,5 +1,5 @@
 ---
-title: Operativni plan
+title: Operativni plan 2024.
 created-on: 2024-04-16T07:41:40.658Z
 updated-on: 2024-04-16T07:41:40.664Z
 published-on: 2024-04-16T07:41:40.672Z
