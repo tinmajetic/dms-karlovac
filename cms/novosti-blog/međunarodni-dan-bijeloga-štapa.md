@@ -7,7 +7,7 @@ f_kratki-opis: Danas je Udruga slijepih Karlovačke županije obilježila
   Međunarodni dan bijeloga štapa koji je ujedno i dan svih slijepih i
   slabovidnih osoba.
 f_naslovna-slika:
-  url: /assets/images/zajednicka-slika.jpg
+  url: /assets/images/naslovna-objava-4..jpg
 tags: novosti-blog
 layout: "[novosti-blog].html"
 date: 2024-11-15T08:25:17.624Z
@@ -19,3 +19,7 @@ seo:
 Danas je Udruga slijepih Karlovačke županije obilježila Međunarodni dan bijeloga štapa koji je ujedno i dan svih slijepih i slabovidnih osoba. 
 
 Predstavljeno je 19.izdanje časopisa Udruge "Život slijepih ".
+
+![](/assets/images/objava-4..jpg)
+
+![](/assets/images/objava-4.jpg)
