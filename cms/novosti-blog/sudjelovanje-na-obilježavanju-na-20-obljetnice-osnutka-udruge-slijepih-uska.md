@@ -1,5 +1,5 @@
 ---
-title: Sudjelovanje na obilježavanju na 20.Obljetnice osnutka Udruge slijepih USKA
+title: Sudjelovanje na obilježavanju na 20. obljetnice osnutka Udruge slijepih USKA
 created-on: 2024-12-18T20:38:13.552Z
 updated-on: 2024-12-18T20:38:13.563Z
 published-on: 2024-11-21T20:38:13.570Z
