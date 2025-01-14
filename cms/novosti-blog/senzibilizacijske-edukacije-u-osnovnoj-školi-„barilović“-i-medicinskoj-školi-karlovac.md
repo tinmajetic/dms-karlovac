@@ -1,9 +1,9 @@
 ---
 title: Senzibilizacijske edukacije u Osnovnoj školi „Barilović“ i Medicinskoj
   školi Karlovac
-created-on: 2025-01-14T09:59:16.692Z
-updated-on: 2025-01-14T09:59:16.700Z
-published-on: 2025-01-14T09:59:16.707Z
+created-on: 2024-12-15T09:59:16.692Z
+updated-on: 2024-12-15T09:59:16.700Z
+published-on: 2024-12-15T09:59:16.707Z
 f_kratki-opis: Predsjednica Maja Liković Cipurić, mag.act.soc. je 10.12.2024.
   provela senzibilizacijsku edukaciju u svrhu poboljšanja komunikacije i podrške
   prema osobama s multiplom sklerozom u Medicinskoj školi Karlovac...
