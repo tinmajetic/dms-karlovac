@@ -5,8 +5,8 @@ created-on: 2024-12-15T09:59:16.692Z
 updated-on: 2024-12-15T09:59:16.700Z
 published-on: 2024-12-15T09:59:16.707Z
 f_kratki-opis: Predsjednica Maja Liković Cipurić, mag.act.soc. je 10.12.2024.
-  provela senzibilizacijsku edukaciju u svrhu poboljšanja komunikacije i podrške
-  prema osobama s multiplom sklerozom u Medicinskoj školi Karlovac...
+  provela senzibilizacijsku edukaciju u svrhu poboljšanja komunikacije i
+  podrške...
 f_naslovna-slika:
   url: /assets/images/objava134.jpg
 tags: novosti-blog
