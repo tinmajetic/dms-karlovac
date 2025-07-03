@@ -103,10 +103,6 @@
     "url": "https://uploads-ssl.webflow.com/604e159350708c36b0475b73/604f422f0c81322c6c4496c3_allow-icon3.svg",
     "alt": ""
   },
-  "4abef31c": {
-    "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
-    "alt": ""
-  },
   "-11045a99": {
     "url": "/assets/images/rade-jasmina-i-maja.jpg",
     "alt": "predsjednica, bivsi predsjednik, tajnica"
@@ -126,5 +122,9 @@
   "-4eff391e": {
     "url": "/assets/images/barkod.png",
     "alt": "barkod"
+  },
+  "4abef31c": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
+    "alt": ""
   }
 }

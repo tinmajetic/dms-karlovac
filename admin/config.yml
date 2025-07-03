@@ -919,6 +919,62 @@ collections:
             label: Text
             name: 24ff13
             widget: string
+          - hint: 'Original text: Više o nama, key: 14ef6a1'
+            label: Text
+            name: 14ef6a1
+            widget: string
+          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+            label: Text
+            name: 79805f5e
+            widget: string
+          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
+            label: Text
+            name: '-4d34d62b'
+            widget: string
+          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
+            label: Text
+            name: '-3410593d'
+            widget: string
+          - hint: 'Original text: Bivši predsjednik , key: 53398490'
+            label: Text
+            name: '53398490'
+            widget: string
+          - hint: 'Original text: Radivoj Mišljenović, key: 5000f8ce'
+            label: Text
+            name: 5000f8ce
+            widget: string
+          - hint: 'Original text: Tajnica, key: 71ad856'
+            label: Text
+            name: 71ad856
+            widget: string
+          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
+            label: Text
+            name: 11e3d8a9
+            widget: string
+          - hint: 'Original text: Članovi Predsjedništva:, key: 2c218c3f'
+            label: Text
+            name: 2c218c3f
+            widget: string
+          - hint: 'Original text: Martina Gotovac, key: -dd4fa45'
+            label: Text
+            name: '-dd4fa45'
+            widget: string
+          - hint: 'Original text: Antonija Halar, key: -de1fe02'
+            label: Text
+            name: '-de1fe02'
+            widget: string
+          - hint: 'Original text: Mile Rudan, key: 37522aa3'
+            label: Text
+            name: 37522aa3
+            widget: string
+          - hint: 'Original text: Dokumenti, key: 56e14c96'
+            label: Text
+            name: 56e14c96
+            widget: string
+          - hint: 'Original text: Preuzmi, key: 50414804'
+            label: Text
+            name: '50414804'
+            widget: string
           - hint: >-
               Original text: Obavijest o obradi i zaštiti osobnih podataka
               vezano za privole, key: 2ff91bca
@@ -1245,76 +1301,6 @@ collections:
             label: Text
             name: '-55bad944'
             widget: string
-          - hint: 'Original text: Protected Page, key: -11d4bbff'
-            label: Text
-            name: '-11d4bbff'
-            widget: string
-          - hint: 'Original text: Password, key: 4c641ebb'
-            label: Text
-            name: 4c641ebb
-            widget: string
-          - hint: >-
-              Original text: Incorrect password. Please try again., key:
-              -f5c4b5f
-            label: Text
-            name: '-f5c4b5f'
-            widget: string
-          - hint: 'Original text: Više o nama, key: 14ef6a1'
-            label: Text
-            name: 14ef6a1
-            widget: string
-          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
-            label: Text
-            name: 79805f5e
-            widget: string
-          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
-            label: Text
-            name: '-4d34d62b'
-            widget: string
-          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
-            label: Text
-            name: '-3410593d'
-            widget: string
-          - hint: 'Original text: Bivši predsjednik , key: 53398490'
-            label: Text
-            name: '53398490'
-            widget: string
-          - hint: 'Original text: Radivoj Mišljenović, key: 5000f8ce'
-            label: Text
-            name: 5000f8ce
-            widget: string
-          - hint: 'Original text: Tajnica, key: 71ad856'
-            label: Text
-            name: 71ad856
-            widget: string
-          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
-            label: Text
-            name: 11e3d8a9
-            widget: string
-          - hint: 'Original text: Članovi Predsjedništva:, key: 2c218c3f'
-            label: Text
-            name: 2c218c3f
-            widget: string
-          - hint: 'Original text: Martina Gotovac, key: -dd4fa45'
-            label: Text
-            name: '-dd4fa45'
-            widget: string
-          - hint: 'Original text: Antonija Halar, key: -de1fe02'
-            label: Text
-            name: '-de1fe02'
-            widget: string
-          - hint: 'Original text: Mile Rudan, key: 37522aa3'
-            label: Text
-            name: 37522aa3
-            widget: string
-          - hint: 'Original text: Dokumenti, key: 56e14c96'
-            label: Text
-            name: 56e14c96
-            widget: string
-          - hint: 'Original text: Preuzmi, key: 50414804'
-            label: Text
-            name: '50414804'
-            widget: string
           - hint: >-
               Original text: Ovdje možeš saznati što se priča i piše u medijima
               o našoj udruzi., key: -57c0e607
@@ -1383,6 +1369,20 @@ collections:
           - hint: 'Original text: Iznos: 20 eura, key: -165a7526'
             label: Text
             name: '-165a7526'
+            widget: string
+          - hint: 'Original text: Protected Page, key: -11d4bbff'
+            label: Text
+            name: '-11d4bbff'
+            widget: string
+          - hint: 'Original text: Password, key: 4c641ebb'
+            label: Text
+            name: 4c641ebb
+            widget: string
+          - hint: >-
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
+            label: Text
+            name: '-f5c4b5f'
             widget: string
       - label: Links
         name: links
@@ -1904,19 +1904,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 4abef31c
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-11045a99'
             widget: object
             fields:
@@ -1970,6 +1957,19 @@ collections:
                 required: false
           - label: Image
             name: '-4eff391e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4abef31c
             widget: object
             fields:
               - name: url
