@@ -1302,12 +1302,6 @@ collections:
             name: '-55bad944'
             widget: string
           - hint: >-
-              Original text: Ovdje možeš saznati što se priča i piše u medijima
-              o našoj udruzi., key: -57c0e607
-            label: Text
-            name: '-57c0e607'
-            widget: string
-          - hint: >-
               Original text: Sigurno se pitaš kako možeš postati dio našeg
               mozaika svjetla?, key: 4a9b849a
             label: Text
@@ -1369,6 +1363,12 @@ collections:
           - hint: 'Original text: Iznos: 20 eura, key: -165a7526'
             label: Text
             name: '-165a7526'
+            widget: string
+          - hint: >-
+              Original text: Ovdje možeš saznati što se priča i piše u medijima
+              o našoj udruzi., key: -57c0e607
+            label: Text
+            name: '-57c0e607'
             widget: string
           - hint: 'Original text: Protected Page, key: -11d4bbff'
             label: Text
@@ -1930,19 +1930,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 317f733b
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-4910d540'
             widget: object
             fields:
@@ -1957,6 +1944,19 @@ collections:
                 required: false
           - label: Image
             name: '-4eff391e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 317f733b
             widget: object
             fields:
               - name: url

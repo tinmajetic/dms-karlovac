@@ -88,18 +88,18 @@
         {%- assign collection = collections.mediji | filter: "", "ALL", page.inputPath | sort: "-created-on" -%}<div class="media-collection w-dyn-list">
           {%- unless collection.length == 0 -%}<div role="list" class="collection-list w-dyn-items">
             {%- for item in collection -%}<div role="listitem" class="collection-item w-dyn-item">
-              <div class="flex-ver-24"><img src="{{ item.data.f_thumbnail-image.url }}" loading="lazy" alt="{{ images.317f733b.alt | escape }}" class="image-33">
+              <a href="{{ item.data.f_link }}" class="flex-ver-24 w-inline-block"><img src="{{ item.data.f_thumbnail-image.url }}" loading="lazy" alt="{{ images.317f733b.alt | escape }}" class="image-33">
                 <div class="media-content">
                   <div class="flex-ver-16">
                     <p class="p-small">{{  item.data.f_datum-2| formatDate: "dd/MM/yyyy" }}</p>
                     <h3 class="heading-10">{{ item.data.title }}</h3>
                     <p class="p-normal">{{ item.data.f_opis }}</p>
-                    <a href="{{ item.data.f_link }}" class="read-more-button media w-inline-block">
+                    <div class="read-more-button media">
                       <div class="text-block-6">{{ texts.-256aa8fd }}</div><img src="{{ images.-20c0efe.url }}" loading="lazy" alt="{{ images.-20c0efe.alt | escape }}">
-                    </a>
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>{%- endfor -%}
           </div>{%- endunless -%}
           {%- if collection.length == 0 -%}<div class="w-dyn-empty">

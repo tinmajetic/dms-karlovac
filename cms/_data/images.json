@@ -111,10 +111,6 @@
     "url": "/assets/images/miki-antonija-martina-maja-predsjednitvo-min.jpg",
     "alt": "Miki, Antonija, Martina, Maja - Predsjedništvo"
   },
-  "317f733b": {
-    "url": "https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg",
-    "alt": ""
-  },
   "-4910d540": {
     "url": "/assets/images/donacije-main.jpg",
     "alt": "clanovi"
@@ -122,6 +118,10 @@
   "-4eff391e": {
     "url": "/assets/images/barkod.png",
     "alt": "barkod"
+  },
+  "317f733b": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+    "alt": ""
   },
   "4abef31c": {
     "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
