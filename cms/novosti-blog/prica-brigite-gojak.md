@@ -1,19 +1,18 @@
 ---
-f__noSearch: false
 title: Priča Brigite Gojak
-slug: prica-brigite-gojak
-updated-on: '2025-07-03T11:13:00.378Z'
-created-on: '2025-07-03T11:03:02.831Z'
-published-on: '2025-07-03T11:13:00.378Z'
-f_kratki-opis: >-
-  Već na prvoj kavi s Majom prepoznala sam udrugu kao mjesto podrške i
-  prihvaćenosti...
+created-on: 2025-07-03T11:03:02.831Z
+updated-on: 2025-07-03T11:13:00.378Z
+published-on: 2025-07-03T11:13:00.378Z
+f_kratki-opis: Već na prvoj kavi s Majom prepoznala sam udrugu kao mjesto
+  podrške i prihvaćenosti...
 f_naslovna-slika:
-  url: >-
-    https://cdn.prod.website-files.com/6363917c8c6f16d00de5f228/686665957a3c97063720f835_brigita.png
+  url: /assets/images/brigita.jpeg
   alt: null
-layout: '[novosti-blog].html'
+f__noSearch: false
+layout: "[novosti-blog].html"
+slug: prica-brigite-gojak
 tags: novosti-blog
+date: 2025-07-03T12:35:50.325Z
 ---
 
 1\. Kako si saznala za DMSKŽ?
