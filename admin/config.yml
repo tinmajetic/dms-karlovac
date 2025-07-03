@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: master
+  branch: main
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -87,6 +87,130 @@ collections:
             name: additional_tags
             widget: text
             required: false
+  - name: rezultati
+    label: Rezultatis
+    folder: cms/rezultati
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Opis
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: rezultati
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[rezultati].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: mediji
+    label: Medijis
+    folder: cms/mediji
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Naslov
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_opis
+        label: Kratki Opis
+        widget: string
+        required: false
+      - hint: Smaller version of main image that is used on blog post grid
+        name: f_thumbnail-image
+        label: Thumbnail image
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_link
+        label: Link
+        widget: string
+        required: false
+      - hint: 13/12/2024
+        name: f_datum-2
+        label: datum
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: mediji
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[mediji].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - name: dokumenti
     label: Dokumentis
     folder: cms/dokumenti
@@ -132,6 +256,12 @@ collections:
         label: Vanjski link za preuzimanje dokumenta
         widget: string
         required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
       - label: Tags
         widget: hidden
         name: tags
@@ -200,6 +330,12 @@ collections:
             label: alt
             widget: string
             required: false
+      - hint: ''
+        name: f__noSearch
+        label: No Search
+        widget: boolean
+        required: false
+        default: false
       - label: Tags
         widget: hidden
         name: tags
@@ -302,31 +438,6 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: Niste sami, borimo se zajedno!, key: -296ec39'
-            label: Text
-            name: '-296ec39'
-            widget: string
-          - hint: >-
-              Original text: Društvo multiple skleroze Karlovačke županije je
-              udruga koja okuplja i pomaže osobama s multiplom sklerozom.
-              Osnovni cilj udruge je unapređenje liječenja i istraživanja,
-              rehabilitacija, te zaštita i psihološka podrška našim članovima.,
-              key: 97ab6fc
-            label: Text
-            name: 97ab6fc
-            widget: text
-          - hint: 'Original text: POSTANI ČLAN, key: 317d1171'
-            label: Text
-            name: 317d1171
-            widget: string
-          - hint: 'Original text: Družimo se i pomažemo jedni, key: -3fd1a027'
-            label: Text
-            name: '-3fd1a027'
-            widget: string
-          - hint: 'Original text: drugima još od 2003., key: -68aaf477'
-            label: Text
-            name: '-68aaf477'
-            widget: string
           - hint: 'Original text: Novosti, key: -1dbcfc72'
             label: Text
             name: '-1dbcfc72'
@@ -335,21 +446,44 @@ collections:
             label: Text
             name: '-77494828'
             widget: string
-          - hint: 'Original text: Dokumenti, key: 56e14c96'
+          - hint: 'Original text: Učlani se, key: 5f3a702a'
             label: Text
-            name: 56e14c96
+            name: 5f3a702a
             widget: string
-          - hint: 'Original text: Kako se učlaniti, key: -7b79821b'
+          - hint: 'Original text: Mediji o nama, key: 7dcd89fc'
             label: Text
-            name: '-7b79821b'
+            name: 7dcd89fc
             widget: string
           - hint: 'Original text: Kontakt, key: 43219700'
             label: Text
             name: '43219700'
             widget: string
-          - hint: 'Original text: kontakt, key: -201700e0'
+          - hint: 'Original text: Doniraj, key: -2f2ec94b'
             label: Text
-            name: '-201700e0'
+            name: '-2f2ec94b'
+            widget: string
+          - hint: 'Original text: DONIRAJ, key: -679bd54b'
+            label: Text
+            name: '-679bd54b'
+            widget: string
+          - hint: 'Original text: Niste sami, borimo se zajedno!, key: -296ec39'
+            label: Text
+            name: '-296ec39'
+            widget: string
+          - hint: >-
+              Original text: Svaka osoba s MS-om u Karlovačkoj županiji dobiva
+              svu potrebnu podršku kroz pružanje usluga (savjetovanje i
+              informiranje), edukaciju i zagovaranje, key: -23bcfcaa
+            label: Text
+            name: '-23bcfcaa'
+            widget: text
+          - hint: 'Original text: Družimo se i pomažemo jedni, key: -3fd1a027'
+            label: Text
+            name: '-3fd1a027'
+            widget: string
+          - hint: 'Original text: drugima još od 2003., key: -68aaf477'
+            label: Text
+            name: '-68aaf477'
             widget: string
           - hint: 'Original text: No items found., key: 3d503d2b'
             label: Text
@@ -426,111 +560,70 @@ collections:
             label: Text
             name: '-90d115d'
             widget: string
-          - hint: 'Original text: Na koji način pomažemo?, key: 76612012'
+          - hint: >-
+              Original text: Drustvo multiple skleroze Karlovačke Županije je tu
+              da pruži podršku svakoj osobi u suočavanju, nošenju i životu s
+              multiplom sklerozom., key: 3059ec3d
             label: Text
-            name: '76612012'
+            name: 3059ec3d
+            widget: text
+          - hint: 'Original text: Pružamo podršku kroz:, key: 1c8d315e'
+            label: Text
+            name: 1c8d315e
+            widget: string
+          - hint: 'Original text: ✓ informiranje, key: -5f72e099'
+            label: Text
+            name: '-5f72e099'
+            widget: string
+          - hint: 'Original text: ✓ savjetovanje, key: -c8cce93'
+            label: Text
+            name: '-c8cce93'
+            widget: string
+          - hint: 'Original text: ✓ fizikalne terapije, key: -cb1881a'
+            label: Text
+            name: '-cb1881a'
+            widget: string
+          - hint: 'Original text: ✓ terapijsko jahanje, key: -637ab1f4'
+            label: Text
+            name: '-637ab1f4'
+            widget: string
+          - hint: 'Original text: ✓ kreativne radionice, key: -5ccf5960'
+            label: Text
+            name: '-5ccf5960'
+            widget: string
+          - hint: 'Original text: ✓ psihosocijalne grupe podrške, key: -220292c9'
+            label: Text
+            name: '-220292c9'
+            widget: string
+          - hint: 'Original text: ✓ zagovaranje, key: -1afe68ed'
+            label: Text
+            name: '-1afe68ed'
             widget: string
           - hint: >-
-              Original text: ✓ Proučavamo problematiku bolesti multiple
-              skleroze, key: -1af2d2a
+              Original text: ✓ senzibilizacijsko edukativne aktivnosti, key:
+              289bf460
             label: Text
-            name: '-1af2d2a'
+            name: 289bf460
             widget: string
           - hint: >-
-              Original text: ✓ Unapređujemo socijalno-zdravstvenu zaštitu, key:
-              -634001ac
+              Original text: ✓ licencirano pružanje usluge osobne asistencije,
+              key: 28c12dc6
             label: Text
-            name: '-634001ac'
-            widget: string
-          - hint: 'Original text: ✓ Pružamo uslugu osobne asistencije, key: 3a3561c6'
-            label: Text
-            name: 3a3561c6
-            widget: string
-          - hint: 'Original text: ✓ Pružamo pomoć i podršku obitelji, key: -6bbef974'
-            label: Text
-            name: '-6bbef974'
-            widget: string
-          - hint: 'Original text: ✓ Savjetovanje, key: -2c17a73'
-            label: Text
-            name: '-2c17a73'
-            widget: string
-          - hint: 'Original text: ✓ Psihosocijalna podrška, key: -57a52470'
-            label: Text
-            name: '-57a52470'
-            widget: string
-          - hint: 'Original text: ✓ Prevencija nasilja, key: -5359c7e0'
-            label: Text
-            name: '-5359c7e0'
-            widget: string
-          - hint: 'Original text: ✓ Stručna pomoć i podrška, key: -2c3a9c38'
-            label: Text
-            name: '-2c3a9c38'
-            widget: string
-          - hint: 'Original text: ✓ Radionice, key: -54f3db15'
-            label: Text
-            name: '-54f3db15'
-            widget: string
-          - hint: 'Original text: ✓ Organizacija slobodnih aktivnosti, key: 4b3a475b'
-            label: Text
-            name: 4b3a475b
+            name: 28c12dc6
             widget: string
           - hint: >-
-              Original text: ✓ Pomoć i podrška u vlastitom domu i zajednici,
-              key: 32593689
+              Original text: Također ostvarujete prava i povlastice. Više o tome
+              saznajte , key: -7a035e95
             label: Text
-            name: '32593689'
+            name: '-7a035e95'
             widget: string
-          - hint: >-
-              Original text: ✓ Poticanje volonterstva, odmora i oporavka, key:
-              -75d137e5
+          - hint: 'Original text: ovdje, key: 6535958'
             label: Text
-            name: '-75d137e5'
+            name: '6535958'
             widget: string
-          - hint: >-
-              Original text: ✓ Rješavanje profesionalne i medicinske
-              rehabilitacije, key: c9eef06
+          - hint: 'Original text: ., key: 2e'
             label: Text
-            name: c9eef06
-            widget: string
-          - hint: >-
-              Original text: ✓ Kulturno-obrazovni rad, šport i rekreacija, key:
-              -46ed4145
-            label: Text
-            name: '-46ed4145'
-            widget: string
-          - hint: >-
-              Original text: ✓ Sudjelovanje u općem društveno-zabavnom životu
-              osoba s MS, key: -1010954b
-            label: Text
-            name: '-1010954b'
-            widget: string
-          - hint: >-
-              Original text: Također ostvarujete prava i povlastice, key:
-              635dd4f4
-            label: Text
-            name: 635dd4f4
-            widget: string
-          - hint: 'Original text: Znak pristupačnosti, key: -52161be6'
-            label: Text
-            name: '-52161be6'
-            widget: string
-          - hint: 'Original text: Prvenstvo u redovima, key: -13593707'
-            label: Text
-            name: '-13593707'
-            widget: string
-          - hint: 'Original text: Popust na telefonsku HT preplatu, key: -3d9da755'
-            label: Text
-            name: '-3d9da755'
-            widget: string
-          - hint: >-
-              Original text: Pravo na povlašteno plaćanje RTV pristojbe, key:
-              23f30b98
-            label: Text
-            name: 23f30b98
-            widget: string
-          - hint: 'Original text: Saznaj više o pravima i povlasticama, key: a5d644'
-            label: Text
-            name: a5d644
+            name: 2e
             widget: string
           - hint: 'Original text: O nama, key: -773abc48'
             label: Text
@@ -564,14 +657,12 @@ collections:
             name: 6e00e27b
             widget: string
           - hint: >-
-              Original text: Još od 2003. godine svojim radom trudimo se
-              izgraditi bolje okuženje za sve osobe s multiplom sklerozom.
-              Razmjenjujemo iskustva i pratimo nova istraživanja u liječenju s
-              našim srodnim udrugama i nacionalnim savezom. Imamo 9 zaposlenih
-              asistenata koji se brinu o našim korisnicima. A udruga broji više
-              od 100 članova. Budi i ti dio naše zajednice!, key: 6b70d132
+              Original text: Tradicija podrške koju Društvo multiple skleroze
+              Karlovačke županije pruža svojim članovima postoji preko 20
+              godina. Postigli smo mnoge uspjehe i veselimo se svemu što dolazi,
+              budi i ti dio naše zajednice!, key: 7d9220b3
             label: Text
-            name: 6b70d132
+            name: 7d9220b3
             widget: text
           - hint: 'Original text: VIŠE O NAMA, key: -4ef35400'
             label: Text
@@ -585,23 +676,33 @@ collections:
             label: Text
             name: 347b4f07
             widget: string
-          - hint: 'Original text: Priča Maje Liković, key: 794b9a67'
+          - hint: 'Original text: Priča Brigite Gojak, key: 73e7f193'
             label: Text
-            name: 794b9a67
+            name: 73e7f193
             widget: string
           - hint: >-
-              Original text: Saznala sam za Društvo multiple skleroze Karlovačke
-              županije od obiteljskog prijatelja koji je već bio učlanjen. On mi
-              je prenio informaciju kako tamo mogu pronaći podršku. Prvi susret
-              s tajnicom Društva je protekao vrlo toplo i dovoljno ohrabrujuće
-              da se učlanim i tu ostanem jer sam osjetila pripadnost, a moje
-              roditelje je ohrabrila za suživot s MS-om., key: -4e9e9a35
+              Original text: Godinu dana nakon dobivanja dijagnoze saznala sam
+              za udrugu od tete koja je kao zdravstveni djelatnik bila upoznata
+              s radom Društva, a čija bivša učenica je bila naša predsjednica
+              Društva Maja. Već na prvoj kavi s Majom prepoznala sam udrugu kao
+              mjesto podrške i prihvaćenosti te mjesto na kojem je moguće
+              ostvariti svoje potencijale., key: 25bf2b15
             label: Text
-            name: '-4e9e9a35'
+            name: 25bf2b15
             widget: text
           - hint: 'Original text: Pročitaj više, key: -256aa8fd'
             label: Text
             name: '-256aa8fd'
+            widget: string
+          - hint: 'Original text: Naša vizija, key: 28555666'
+            label: Text
+            name: '28555666'
+            widget: string
+          - hint: >-
+              Original text: Karlovačka županija bez prepreka za dobar život s
+              MS-om, key: 1acf7f19
+            label: Text
+            name: 1acf7f19
             widget: string
           - hint: 'Original text: Posjeti nas, key: -441643dc'
             label: Text
@@ -623,24 +724,25 @@ collections:
             label: Text
             name: '-7417c4e3'
             widget: string
-          - hint: 'Original text: Tu smo za tebe, key: 1de78503'
+          - hint: >-
+              Original text: Pretplati se na newsletter i prvi saznaj za
+              novosti, key: 31988ae7
             label: Text
-            name: 1de78503
+            name: 31988ae7
             widget: string
           - hint: >-
-              Original text: Tražiš psihološku pomoć, edukacije, oporavak ,
-              sport i rekreaciju, podršku ili bilo koji drugi oblik pomoći -
-              obrati se našoj tajnici Jasmini s povjerenjem!, key: 40f7e351
+              Original text: Tu smo za tebe, kontaktiraj nas s povjerenjem, key:
+              -642f1389
             label: Text
-            name: 40f7e351
-            widget: text
-          - hint: 'Original text: +385 091 3412 998, key: 61c70fed'
-            label: Text
-            name: 61c70fed
+            name: '-642f1389'
             widget: string
-          - hint: 'Original text: dms.karlovac@gmail.com, key: 1811706e'
+          - hint: 'Original text: +385 091 3412 998 - Jasmina, key: -20d0091b'
             label: Text
-            name: 1811706e
+            name: '-20d0091b'
+            widget: string
+          - hint: 'Original text: +385 091 6228 659 - Maja, key: 4960314f'
+            label: Text
+            name: 4960314f
             widget: string
           - hint: >-
               Original text: © Društvo multiple skleroze Karlovačke županije,
@@ -674,6 +776,14 @@ collections:
             label: Text
             name: 5a4e0915
             widget: string
+          - hint: 'Original text: Email:, key: 7bec143e'
+            label: Text
+            name: 7bec143e
+            widget: string
+          - hint: 'Original text: dms.karlovac@gmail.com, key: 1811706e'
+            label: Text
+            name: 1811706e
+            widget: string
           - hint: 'Original text: Telefon:, key: -4d3d3121'
             label: Text
             name: '-4d3d3121'
@@ -686,9 +796,9 @@ collections:
             label: Text
             name: 251d1ea7
             widget: string
-          - hint: 'Original text: Email:, key: 7bec143e'
+          - hint: 'Original text: Mob: +385 091 6228 659, key: -b027757'
             label: Text
-            name: 7bec143e
+            name: '-b027757'
             widget: string
           - hint: 'Original text: Zaprati nas:, key: f7ee8ed'
             label: Text
@@ -708,6 +818,14 @@ collections:
             label: Text
             name: '-75f59d6e'
             widget: string
+          - hint: >-
+              Original text: Društvo multiple skleroze Karlovačke županije je
+              korisnik institucionalne podrške Nacionalne zaklade za razvoj
+              civilnog društva za stabilizaciju i/ili razvoj udruge., key:
+              5b693ad9
+            label: Text
+            name: 5b693ad9
+            widget: text
           - hint: 'Original text: Klikom , key: 3db8b4bf'
             label: Text
             name: 3db8b4bf
@@ -770,34 +888,6 @@ collections:
           - hint: 'Original text: Allow all cookies, key: -7313ef67'
             label: Text
             name: '-7313ef67'
-            widget: string
-          - hint: 'Original text: Više o nama, key: 14ef6a1'
-            label: Text
-            name: 14ef6a1
-            widget: string
-          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
-            label: Text
-            name: 79805f5e
-            widget: string
-          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
-            label: Text
-            name: '-4d34d62b'
-            widget: string
-          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
-            label: Text
-            name: '-3410593d'
-            widget: string
-          - hint: 'Original text: Tajnica, key: 71ad856'
-            label: Text
-            name: 71ad856
-            widget: string
-          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
-            label: Text
-            name: 11e3d8a9
-            widget: string
-          - hint: 'Original text: Preuzmi, key: 50414804'
-            label: Text
-            name: '50414804'
             widget: string
           - hint: 'Original text: Nazad na blog, key: 64525339'
             label: Text
@@ -1155,6 +1245,145 @@ collections:
             label: Text
             name: '-55bad944'
             widget: string
+          - hint: 'Original text: Protected Page, key: -11d4bbff'
+            label: Text
+            name: '-11d4bbff'
+            widget: string
+          - hint: 'Original text: Password, key: 4c641ebb'
+            label: Text
+            name: 4c641ebb
+            widget: string
+          - hint: >-
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
+            label: Text
+            name: '-f5c4b5f'
+            widget: string
+          - hint: 'Original text: Više o nama, key: 14ef6a1'
+            label: Text
+            name: 14ef6a1
+            widget: string
+          - hint: 'Original text: Predsjedništvo, dokumenti, projekti., key: 79805f5e'
+            label: Text
+            name: 79805f5e
+            widget: string
+          - hint: 'Original text: Predsjednica Društva, key: -4d34d62b'
+            label: Text
+            name: '-4d34d62b'
+            widget: string
+          - hint: 'Original text: Maja Liković Cipurić, key: -3410593d'
+            label: Text
+            name: '-3410593d'
+            widget: string
+          - hint: 'Original text: Bivši predsjednik , key: 53398490'
+            label: Text
+            name: '53398490'
+            widget: string
+          - hint: 'Original text: Radivoj Mišljenović, key: 5000f8ce'
+            label: Text
+            name: 5000f8ce
+            widget: string
+          - hint: 'Original text: Tajnica, key: 71ad856'
+            label: Text
+            name: 71ad856
+            widget: string
+          - hint: 'Original text: Jasmina Slavnić, key: 11e3d8a9'
+            label: Text
+            name: 11e3d8a9
+            widget: string
+          - hint: 'Original text: Članovi Predsjedništva:, key: 2c218c3f'
+            label: Text
+            name: 2c218c3f
+            widget: string
+          - hint: 'Original text: Martina Gotovac, key: -dd4fa45'
+            label: Text
+            name: '-dd4fa45'
+            widget: string
+          - hint: 'Original text: Antonija Halar, key: -de1fe02'
+            label: Text
+            name: '-de1fe02'
+            widget: string
+          - hint: 'Original text: Mile Rudan, key: 37522aa3'
+            label: Text
+            name: 37522aa3
+            widget: string
+          - hint: 'Original text: Dokumenti, key: 56e14c96'
+            label: Text
+            name: 56e14c96
+            widget: string
+          - hint: 'Original text: Preuzmi, key: 50414804'
+            label: Text
+            name: '50414804'
+            widget: string
+          - hint: >-
+              Original text: Ovdje možeš saznati što se priča i piše u medijima
+              o našoj udruzi., key: -57c0e607
+            label: Text
+            name: '-57c0e607'
+            widget: string
+          - hint: >-
+              Original text: Sigurno se pitaš kako možeš postati dio našeg
+              mozaika svjetla?, key: 4a9b849a
+            label: Text
+            name: 4a9b849a
+            widget: string
+          - hint: >-
+              Original text: Prati naš rad, javi dojmova, potraži nevidljivo
+              dvorište ideja, svrati na kavu, volontiraj, daj prijedlog, doniraj
+              i podrži naše svjetlo!, key: 5b7b6306
+            label: Text
+            name: 5b7b6306
+            widget: text
+          - hint: >-
+              Original text: Doniraj neki od ponuđenih iznosa ili koliko možeš:,
+              key: -81d0b05
+            label: Text
+            name: '-81d0b05'
+            widget: string
+          - hint: 'Original text: 5 eura , key: 300b8576'
+            label: Text
+            name: 300b8576
+            widget: string
+          - hint: 'Original text: 10 eura , key: 9a5f3e0'
+            label: Text
+            name: 9a5f3e0
+            widget: string
+          - hint: 'Original text: 20 eura , key: 718720bf'
+            label: Text
+            name: 718720bf
+            widget: string
+          - hint: 'Original text: Moj iznos, key: -38d7c737'
+            label: Text
+            name: '-38d7c737'
+            widget: string
+          - hint: >-
+              Original text: Upiši podatke za uplatu ili skeniraj barkod. Hvala
+              od ❤️, key: 4a247b1a
+            label: Text
+            name: 4a247b1a
+            widget: string
+          - hint: >-
+              Original text: Društvo multiple skleroze Karlovačke županije
+              Banjavčićeva 20, 47000 Karlovac, key: -7fcd795a
+            label: Text
+            name: '-7fcd795a'
+            widget: string
+          - hint: 'Original text: Žiro račun: HR8224000081105875017, key: -48faa98f'
+            label: Text
+            name: '-48faa98f'
+            widget: string
+          - hint: 'Original text: Iznos: 5 eura, key: -4ef0928f'
+            label: Text
+            name: '-4ef0928f'
+            widget: string
+          - hint: 'Original text: Iznos: 10 eura, key: -4b40b067'
+            label: Text
+            name: '-4b40b067'
+            widget: string
+          - hint: 'Original text: Iznos: 20 eura, key: -165a7526'
+            label: Text
+            name: '-165a7526'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1163,10 +1392,6 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: #how-to-join, key: 5cd788bc'
-            label: Link
-            name: 5cd788bc
-            widget: string
           - hint: 'Original link: /, key: 2f'
             label: Link
             name: 2f
@@ -1184,20 +1409,26 @@ collections:
             name: 5530d89b
             widget: string
           - hint: >-
-              Original link: https://dms-karlovac.com/o-nama/#documents, key:
-              7db9466e
+              Original link: https://www.dms-karlovac.com/#how-to-join, key:
+              -5d18e88a
             label: Link
-            name: 7db9466e
+            name: '-5d18e88a'
             widget: string
-          - hint: >-
-              Original link: https://dms-karlovac.com/#how-to-join, key:
-              -3060b9f3
+          - hint: 'Original link: /mediji-o-nama/, key: 5383b2e8'
             label: Link
-            name: '-3060b9f3'
+            name: 5383b2e8
             widget: string
           - hint: 'Original link: #contact, key: 6c80469d'
             label: Link
             name: 6c80469d
+            widget: string
+          - hint: 'Original link: /doniraj/, key: 7e0b9d29'
+            label: Link
+            name: 7e0b9d29
+            widget: string
+          - hint: 'Original link: #how-to-join, key: 5cd788bc'
+            label: Link
+            name: 5cd788bc
             widget: string
           - hint: >-
               Original link: /assets/documents/zdrav_soc_list_i_upitnik.pdf,
@@ -1205,18 +1436,22 @@ collections:
             label: Link
             name: '48e26745'
             widget: string
-          - hint: >-
-              Original link: /assets/documents/prava-i-povlastice.pdf, key:
-              55c97fd
+          - hint: 'Original link: https://sdmsh.com.hr/katalog-prava/, key: -7f12b943'
             label: Link
-            name: 55c97fd
+            name: '-7f12b943'
+            widget: string
+          - hint: >-
+              Original link: https://dms-karlovac.com/o-nama/#documents, key:
+              7db9466e
+            label: Link
+            name: 7db9466e
             widget: string
           - hint: >-
               Original link:
-              https://dms-karlovac.com/novosti-blog/prica-maje-likovic, key:
-              75aadfd6
+              https://dms-karlovac.com/novosti-blog/prica-brigite-gojak, key:
+              -683be0da
             label: Link
-            name: 75aadfd6
+            name: '-683be0da'
             widget: string
           - hint: >-
               Original link: https://goo.gl/maps/sRY7nVNerwawR7iR8, key:
@@ -1227,6 +1462,10 @@ collections:
           - hint: 'Original link: tel:+3850913412998, key: -691854e'
             label: Link
             name: '-691854e'
+            widget: string
+          - hint: 'Original link: tel:+3850916228659, key: -6b37becc'
+            label: Link
+            name: '-6b37becc'
             widget: string
           - hint: 'Original link: mailto:dms.karlovac@gmail.com, key: 32050676'
             label: Link
@@ -1327,58 +1566,6 @@ collections:
             widget: hidden
             default: Images
           - label: Image
-            name: 241c1556
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 5245f590
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-72116677'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3b5f4b22'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-5623d671'
             widget: object
             fields:
@@ -1418,6 +1605,32 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 3e8f7562
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 2412ab0e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '0'
             widget: object
             fields:
@@ -1444,72 +1657,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 527728bf
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-686fea1e'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-171b37e2'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 3179085b
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-1603af50'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-20c0efe'
+            name: 68a1945
             widget: object
             fields:
               - name: url
@@ -1561,7 +1709,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 305b8ef9
+            name: 43dab478
             widget: object
             fields:
               - name: url
@@ -1574,7 +1722,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 4fc1603b
+            name: 43e8cbf9
             widget: object
             fields:
               - name: url
@@ -1587,7 +1735,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-4ccbf5bd'
+            name: 43f6e37a
             widget: object
             fields:
               - name: url
@@ -1613,7 +1761,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2a51450e'
+            name: 6fb6854d
             widget: object
             fields:
               - name: url
@@ -1626,7 +1774,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-4e80ce5c'
+            name: 6fc49cce
             widget: object
             fields:
               - name: url
@@ -1639,7 +1787,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 3f47bfd
+            name: 6fd2b44f
             widget: object
             fields:
               - name: url
@@ -1652,7 +1800,20 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 440fc5fd
+            name: '-20c0efe'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-248e57f6'
             widget: object
             fields:
               - name: url
@@ -1678,7 +1839,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-9255865'
+            name: '-678992c8'
             widget: object
             fields:
               - name: url
@@ -1691,20 +1852,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 5ffcd370
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3a8784e3'
+            name: '-52dda57'
             widget: object
             fields:
               - name: url
@@ -1730,6 +1878,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-2a484e45'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 5b2d3585
             widget: object
             fields:
@@ -1743,7 +1904,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-70343f3a'
+            name: 4abef31c
             widget: object
             fields:
               - name: url
@@ -1756,7 +1917,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 24ad6aca
+            name: '-11045a99'
             widget: object
             fields:
               - name: url
@@ -1769,7 +1930,46 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-683125d9'
+            name: '-4c4a432e'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 317f733b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-4910d540'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-4eff391e'
             widget: object
             fields:
               - name: url

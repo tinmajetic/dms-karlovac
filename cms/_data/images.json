@@ -1,1 +1,130 @@
-{"0":{"url":"","alt":""},"-5623d671":{"url":"/assets/images/dmskz-logo.svg","alt":"Logo Društva multiple skleroze Karlovačke županije"},"-fc5cca8":{"url":"/assets/images/open-navigation-button.svg","alt":""},"6e05c892":{"url":"/assets/images/close-navigation-button.svg","alt":"Decline cookie "},"241c1556":{"url":"/assets/images/l-top-g.webp","alt":"Žena drži poruku: \"Svaki dan nađi razlog za smijeh\"."},"2412ab0e":{"url":"/assets/images/kristina.png","alt":"kristina"},"3e8f7562":{"url":"/assets/images/zeljko.png","alt":"zeljko"},"618bc5e7":{"url":"/assets/images/3-step-arrow-.svg","alt":""},"68a1945":{"url":"/assets/images/stalo-nam-je.jpg","alt":"grupne slike"},"-5035a6fb":{"url":"/assets/images/image-1.webp","alt":"Vježbanje"},"-4962447f":{"url":"/assets/images/image-5.webp","alt":"Vježbanje"},"48edfdbf":{"url":"/assets/images/image-10.webp","alt":"Vježbanje"},"43dab478":{"url":"/assets/images/druzimo-se-1.jpg","alt":"clanovi druzenje"},"43e8cbf9":{"url":"/assets/images/druzimo-se-2.jpg","alt":"druyenje uz crtanje\n"},"43f6e37a":{"url":"/assets/images/druzimo-se-3.jpg","alt":"crtanje"},"-47ad6be0":{"url":"/assets/images/image-6.webp","alt":"Druženje"},"6fb6854d":{"url":"/assets/images/nasi-rezultati-1.jpg","alt":"rezultati ljudi"},"6fc49cce":{"url":"/assets/images/nasi-rezultati-2.jpg","alt":"predavanje\n"},"6fd2b44f":{"url":"/assets/images/nasi-rezultati-3.jpg","alt":"zvjezdano ljeto"},"-20c0efe":{"url":"/assets/images/little-arrow.svg","alt":"back arrow button"},"-248e57f6":{"url":"/assets/images/profile.png","alt":""},"38caf0a":{"url":"/assets/images/phone.svg","alt":"Telefon ikona"},"-678992c8":{"url":"/assets/images/karlovac-logo.jpg","alt":""},"-52dda57":{"url":"/assets/images/karlovacka-zupanija-logo.jpg","alt":""},"5998d357":{"url":"/assets/images/mrms-logo.webp","alt":"Logo Ministarstva rada, mirovniskog sustava, obitelji i socijalne politike"},"-2a484e45":{"url":"/assets/images/logo.svg","alt":"nacionalna zaklada za razvoj civilnog društva"},"5b2d3585":{"url":"https://uploads-ssl.webflow.com/604e159350708c36b0475b73/604f422f0c81322c6c4496c3_allow-icon3.svg","alt":""},"-11045a99":{"url":"/assets/images/rade-jasmina-i-maja.jpg","alt":"predsjednica, bivsi predsjednik, tajnica"},"-4c4a432e":{"url":"/assets/images/miki-antonija-martina-maja-predsjednitvo-min.jpg","alt":"Miki, Antonija, Martina, Maja - Predsjedništvo"},"-4910d540":{"url":"/assets/images/donacije-main.jpg","alt":"clanovi"},"-4eff391e":{"url":"/assets/images/barkod.png","alt":"barkod"},"317f733b":{"url":"https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg","alt":""},"4abef31c":{"url":"https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg","alt":""}}
+{
+  "0": {
+    "url": "",
+    "alt": ""
+  },
+  "-5623d671": {
+    "url": "/assets/images/dmskz-logo.svg",
+    "alt": "Logo Društva multiple skleroze Karlovačke županije"
+  },
+  "-fc5cca8": {
+    "url": "/assets/images/open-navigation-button.svg",
+    "alt": ""
+  },
+  "6e05c892": {
+    "url": "/assets/images/close-navigation-button.svg",
+    "alt": "Decline cookie "
+  },
+  "3e8f7562": {
+    "url": "/assets/images/zeljko.png",
+    "alt": "zeljko"
+  },
+  "2412ab0e": {
+    "url": "/assets/images/kristina.png",
+    "alt": "kristina"
+  },
+  "618bc5e7": {
+    "url": "/assets/images/3-step-arrow-.svg",
+    "alt": ""
+  },
+  "68a1945": {
+    "url": "/assets/images/stalo-nam-je.jpg",
+    "alt": "grupne slike"
+  },
+  "-5035a6fb": {
+    "url": "/assets/images/image-1.webp",
+    "alt": "Vježbanje"
+  },
+  "-4962447f": {
+    "url": "/assets/images/image-5.webp",
+    "alt": "Vježbanje"
+  },
+  "48edfdbf": {
+    "url": "/assets/images/image-10.webp",
+    "alt": "Vježbanje"
+  },
+  "43dab478": {
+    "url": "/assets/images/druzimo-se-1.jpg",
+    "alt": "clanovi druzenje"
+  },
+  "43e8cbf9": {
+    "url": "/assets/images/druzimo-se-2.jpg",
+    "alt": "druyenje uz crtanje\n"
+  },
+  "43f6e37a": {
+    "url": "/assets/images/druzimo-se-3.jpg",
+    "alt": "crtanje"
+  },
+  "-47ad6be0": {
+    "url": "/assets/images/image-6.webp",
+    "alt": "Druženje"
+  },
+  "6fb6854d": {
+    "url": "/assets/images/nasi-rezultati-1.jpg",
+    "alt": "rezultati ljudi"
+  },
+  "6fc49cce": {
+    "url": "/assets/images/nasi-rezultati-2.jpg",
+    "alt": "predavanje\n"
+  },
+  "6fd2b44f": {
+    "url": "/assets/images/nasi-rezultati-3.jpg",
+    "alt": "zvjezdano ljeto"
+  },
+  "-20c0efe": {
+    "url": "/assets/images/little-arrow.svg",
+    "alt": "back arrow button"
+  },
+  "-248e57f6": {
+    "url": "/assets/images/profile.png",
+    "alt": ""
+  },
+  "38caf0a": {
+    "url": "/assets/images/phone.svg",
+    "alt": "Telefon ikona"
+  },
+  "-678992c8": {
+    "url": "/assets/images/karlovac-logo.jpg",
+    "alt": ""
+  },
+  "-52dda57": {
+    "url": "/assets/images/karlovacka-zupanija-logo.jpg",
+    "alt": ""
+  },
+  "5998d357": {
+    "url": "/assets/images/mrms-logo.webp",
+    "alt": "Logo Ministarstva rada, mirovniskog sustava, obitelji i socijalne politike"
+  },
+  "-2a484e45": {
+    "url": "/assets/images/logo.svg",
+    "alt": "nacionalna zaklada za razvoj civilnog društva"
+  },
+  "5b2d3585": {
+    "url": "https://uploads-ssl.webflow.com/604e159350708c36b0475b73/604f422f0c81322c6c4496c3_allow-icon3.svg",
+    "alt": ""
+  },
+  "4abef31c": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
+    "alt": ""
+  },
+  "-11045a99": {
+    "url": "/assets/images/rade-jasmina-i-maja.jpg",
+    "alt": "predsjednica, bivsi predsjednik, tajnica"
+  },
+  "-4c4a432e": {
+    "url": "/assets/images/miki-antonija-martina-maja-predsjednitvo-min.jpg",
+    "alt": "Miki, Antonija, Martina, Maja - Predsjedništvo"
+  },
+  "317f733b": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+    "alt": ""
+  },
+  "-4910d540": {
+    "url": "/assets/images/donacije-main.jpg",
+    "alt": "clanovi"
+  },
+  "-4eff391e": {
+    "url": "/assets/images/barkod.png",
+    "alt": "barkod"
+  }
+}
