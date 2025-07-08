@@ -1,8 +1,8 @@
 ---
 title: Donacija novog ultrazvuka!
-created-on: 2025-07-08T12:00:38.201Z
-updated-on: 2025-07-08T12:00:38.244Z
-published-on: 2025-07-08T12:00:38.283Z
+created-on: 2025-03-06T13:00:38.201Z
+updated-on: 2025-03-06T13:00:38.244Z
+published-on: 2025-03-06T13:00:38.283Z
 f_kratki-opis: Zahvaljujemo na donaciji novog ultrazvuka!
 f_naslovna-slika:
   url: /assets/images/primopredaja-uzv.jpg
