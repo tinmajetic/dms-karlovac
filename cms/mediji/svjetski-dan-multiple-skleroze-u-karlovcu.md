@@ -7,7 +7,7 @@ f_opis: U Kinu Edison Karlovac je 26.05.2025. obilježen Svjetski dan multiple s
 f_thumbnail-image:
   url: /assets/images/pozadina-prije-filma.png
 f_link: https://trend.com.hr/2025/05/26/povodom-svjetskog-dana-multiple-skleroze-organizirana-projekcija-kratkometraznog-filma-g35-i-tematska-panel-rasprava/
-f_datum-2: 2025-07-14T07:45:19.103Z
+f_datum-2: 2025-05-27T07:45:19.103Z
 f__noSearch: false
 tags: mediji
 layout: "[mediji].html"
