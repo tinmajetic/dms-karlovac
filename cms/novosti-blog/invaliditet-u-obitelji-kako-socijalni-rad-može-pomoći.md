@@ -21,7 +21,7 @@ Povodom Dana obitelji naša predsjednica Maja Liković Cipurić, mag.act.soc. je
 
 https://www.instagram.com/p/DJrTM_GM5tA/?img_index=1 
 
-
+https://trend.com.hr/2025/05/14/kako-socijalni-radnici-mogu-pomoci-obiteljima-koje-imaju-osobu-s-invaliditetom/ 
 
 ![]()
 
