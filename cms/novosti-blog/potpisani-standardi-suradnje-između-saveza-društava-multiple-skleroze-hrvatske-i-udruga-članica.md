@@ -6,7 +6,7 @@ updated-on: 2025-10-13T12:22:55.984Z
 published-on: 2025-10-13T12:22:56.018Z
 f_kratki-opis: Korak smo bliže ka ostvarenju Hrvatske bez prepreka za dobar život s MS-om.
 f_naslovna-slika:
-  url: /assets/images/standardi-suradnje-2.jpg
+  url: /assets/images/standardi-suradnje.jpg
 f__noSearch: false
 tags: novosti-blog
 layout: "[novosti-blog].html"
@@ -20,4 +20,4 @@ P﻿rošlo je točno mjesec dana od Sjednice Predsjedništva Saveza društava mu
 
 ![](/assets/images/552772237_855329426822708_8884051901283332566_n.jpg)
 
-![](/assets/images/standardi-suradnje.jpg)
+![](/assets/images/standardi-suradnje-2.jpg)
