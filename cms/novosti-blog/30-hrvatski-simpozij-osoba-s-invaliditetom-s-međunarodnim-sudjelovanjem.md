@@ -16,17 +16,15 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-
-
-
-
 ![]()
 
 S﻿udjelovali smo 29. i 30. listopada na vrlo značajnom 30. hrvatskom simpoziju osoba s invaliditetom s međunarodnim sudjelovanjem održanom na Sveučilištu Zagreb. SOIH u suorganizaciji sa Zavodom za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom, Hrvatskim zavodom za zapošljavanje i Accessible EU Hrvatska tradicionalno organizira "30. hrvatski simpozij osoba s invaliditetom s međunarodnim sudjelovanjem", najveći godišnji skup osoba s invaliditetom u regiji o temi **"Konvencija UN o pravima osoba s invaliditetom – o nama uvijek s nama - od slogana do realnosti", a nama je izrazita čast bila dati podršku ovoj velikoj godišnjici Simpozija.** Na Simpoziju su bili prisutni i naš krovni Savez društava multiple skleroze Hrvatske uz druge udruge članice diljem Hrvatske čime smo pokazali i značaj, važnost MS zajednice u Hrvatskoj gdje zajedno gradimo Hrvatsku bez prepreka za dobar život s MS-om.
 
 P﻿risutne su bile i udruge osoba s invaliditetom s područja Karlovačke županije poput Udruge invalida rada i ostalih osoba s invaliditetom Grada Duga Resa, Udruge slijepih Karlovačke županije, Udruge oboljelih od ME, disautonomije i fibromialgije, Udruge osoba s invaliditetom Karlovačke županije te Udruge slijepih Grada Karlovca USKA. Zajedničkom podrškom dali smo značaj 30.hrvatskom simpoziju osoba s invaliditetom čime se vidi značaj udruga na području naše lokalne zajednice. 
 
-V﻿ažno je istaknuti i kako je naša predsjednica i dopredsjednica Foruma mladih s MS-om Hrvatske Maja Liković Cipurić, mag.act.soc. sudjelovala u programu Simpozija kao panelistica u Okruglom stolu "Žene s invaliditetom". 
+V﻿ažno je istaknuti i kako je naša predsjednica i dopredsjednica Foruma mladih s MS-om Hrvatske Maja Liković Cipurić, mag.act.soc. sudjelovala u programu Simpozija kao panelistica u Okruglom stolu "Žene s invaliditetom" uz Šteficu Roginić - voditeljicu SOIH-SOS telefona za žene s invaliditetom, Gordanu Glibu - zamjenicu pravobranitelja za osobe s invaliditetom, Zumretu Galijašević Baluković - predsjednicu Mreže žena s invaliditetom pri Uniji organizacija osoba s invaliditetom Bosne i Hercegovine te Miru Katalenić - dopredsjednicu Hrvatske udruge za školovanje pasa vodiča i mobilitet. Okrugli stol je moderirala Gordana Jurčević, predsjednica SOIH-Mreže žena s invaliditetom.
+
+
 
 ![](/assets/images/bd3c32ab-459c-4f80-a4cf-65d70a474af4.jpg)
 
