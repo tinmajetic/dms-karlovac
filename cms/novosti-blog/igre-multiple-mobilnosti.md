@@ -25,3 +25,7 @@ P﻿rilog o Igrama multiple mobilnosti je prikazan u Dnevniku u 14 sati HRT4 št
 ![](/assets/images/556086835_122120138954977712_2612869583693366384_n.jpg)
 
 ![](/assets/images/lokalna-zajednica.jpg)
+
+![](/assets/images/555527073_122120138972977712_5885640791608121956_n.jpg)
+
+![](/assets/images/555555529_122120138942977712_2175762077868642662_n.jpg)
