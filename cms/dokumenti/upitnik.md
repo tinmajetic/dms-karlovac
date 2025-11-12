@@ -4,7 +4,7 @@ created-on: 2025-11-12T11:33:11.486Z
 updated-on: 2025-11-12T11:33:11.495Z
 published-on: 2025-11-12T11:33:11.508Z
 f_dokument-pdf:
-  url: /assets/images/upitnik-za-bazu-v2.pdf
+  ? url
 f__noSearch: false
 tags: dokumenti
 layout: "[dokumenti].html"
