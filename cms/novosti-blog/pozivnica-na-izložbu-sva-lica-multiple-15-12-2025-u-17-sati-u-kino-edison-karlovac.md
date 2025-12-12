@@ -6,7 +6,7 @@ updated-on: 2025-12-12T08:32:20.824Z
 published-on: 2025-12-12T08:32:20.856Z
 f_kratki-opis: Treća izložba Društva multiple skleroze Karlovačke županije!
 f_naslovna-slika:
-  url: /assets/images/otvorenje-15.12.2025.-u-1700-kino-edison-karlovac-1-.jpg
+  url: /assets/images/izložba-pozivnica-na-otvorenje.jpg
 f__noSearch: false
 tags: novosti-blog
 layout: "[novosti-blog].html"
