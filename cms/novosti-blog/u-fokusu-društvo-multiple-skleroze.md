@@ -3,7 +3,7 @@ title: U fokusu ni manje ni više, nego Društvo multiple skleroze Karlovačke �
 created-on: 2026-03-09T09:28:09.559Z
 updated-on: 2026-03-09T09:28:09.567Z
 published-on: 2026-03-09T09:28:09.573Z
-f_kratki-opis: "U fokusu: Društvo multiple skleroze"
+f_kratki-opis: Najava dobrotvorne predstave "Zašto ja" i izložbe "Multipli mozaik Karlovca".
 f_naslovna-slika:
   url: /assets/images/cleanshot-2026-03-10-at-09.44.32-2x.png
 f__noSearch: false
