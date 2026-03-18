@@ -6,8 +6,8 @@ updated-on: 2026-03-18T10:34:31.653Z
 published-on: 2026-03-18T10:34:31.694Z
 f_kratki-opis: Dobrotvorna kazališno-plesna predstava “Zašto ja” donosi snažnu i
   dirljivu priču o životu s multiplom sklerozom. Pridružite nam se 18. travnja u
-  Gradskom kazalištu “Zorin dom” u Karlovcu i podržite programe pomoći osobama s
-  ovom dijagnozom kroz donaciju.
+  Gradskom kazalištu “Zorin dom” u Karlovcu i podržite programe podrške osobama
+  s ovom dijagnozom kroz donaciju.
 f_naslovna-slika:
   url: /assets/images/ulaznice-zašto-ja-karlovac-–-kopija.jpg
 f__noSearch: false
