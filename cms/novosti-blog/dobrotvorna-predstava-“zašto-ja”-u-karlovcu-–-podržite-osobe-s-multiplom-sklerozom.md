@@ -19,8 +19,6 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-
-
 ![]()
 
 **Pozivnica na dobrotvornu predstavu “Zašto ja”**
@@ -33,7 +31,9 @@ Pozivamo vas na dobrotvornu predstavu **„Zašto ja“**, autorice Katje Vidmar
 
 Kazališno-plesna multimedijska predstava donosi dirljivu priču o svakodnevici žene s multiplom sklerozom. Kroz pokret, glazbu i riječi vodi nas u svijet Tadeje Polanšček – majke, supruge i prijateljice – čija je želja za „normalnim“ životom snažna i nepokolebljiva. Iako se suočava s boli, ograničenjima i trenucima nemoći, hrabro i prkosno nastoji živjeti punim životom.
 
-Sva prikupljena sredstva bit će usmjerena na programe podrške Društva multiple skleroze Karlovačke županije, posebno za terapije poput Bobath terapije.
+Sva prikupljena sredstva bit će usmjerena na programe podrške Društva multiple skleroze Karlovačke županije, posebno za terapije poput Bobath terapije. 
+
+Predstava se održava uz podršku Veleposlanstva Slovenije. 
 
 📅 **Subota, 18. travnja 2026. u 18:00 sati**
 
