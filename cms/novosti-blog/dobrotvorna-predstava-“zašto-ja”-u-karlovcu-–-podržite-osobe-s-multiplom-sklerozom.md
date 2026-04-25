@@ -9,7 +9,7 @@ f_kratki-opis: Dobrotvorna kazališno-plesna predstava “Zašto ja” donosi sn
   Gradskom kazalištu “Zorin dom” u Karlovcu i podržite programe podrške osobama
   s ovom dijagnozom kroz donaciju.
 f_naslovna-slika:
-  url: /assets/images/ulaznice-zašto-ja-karlovac-–-kopija.jpg
+  url: /assets/images/zašto-ja.jpg
 f__noSearch: false
 tags: novosti-blog
 layout: "[novosti-blog].html"
