@@ -19,7 +19,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-![]()
+
 
 **Pozivnica na dobrotvornu predstavu “Zašto ja”**
 
@@ -56,5 +56,3 @@ Donacije možete uplatiti na račun:
 Svi koji žele podržati ovu dobrotvornu predstavu, nakon uplate preporučene donacije od **12,00 €** mole se da se jave na e-mail [zastojakarlovac@gmail.com](mailto:zastojakarlovac@gmail.com) ili na broj 091/184-2026 radi informacija o preuzimanju ulaznica.
 
 ![](/assets/images/objava-na-instagram-bez-loga.jpg)
-
-![](/assets/images/objava-na-instagram.jpg)
