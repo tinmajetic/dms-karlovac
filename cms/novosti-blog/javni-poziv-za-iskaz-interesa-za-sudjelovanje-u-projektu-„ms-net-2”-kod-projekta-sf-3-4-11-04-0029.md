@@ -7,7 +7,7 @@ published-on: 2026-05-11T10:36:49.355Z
 f_kratki-opis: JAVNI POZIV ZA ISKAZ INTERESA osoba s multiplom sklerozom za
   sudjelovanje u projektu „MS NET 2”.
 f_naslovna-slika:
-  url: /assets/images/javni_poziv_ms_net_2_page-0001.jpg
+  url: /assets/images/ms-net-2-logo.png
 f__noSearch: false
 tags: novosti-blog
 layout: "[novosti-blog].html"
