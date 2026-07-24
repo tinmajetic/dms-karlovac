@@ -17,7 +17,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-
+![](/assets/images/dizajn-bez-naslova-5-.jpg)
 
 Karlovačka udruga spinalno ozlijeđenih (KaSPIN) u partnerstvu sa Zajednicom spinalno ozlijeđenih (SOZ) i Društvom multiple skleroze Karlovačke županije (DMSKŽ) poziva pripadnike ciljnih skupina na iskazivanje interesa za sudjelovanje u projektu „Ruke podrške – mreža aktivne zajednice“, koji se financira iz Europskog socijalnog fonda plus (ESF+) u okviru Poziva „Širenje mreže socijalnih usluga u zajednici“.
 
