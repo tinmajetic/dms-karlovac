@@ -7,7 +7,7 @@ published-on: 2026-06-29T05:34:58.336Z
 f_kratki-opis: Javni poziv za iskaz interesa za sudjelovanje u projektu Ruke
   podrške – mreža aktivne zajednice SF.3.4.11.04.0052
 f_naslovna-slika:
-  url: /assets/images/dizajn-bez-naslova-5-.jpg
+  url: /assets/images/logo_kaspin_txt_200x200.png
 f__noSearch: false
 tags: novosti-blog
 layout: "[novosti-blog].html"
