@@ -23,3 +23,5 @@ Otvorenje će se održati u srijedu, 01.07.2026. u 09:00 sati na prvom katu Grad
 Bilo bi nam uistinu drago kada bi svojim dolaskom dali svoj doprinos našoj viziji Karlovačke županije bez prepreka za dobar život s MS-om koju gradimo i ovom izložbom, a to je ujedno naše drugo sudjelovanje na Zvjezdanom ljetu! Radovi su nastali u našem Nevidljivom dvorištu ideja koje se nalazi u Banjavčićevoj 20 u Karlovcu, a u koje su svi uvijek dobrodošli. Dođite i upoznajte sva lica multiple i kroz ovaj Multipli mozaik Karlovca jer izložba će biti otvorena do samog rođendana Grada Karlovca, odnosno do 13.07.2025. 
 
 "Multipli mozaik Karlovca“ prikazuje doprinos Društva multiple skleroze Karlovačke županije lokalnoj zajednici kroz motive Grada Karlovca viđene kroz ruke i oči osoba s multiplom sklerozom.
+
+![](/assets/images/4.jpg)
